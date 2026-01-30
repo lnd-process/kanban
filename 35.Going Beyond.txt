@@ -1,0 +1,35 @@
+Going Beyond
+In this section, you have learned the metrics used by most Kanban teams.
+
+
+
+They are the fundamental metrics for managing your workflow.
+
+
+
+However, there are more advanced metrics used by more experienced Kanban teams.
+
+
+
+To ensure that you have an initial understanding of them, I attached two articles about the following topics:
+
+
+
+Service Level Expectations (Source: Kanbanize)
+
+https://kanbanize.com/blog/kanban-service-level-expectations/
+Aging WIP Chart (Source: Kanbanzone)
+https://kanbanzone.com/2019/aging-work-in-progress/
+
+
+
+ps: notice that the tools discussed in the articles are not currently supported by KanbanTool.
+
+
+
+If you have any questions, please, let me know.
+
+
+
+Tài nguyên cho bài giảng này
+

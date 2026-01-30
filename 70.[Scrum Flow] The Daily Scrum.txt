@@ -1,0 +1,156 @@
+Now, let's talk about the Daily Scrum, which, as the name suggests,
+
+is a meeting that occurs daily.
+
+During this meeting, which is timeboxed to 15 minutes, the Developers
+
+get together to talk about their progress toward the Sprint Goal and
+
+to adapt the Sprint Backlog as needed.
+
+It is held every working day at the same time and place.
+
+Why, Mirko?
+
+To reduce complexity.
+
+So, what do we talk about?
+
+Well, most teams have each member to answer three questions.
+
+First, what did I do yesterday that helped the team to meet the Sprint Goal?
+
+Second, what will I do today to help the team meet the Sprint Goal?
+
+And third, do I see any impediments that prevents me or the team
+
+from meeting the Sprint Goal?
+
+Notice that using this three questions to drive the meeting is just an example.
+
+The Developers set how to conduct the meeting.
+
+The important thing is that the meeting focuses on assessing the team's progress
+
+toward the Sprint Goal and produces an actionable plan for the next day of work.
+
+Notice that the Daily Scrum is not a technical problem-solving meeting.
+
+If someone is having a hard time with a task, she should make the
+
+other Developers aware during the meeting and maybe ask for help.
+
+However, it is not that time to discuss the solution to the problem.
+
+Often the Developers meet throughout the day for detailed discussions or to
+
+adapt the rest of the Sprint's work.
+
+Just for you to have a feel about how a Daily Scrum would go, let's
+
+simulate one here really quickly with the assistance of a Scrum board.
+
+For this purpose, let's assume that we have a Scrum Team composed of three
+
+Developers, Michael, John, and Alicia.
+
+And that this is the first Daily Scrum of the Sprint.
+
+Let's also assume that the Developers decided to always run the meeting
+
+using an alphabetical order and the three popular questions that I have
+
+presented earlier in this course.
+
+Since this is the first Daily Scrum of the Sprint, we will assume
+
+that there are no impediments.
+
+Alicia could start by choosing to work on these tasks.
+
+That's why we moved them to the work in progress column and marked it with an
+
+A, her name's initial, just so everybody knows that she's working on these tasks.
+
+John chooses to work on these ones and Michael, on these ones.
+
+Notice that, after the Daily Scrum, they might make a quick
+
+meeting to discuss technical stuff.
+
+Now on the next day, same time and place, they will come together
+
+to run the Daily Scrum again.
+
+Let's assume here that Alicia got done with her tasks.
+
+And chooses to work on this one today.
+
+On the other hand, John got done with this one, but not with this other one,
+
+because he had a technical problem.
+
+Then Michael volunteered to help him right after the meeting.
+
+And what about Michael?
+
+He got done with all his tasks and pulled these other ones.
+
+And this is it.
+
+Great job.
+
+https://medium.com/@mirkoperkusich/a-complete-guide-for-conducting-effective-daily-scrums-a481c853eed0
+
+71..
+We are almost getting done!
+
+There are only two more events for you to master: Sprint
+
+Review and Sprint Retrospective.
+
+Now, let's talk about the Sprint Review!
+
+As we have previously discussed, the Sprint Review is held
+
+at the end of each Sprint.
+
+Its goal is to inspect the Increment or any other outcome of the Sprint and, if
+
+needed, adapt the Product Backlog or determine any other future adaptations.
+
+Ideally, for this meeting, you will have the presence of users,
+
+customers, and internal stakeholders.
+
+For Konyu, this could be, for instance, the person in charge of operations or
+
+someone responsible for customer support.
+
+And, it would be awesome to have people representing the target customers,
+
+such as a collector or store owner.
+
+If they can't show up, the Product Owner represents their interests, but it is
+
+essential for them to be there because if they inspect the Increment, they can
+
+give the Scrum Team valuable feedback.
+
+With the collected feedback, the Scrum Team can analyze and
+
+update the Product Backlog.
+
+Further, the progress toward the Product Goal is discussed.
+
+As with all the other Scrum events, the Sprint Review is also time-boxed.
+
+For a one-month Sprint, it is time-boxed to 4 hours.
+
+For shorter Sprints, it is usually shorter.
+
+Now that you have an overview of the Sprint Review, letâ€™s learn more about
+
+how to execute one in the next lecture.
+
+See you there.

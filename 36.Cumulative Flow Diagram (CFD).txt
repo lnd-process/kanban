@@ -1,0 +1,167 @@
+In the past section, we discussed Kanban metrics and saw how to visualize
+
+them using charts such as these ones.
+
+Now, it is time to learn the Cumulative Flow Diagram, known as
+
+CFD, which is a powerful way to visualize the workflow enabling
+
+us to observe many Kanban metrics!
+
+At first, many people find it hard to interpret this chart, but it's just
+
+because they were never presented with the details of how the chart is constructed,
+
+which is what you will cover here.
+
+We will start by checking out how to construct a CFD using a spreadsheet, which
+
+is available for you to download for free.
+
+Then, I will show you how to use KanbanTool to generate
+
+the CFD automatically.
+
+Let's start with the spreadsheet and, together, create a CFD from scratch so
+
+that you understand all its details.
+
+We will start simple by using a bar chart to show the status
+
+of the tasks on each day.
+
+In the bar chart, the y-axis will be for the number of tasks and
+
+the x-axis is for the timeline.
+
+Over here we have a table in which we will enter data.
+
+For each day, we need to enter the number of tasks on each our Kanban Board.
+
+Two things to notice here.
+
+First, I am currently using days for the timeline, but you could
+
+change it to whatever fits you best.
+
+Second, I assumed that our Kanban board has only three columns; in other words,
+
+our workflow has only three steps: NOT STARTED, IN PROGRESS, and DONE.
+
+Everything that I will explain from here on applies to the cases in which
+
+our Kanban board has more columns.
+
+Now, let's simulate an example here so that you can visualize how we
+
+can visualize the data on the chart.
+
+Let's initiate by defining that we had two tasks as NOT STARTED on day zero.
+
+As you can see, the bar chart is updated, showing that, on day
+
+zero, the red bar, which represents NOT STARTED, has a height of two.
+
+On day one, let's say we started working on one of the tasks.
+
+As a result, we had 1 task IN PROGRESS and 1 NOT STARTED.
+
+Notice that the chart stacks two bars for day 1, each bar representing
+
+the value of a state: red for NOT STARTED and blue for IN PROGRESS.
+
+Then, let’s say that we completed one task, and a new one was
+
+created, resulting in 1 task in each of the Kanban board’s columns.
+
+Later, we completed one more task, resulting in two tasks
+
+DONE, started working on another task, and, a new task was created.
+
+Let me add more data for simulating the remaining days until we get to
+
+day seven and complete all the tasks.
+
+As you can see, this chart tracks and accumulates all the tasks that have ever
+
+entered or progressed in our workflow.
+
+Each bar shows how the tasks accumulate in each of the workflow’s steps.
+
+However, in practice, we don't use a stacked bar chart for
+
+visualizing this information.
+
+Instead, we use a stacked area chart, such as this one.
+
+This chart scares some people, but it's just because we're not used
+
+to area charts, as we are with bar or pie charts in our daily life.
+
+However, it is very similar to a bar chart.
+
+The only difference is that the area chart links the data points,
+
+showing some kind of continuity.
+
+Let me explain what I mean by comparing both of them.
+
+Let's start by linking the top of the red bars using black lines.
+
+Let's do the same for the blue bars using an orange line.
+
+Finally, let's do the same for the green bars using purple lines.
+
+Do you see that the lines we plotted are the same lines that we see
+
+separating the areas on the area chart?
+
+Now, we can complete the chart by considering that each day has all
+
+the bars, but some are not visible here because they have zero height.
+
+For example, on day one, the bar chart only shows red and blue bars, but it's
+
+because the green bars have zero height.
+
+Knowing this, we can connect the yellow and purple lines to
+
+the value of Y equal to zero.
+
+If we do the same for days zero and seven, we complete the lines.
+
+Finally, if we paint the areas under the lines, we have the area chart.
+
+Now that you understand how to construct a CFD from scratch using a spreadsheet,
+
+let's take a quick look at how to use KanbanTool to generate it automatically.
+
+Open your Kanban board, click on Tools, then on Analytics.
+
+This window will open.
+
+Then, click on Cumulative Flow.
+
+The CFD is displayed.
+
+Since I haven’t messed a lot with my Kanban Board, the CFD doesn’t
+
+show anything interesting, but the point here is only to show you how to
+
+use KanbanTool to generate the CFD.
+
+The main takeaway from this lecture is that the CFD tracks the tasks and
+
+shows how they accumulated in the Kanban board’s columns for a given period.
+
+I have shared this spreadsheet with you and advise you to play around
+
+with it for a bit to understand better how a CFD works before moving on.
+
+Even though the CFD is similar to a bar chart, it allow us to
+
+analyze the workflow's stability over time more intuitively.
+
+We will start discussing this in the next lecture.
+
+See you there!

@@ -1,0 +1,598 @@
+40.
+In the past sections, we have discussed how to adopt Kanban, going over
+
+its four fundamental principles, six general practices, and how to apply
+
+Kanban techniques such as limiting Work In Progress and analyzing the
+
+Cumulative Flow Diagram following these principles and practices.
+
+This section complements what we have already discussed by covering this
+
+five-step roadmap on how to adopt Kanban.
+
+Ready to get deeper into Kanban?
+
+So, I will see you in the next lecture!
+
+4140.
+In the past sections, we have discussed how to adopt Kanban, going over
+
+its four fundamental principles, six general practices, and how to apply
+
+Kanban techniques such as limiting Work In Progress and analyzing the
+
+Cumulative Flow Diagram following these principles and practices.
+
+This section complements what we have already discussed by covering this
+
+five-step roadmap on how to adopt Kanban.
+
+Ready to get deeper into Kanban?
+
+So, I will see you in the next lecture!
+
+41.
+.
+econd step of the five-step roadmap is “Prioritize the work.”
+
+Prioritizing is about classifying the tasks given their level of importance.
+
+This step is essential because, before adopting Kanban, many teams have members
+
+multitasking and treating the tasks as if they all have the same urgency.
+
+And, as we previously discussed, this behavior hurts the team’s productivity.
+
+One example of how to prioritize tasks is to classify them as “Must Have,” “Should
+
+Have,” “Could Have,” or “Won’t Have.”
+
+This classification scheme is known as MoSCow prioritization
+
+and is widely used by agile teams.
+
+The priority of the tasks must be reflected on the Kanban Board’s leftmost
+
+column, having the ones with higher priority on the top of the column.
+
+At this point, you will have identified and prioritized the work,
+
+being in good shape for conducting
+
+the roadmap’s third step, which we will discuss in the following lecture!
+
+42.
+
+Hình thu nhỏ của bài giảng
+0:00 / 0:00
+Phiên âm
+The third step is to map the workflow on your board, which in practice
+
+means defining your board's columns.
+
+The critical thing to consider here is that, at this stage,
+
+we don't create a new workflow.
+
+Instead, we start with what we currently have.
+
+In other words, at this stage, we focus on setting up the board
+
+for the team's current workflow.
+
+In the following lecture, we will discuss the roadmapâ€™s next step.
+
+43.
+Now that we have the workflow mapped, on the fourth step, we define Work In
+
+Progress limits, of course, because we do not want the team's flow to have queues.
+
+Setting up the WIP limits is an empirical process; in other words, the team
+
+learns the ideal limits by observing the workflow and making adjustments.
+
+However, we can define the initial limits by considering the number
+
+of people available for each column and the work's complexity.
+
+In the following lecture, we will wrap up this section by discussing
+
+the roadmap's fifth and last step.
+
+44. 
+Finally, we are at the last step of adopting Kanban: “Enter Kaizen Cycle.”
+
+Here is where Kanban’s mindset is really put into action.
+
+Kaizen is a Japanese word that means "improvement".
+
+And, when I say "improvement", we automatically think about "change".
+
+But, changing what?
+
+Changing the process.
+
+Kanban is a mechanism to guide changes in the team’s processes by focusing
+
+on reducing waste, such as queues, and making the process more efficient,
+
+in other words, reducing the team's cycle time and lead
+
+time and increasing throughput.
+
+With Kanban, and this is also true with any lean or agile approach, there is
+
+no such thing as a universal cookbook with all the details about the ideal
+
+configuration of Kanban for your team.
+
+Thus, it is up to the team members to collaborate and use their
+
+knowledge and intelligence to empirically configure Kanban’s
+
+aspects, such as the Work-In-Progress limits, to suit their needs.
+
+They do that by following a build-measure-learn loop, where they
+
+start with ideas, build their workflow and define the team's policies and metrics.
+
+Then, they measure their workflow, learn by analyzing the collected data,
+
+come up with new ideas, and so on.
+
+For this purpose, it is crucial to define feedback events, which are planned
+
+timeslots for the team to come together and inspect their progress by, for
+
+example, analyzing the Continuous Flow Diagram and defining process improvements.
+
+For example, some teams hold such meetings weekly, and others
+
+have them every other week.
+
+It is up to the team to decide the frequency that suits them best.
+
+Another example of a feedback cycle is holding short daily meetings
+
+to allow the team to synchronize tasks and analyze their workflow.
+
+For example, they could discuss if the flow is going slower than
+
+expected or if there are items that are taking too long to complete?
+
+If it is the case, what can they do to get faster and complete these tasks?
+
+In summary, to kick off your Kanban initiative, there is no mystery;
+
+there is no need to hire, there is no need to create new positions,
+
+and there is no need to define new processes or update existing ones.
+
+You just need to identify the work, prioritize it, map the existing workflow,
+
+limit Work In Progress, and start inspecting your process and adapting.
+
+It is an evolutionary process, where the team defines their workflow, policies, and
+
+metrics continuously as they learn more.
+
+But, we are not done yet.
+
+In the next section, let's discuss common mistakes people make when adopting Kanban
+
+to avoid having you fall into these traps.
+
+See you there!
+
+45.
+In this section, we will quickly cover common mistakes when adopting Kanban.
+
+The first classic mistake of Kanban beginners is not defining
+
+the Work In Progress limits.
+
+Many people think this is a Kanban Board, but it is not!
+
+Why?
+
+Because it is missing the Work In Progress limits.
+
+Are you using Work In Progress limits?
+
+If the answer is no, you are not using a Kanban Board and,
+
+of course, not adopting Kanban.
+
+It is as simple as this.
+
+Many beginners don’t define Work In Progress limits because they don’t know
+
+how to come up with the ideal limits.
+
+However, as we have discussed in this course, these limits are Kanban’s primary
+
+weapon to solve the queue problem.
+
+Thus, you should define initial Work In Progress limits following
+
+the tips provided in this course and, later, enter the Kaizen
+
+Cycle and adjust them as needed.
+
+We are done talking about the first classical mistake when adopting Kanban.
+
+Let’s discuss one more in the following lecture.
+
+See you there!
+
+46.
+The first classic mistake is not defining Work In Progress limits.
+
+The second one is closely related: not respecting Work In Progress limits.
+
+Some beginners define the limits and feel like everything is fine.
+
+In this example, notice that the Work In Progress is already at
+
+the limit for this column meaning that no tasks could be pulled.
+
+Then, a new task is created.
+
+A task that is not urgent, according to the team’s policies.
+
+And, what do they do?
+
+They start working on it, even though they're breaking the limits!
+
+because “it is an exception” and “we are only doing it once.”
+
+But, guess what happens?
+
+This “only once” situation will start to happen over and over again.
+
+And as a consequence, Kanban’s potential benefits will be destroyed.
+
+If you want to implement a culture of continuous flow, respect the WIP limit.
+
+Do the possible and the impossible to follow such limits.
+
+You should only ignore these limits if the task is urgent according to the team’s
+
+policies, as we discussed in this course.
+
+And, if this is the case, make sure that the urgent task is easily distinguished
+
+on the board by using different colors and a dedicated swimlane.
+
+Let’s discuss one more mistake in the following lecture!
+
+See you there!
+
+47.
+
+At this point, we have discussed two common mistakes when adopting Kanban.
+
+The third one is about working on ghost tasks.
+
+And what is a ghost task?
+
+It is a task that a team member is working on but is not shown on the Kanban Board!
+
+If it's not on the board, the team can check the Work In Progress
+
+limits and loses track of key metrics such as cycle time and lead time!
+
+The classic example is whenever your boss asks you to work on something else, even
+
+though you are already assigned to work on items that are on the Kanban Board.
+
+But, you say “yes,” even though it is against the team’s policies because you
+
+are afraid of saying “no” to your boss.
+
+Your boss shouldn’t be doing this, but, unfortunately, in
+
+real life, many of them do.
+
+What to do?
+
+Your team should talk about the issue with your boss and discuss the implications
+
+of such behavior on the team’s efficiency and the value delivered to the client.
+
+And, collaboratively, you should be able to, as professionals, come up
+
+with a work agreement that will be beneficial for your organization.
+
+We are done talking about “ghost” tasks.
+
+Let’s discuss one more mistake in adopting Kanban in the following lecture.
+
+See you there!
+
+48. At this point, we have covered three common mistakes that
+
+beginners do when adopting Kanban.
+
+Let’s now discuss the fourth, and last, common mistake: ignoring
+
+the Cumulative Flow Diagram.
+
+Some beginners ignore it because it seems easier to measure performance and manage
+
+flow by looking at the Kanban Board.
+
+For example, we can see that we have a large queue forming on the Review column.
+
+However, the Kanban Board is just a snapshot of the current situation.
+
+The CFD gives you historical data, enabling the team to identify trends
+
+by analyzing the chart and visually seeing how key metrics such as the Lead
+
+Time, Cycle Time, Work in Progress, and Throughput has been changing.
+
+Thus, don’t be lazy in setting up or understanding the CFP just
+
+because you are not used to it.
+
+The CFD is as easy to understand as a pie or bar chart, you might
+
+just need a little bit of time to get more familiarized with it.
+
+Given this, keep your CFD updated, and be sure to monitor it frequently.
+
+And, this is the last common mistake in adopting Kanban that
+
+we will discuss in this course.
+
+49.
+In this course, so far, you learned that
+
+Kanban is a way of optimizing the flow of value by using
+
+a process based on a visual, Work-In-Progress limited pull system.
+
+As a result, it helps you to solve the queue problem, remove waste,
+
+and focus on the essentials.
+
+We learn many Kanban tools such as Kanban Board, limiting Work In Progress, metrics,
+
+Cumulative Flow Diagram, and more.
+
+Kanban has been adopted in many contexts.
+
+Several agile initiatives use Kanban to improve the way they work.
+
+Even traditional, plan-based initiatives use some of Kanban’s
+
+aspects, such as the board, to enhance communication and workflow.
+
+However, remember when I talked about Toyota at the begging of the course?
+
+Kanban was created by Toyota and was part of a system known as the
+
+Toyota Product System, which we usually refer to as “lean thinking.”
+
+Kanban is a powerful management tool; however, it is not a
+
+pillar of Lean thinking or the secret to Toyota’s success.
+
+Lean thinking goes beyond management tools.
+
+It is about having the organization committed to continuously respecting and
+
+investing in its people and promoting a culture of continuous improvement.
+
+The organization should create an environment that encourages people to
+
+challenge everything and embrace change.
+
+Lean thinking is about teamwork and challenging the status quo by
+
+constantly analyzing what you're doing and looking for ways to improve.
+
+Kanban is a tool for bringing Lean thinking to life.
+
+Thus, if you want to make the most out of Kanban, your organization must follow the
+
+two principles of Lean thinking, respect for people, and continuous improvement.
+
+Notice that Lean thinking principles closely relate to the 4 Kanban Principles
+
+discussed earlier in this course.
+
+The primary outcome here is that principles come over practices or tools.
+
+Having said this, I hope you feel ready and motivated to put Kanban into practice!
+
+But, the course is not over yet!
+
+In the following sections, you will learn more about how Kanban relates to
+
+the agile mindset and tools that will improve your chances of succeeding
+
+with your Kanban initiatives!
+
+Let’s keep moving.
+
+50. 
+As we saw in this course, the Kanban Board is universal and can be applied
+
+to pretty much any organization.
+
+Setting the Kanban board aside and talking about the Kanban Method,
+
+which is more comprehensive, I have already mentioned that it fits
+
+well with most agile approaches.
+
+A common case is to combine Kanban with the most used agile
+
+approach in the world, Scrum.
+
+The resulting combination is what many people call Scrumban.
+
+Scrumban focuses on agility and continuous value delivery
+
+to the client, and it fits well for various industry sectors.
+
+Given this, this course wouldn’t be complete if it didn’t cover Scrumban.
+
+Since it is possible that you are not familiarized with Scrum yet, before
+
+getting into Scrumban, the following section covers Scrum fundamentals.
+
+If you have already mastered Scrum, you can skip it.
+
+As a quick note, if you decide to skip the Scrum section, I suggest you mark all the
+
+lectures as done to avoid having issues with the course completion certificate.
+
+Ready for the final push and get done with the course?
+
+I will see you in the next lecture!
+
+51.
+
+Let's get started at full throttle by understanding, in
+
+a nutshell, how Scrum works.
+
+Scrum is very simple.
+
+You start with a problem.
+
+It might be, for instance, developing a new product or service.
+
+Examples here include building new software or adding new features or
+
+fixes to an existing one, designing a new car or building, developing an
+
+innovative marketing strategy for your company, a new online course, and so on.
+
+In Scrum, the team takes the problem and breaks it into smaller chunks.
+
+For an e-commerce website, breaking the problem would be listing its
+
+features such as sign up and login pages, having support for Content
+
+Management System features, having payment methods, registering products,
+
+shopping cart, product search, and so on.
+
+The team lists everything in a to-do list called the Product Backlog.
+
+This list is ordered so that the work on the top has a higher
+
+priority than the work on the bottom.
+
+Afterward, during a team event called the Sprint Planning, the team collaboratively
+
+selects a few of the top to-do items such as "developing sign up and login pages" to
+
+compose what is called the Sprint Backlog.
+
+The items on the Sprint Backlog are developed and delivered in what is called
+
+a Sprint, which is the heart of Scrum.
+
+A Sprint is a period of at most one month.
+
+At the end of each Sprint, a product Increment is delivered.
+
+And what is an Increment?
+
+For an eCommerce website, it is the website up and running , with
+
+the new functionality, ready to go.
+
+In other words, it is something that the customer can look at and see if it's
+
+good or not; if it fits their needs.
+
+If it does, great, the team is going on the right path.
+
+If not, great too!
+
+Now, the team has enough knowledge to adapt their to-do list and
+
+improve their chances of delivering the best product or service.
+
+So, the team keeps running the Sprints and refining the Product Backlog with
+
+the acquired knowledge from inspecting Increments until the customer or
+
+business decides that the product is good enough, or there's no more budget left.
+
+To make this work, Scrum prescribes events and accountabilities.
+
+Let's start with the events.
+
+Scrum is composed of five events.
+
+The first one is the Sprint, which is a container for the remaining ones.
+
+Then, we have the Spring Planning, which we have already talked about, which
+
+happens at the beginning of each Sprint.
+
+And then, we have two events at the end of the Sprint, the Sprint
+
+Review, and the Sprint Retrospective.
+
+The Sprint Review is about inspecting the Increment and
+
+adapting the Product Backlog, which we have previously discussed.
+
+The Sprint Retrospective is about the team's continuous improvement.
+
+So, it's about inspecting the team's processes and adapting them to
+
+deliver as efficiently as possible.
+
+And finally, there's the Daily Scrum, a 15 minutes event that happens daily,
+
+where the team inspects and adapts their work, giving the team complete focus
+
+on achieving the goals of the Sprint.
+
+Now, let's talk about the three accountabilities.
+
+The first one is the Product Owner.
+
+The PO is the single person accountable for managing the Product Backlog,
+
+ensuring that everybody is aligned with the work to do and that the
+
+most important stuff is done first.
+
+The Product Owner's goal is to maximize the value of the product!
+
+Then we have the Developers.
+
+They are the ones that transform the to-do list into Increments..
+
+And last but not least, we have a fancy one, the Scrum Master, the one
+
+who facilitates all of this work.
+
+Together, they form the Scrum Team!
+
+And that's it!
+
+You've done it.
+
+You had a glimpse of how Scrum works in just a few minutes!
+
+I think this might be a record.
+
+Don't feel overwhelmed if you feel like this video was too much.
+
+The idea here was just for you to get a big picture of how Scrum works.
+
+We will get into the details of everything that we have
+
+discussed here in future lectures.

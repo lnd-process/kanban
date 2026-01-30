@@ -1,0 +1,43 @@
+Can we exceed the Work In Progress limits?
+
+The answer is yes, but only in exceptional cases, specifically
+
+when we have urgent items.
+
+As discussed in past lectures, we can modify our traditional
+
+Kanban Board and have a swimlane exclusive for urgent tasks.
+
+Or, instead of having a swimlane, we could just have a
+
+different color for urgent cards.
+
+Independent of how we represent urgent items, in this situation,
+
+we can exceed the Work In Progress limits because we need to do whatever
+
+is necessary to get done with the urgent card as fast as possible.
+
+However, whenever we have urgent items, we disturb the workflow.
+
+Thus, the team must define the policies of what constitutes a task as urgent.
+
+You shouldn't have urgent tasks coming up all the time.
+
+They should be exceptions, but this will only be the case if the teams
+
+defines explicit, well-defined, and agreed-up policies for urgent items.
+
+Thus, answering our original question: yes and no!
+
+We can exceed the Work In Progress limits when we are dealing with urgent items.
+
+However, this situation should be exceptional.
+
+Therefore, in general, you must respect the Work In Progress
+
+limits and use them to guide the team in optimizing the workflow,
+
+making it balanced and predictable.
+
+

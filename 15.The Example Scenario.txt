@@ -1,0 +1,83 @@
+As I have previously mentioned, this section’s goal is to learn how to create
+
+a professional Kanban board from scratch.
+
+In other words, you will leave this section ready to create a Kanban board
+
+for your organization or personal work.
+
+For this purpose, we will use the example of the marketing agency as the context.
+
+In other words, from here on, we will simulate scenarios of applying
+
+Kanban to the marketing agency.
+
+Notice that, the focus here is on Kanban, not on marketing.
+
+I had to choose one example because it would be unfeasible to run the
+
+scenarios using each industry domain.
+
+I chose marketing and this example of article production because it
+
+is a simple scenario that all the students can easily understand.
+
+Thus, if you are from other areas, don’t worry because I will give
+
+examples from other industry domains throughout the course.
+
+And, if there is a specific issue from your industry domain that
+
+you have questions about, send me questions on the course’s Q&A board
+
+and I will be happy to answer them.
+
+Further, while I work on the example project, I encourage you to try
+
+to apply the concepts to your organization or personal work tasks.
+
+The value of doing this is that you might have important insights or
+
+questions that you can ask me, helping you to get the most out of this course.
+
+Going back to our marketing agency, we will assume that
+
+it has a team of six members.
+
+The members are motivated and work hard, but, they have the feeling
+
+that they are not productive.
+
+This is common in teams that don’t adopt Kanban and end up having several symptoms
+
+of low productivity such as not having clear priorities, using different tools
+
+to manage work, absence of standards, and not meeting goals and deadlines.
+
+Further, unproductive teams usually don’t collaborate, having each person only
+
+aware of their own responsibilities.
+
+Usually, unproductive teams are always overwhelmed, having many different
+
+sources of work - a manager handles one desk, another manager gives another
+
+one, a former leader of an old project tells one of the team members to work on
+
+tasks from the old project, and so on.
+
+In summary, this scenario is very discouraging.
+
+Because of all these issues, we are assuming that the marketing agency
+
+decided to adopt the Kanban Method to see if it would help them manage their
+
+workflow and become more efficient.
+
+And, Kanban Method’s first step is to identify the work that is
+
+already being done by the team to start populating the Kanban board.
+
+Let's discuss this task in the following lecture.
+
+See you there!

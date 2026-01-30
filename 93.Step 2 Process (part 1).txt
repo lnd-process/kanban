@@ -1,0 +1,245 @@
+At this point, we have already discussed GTD's this first step, collection.
+
+And now we're going to move on to the next GTD step, process.
+
+Process, is the stage of processing what we have collected.
+
+And for us to proceed, I'm going to present you the GTD
+
+flow chart with more details.
+
+Here we have a more complete flow chart.
+
+Right here, in the beginning, we have the stuff that we have collected in step one.
+
+All the items collected are recorded into the inbox, which here represents your
+
+spreadsheet, notebooks, smartphone, app, agenda, or whatever fits you the best.
+
+Now, already talking about the second step of GTD, which is the process step,
+
+we are going to define the destination of each thing we have collected
+
+each item you have written down.
+
+And to define the destination for each of the items, you start by asking yourself,
+
+should I take any action on this item?
+
+Or, in other words, is this item actionable?
+
+Examples of yes answers would be an action that I must do.
+
+That is, make a phone call, write an email, work on a document,
+
+take an online course...
+
+But maybe it might be something with no value for me, such as receiving an email
+
+of stuff that I am not interested in.
+
+So, what do I do?
+
+I trash it.
+
+Or maybe a second alternative, something with value, but not for now.
+
+Maybe, it's an idea of a book or a course that I would like to take, but recognize
+
+that it's not important for me right now.
+
+So, I won't really need to take action now.
+
+So what do I do?
+
+I store it at someday or maybe, and that is why we have a tab called
+
+someday/maybe in your spreadsheet.
+
+So in this tab, you have things that maybe one day you will do.
+
+For example, an idea that you took note of, but you're not going to plan or
+
+execute right now, for instance, I know I need to paint my room, but not today.
+
+Maybe next week, maybe two weeks from now.
+
+I don't know.
+
+I'm not going to plan this right now.
+
+So, in these situations, what do you do?
+
+Just add it to the someday/maybe list, take it out of your head, got it?
+
+And the third possible destination for non-actionable
+
+items is simply to archive them.
+
+The best example for this is an email, you know that email that you have read,
+
+but you don't have to take any action on it, but also you don't want to delete
+
+it because it can be useful sometime...
+
+maybe you receive a copy of a contract, or your insurance policy.
+
+There is no action you need to take on it.
+
+Hopefully, you'll never need it, but you better store it.
+
+I like to file, to save as reference content that I know that sometime it
+
+might come very handy, such as templates and guidelines for how to create a resume
+
+maybe, or maybe websites with interesting online courses that I could take.
+
+Also, for instance, I produce a lot of content daily, be it for teaching
+
+something, publishing a scientific article, or more industry-focused
+
+papers on project management, software engineering, productivity, and such.
+
+So, whenever I come across interesting blog posts, scientific articles,
+
+examples, books, and so on...
+
+that I think that might come in handy for me as a reference in the
+
+future, maybe to reuse in an example or something, I just record it.
+
+And this simple task of referencing might save you a lot of time.
+
+Therefore, we have three possible destinations for non-actionable items.
+
+It either goes to waste, the list of someday/maybe, or you
+
+will save it as a reference.
+
+Got it?
+
+So, at this point, we have covered the initial part of processing.
+
+We are separating the items that we must act upon from the others.
+
+Think of it as a filter.
+
+As input, you had all your stuff, and as output, you will only have
+
+to worry about the actionable stuff.
+
+All the other stuff you have already classified as waste, someday/maybe, or
+
+you have filed for future reference.
+
+Great!
+
+Now it's time to see what happens with the actionable stuff.
+
+In other words, stuff that you must take action.
+
+So coming back to this image...
+
+we are done with this part, and now we have to worry about these ones.
+
+And, at this point, you need to ask yourself, what is the
+
+first action on the given item?
+
+Or what is the next action on the given item?
+
+You think about what's the first thing you need to do to accomplish the item.
+
+Is it making a phone call, answering an email, generating
+
+a report, creating a checklist?
+
+So now you need to think about this.
+
+If you have an item that is just about making a phone call, just writing an
+
+email, or just a little short report.
+
+You can get it done in just one action.
+
+In one sitting, you get it done.
+
+Do you agree?
+
+If it's just about making a call, you just make it, and then you're done.
+
+If you just need to reply to an email, you just sit reply or
+
+email, and you're done, right?
+
+Your problem is solved, but there are also some items that require
+
+more than one action to be resolved.
+
+For example, if you need to plan a vacation trip.
+
+In that case, what would be the first action?
+
+Maybe you're gonna call the travel agency.
+
+But, you know you're going to have to look for hotels, put together a
+
+vacation script, maybe invite friends.
+
+So a vacation trip is like a multi-step planning item.
+
+So in GTD, we call this a project.
+
+And, in our spreadsheet, you're going to place projects in a specific
+
+destination, which is your project's tab.
+
+Then, you're going to fill the lines with the projects, and you just need to
+
+register the first action to be performed.
+
+You don't have to think about all the steps, just the first
+
+one, the next one, got it?
+
+So this is what you do when you have multi-step items.
+
+You just store it as a project and think about the next action.
+
+So, now we have just talked about this one.
+
+Now, what do you do?
+
+If you have an item that only requires one action to be completed?
+
+The first thing you do is to check if it can be done in less than two minutes.
+
+If yes, what do you do?
+
+Do it!
+
+Do not leave it for later.
+
+Do not write it down elsewhere.
+
+Do not schedule.
+
+Just solve it right now.
+
+If it takes at most two minutes, just kill it, solve it right now.
+
+The idea here is to avoid having you wasting more time managing a
+
+to-do list than getting work done.
+
+So, an example here is just a short email that you have to answer or
+
+maybe a message from your boss, but a really simple message.
+
+So just reply to it really fast whenever you're processing.
+
+Now, if the item cannot be solved in two minutes, what do you do?
+
+Let's talk about this in the next lecture.
+
+I'll see you there.

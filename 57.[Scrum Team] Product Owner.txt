@@ -1,0 +1,165 @@
+Let's talk about the Product Owner.
+
+The PO maximizes the value delivery chain.
+
+In other words, he or she is accountable for maximizing the value of the
+
+product resulting from the Scrum Team.
+
+Think about what I just said for a little bit.
+
+Do you agree?
+
+Or is this a very radical view?
+
+If you agree with me, you might agree that the PO can be seen as the optimization
+
+entity with the power of making the team rapidly deliver the desired product
+
+or, in the worst case, make it run in circles or never release something useful.
+
+Now you might ask.
+
+Mirko, assuming that you are right, how does the PO do that?
+
+By managing the Product Backlog within the Scrum Framework.
+
+It all starts with developing and explicitly communicating the Product
+
+Goal, which is the long-term objective for the Scrum Team.
+
+Why is having the Product Goal important?
+
+To answer that, let's refer to a classic story, Alice in Wonderland.
+
+One day, Alice came to a fork in the road and saw a Cheshire cat in a tree.
+
+"Which road do I take?"
+
+she asked.
+
+His response was a question: "Where do you want to go?"
+
+"I don't know," Alice answered.
+
+"Then,", said the cat, "it doesn't matter."
+
+See?
+
+Giving the Scrum Team a goal to fulfill gives it a sense of purpose,
+
+helping it to make better decisions.
+
+We will talk more about the Product Goal and more details on how the
+
+Product Backlog is managed by the Product Owner later in this course.
+
+For now, let's have an overview of how the Product Owner maximizes the value
+
+of the work performed by the Scrum Team.
+
+It all starts with some business people with a lot of ideas for a product.
+
+Therefore, here we have the business side.
+
+For instance, let's consider the following problem.
+
+Japan is a country with a very strong culture, producing goods in
+
+several domains, such as fashion, cooking, games and collectibles.
+
+There are several online stores in Japan, but some of them don't ship abroad or
+
+have all the information in Japanese, making the life of foreigners very hard.
+
+A particular website that brings the attention of many buyers from
+
+the other countries is Yahoo!
+
+Auctions Japan.
+
+But as I said, it only sells to people that live in Japan.
+
+So, how can we provide a service for people that live
+
+abroad to buy stuff in Japan?
+
+A solution is to build a proxy service such as a website, which is connected
+
+to Yahoo and that could serve as an interface for people to buy in Yahoo.
+
+You might visualize that there are several features that this website should have,
+
+such as searching for a product, buying, a shopping cart, payments, and so on.
+
+At this point, you have a better understanding of what
+
+happens on the business side.
+
+On the other end, we have the Developers, who transform the ideas into value,
+
+in other words, usable products.
+
+But where is the PO?
+
+The PO is right here.
+
+So, in general, the PO's job is to analyze the ideas from the
+
+business people and transform them into requests for the Developers.
+
+The list of requests is what we call the Product Backlog.
+
+The challenge is that the ideas come up way faster than their development.
+
+Therefore, the Product Owner is responsible to consider inputs
+
+from the business and technical people and define a sequence in
+
+which the requests are fulfilled.
+
+Such as sequence must maximize the value delivered by the Developers,
+
+satisfying business needs.
+
+For this purpose, the most important requests must be
+
+fulfilled earlier in time.
+
+In other words, they must come first and are placed on the
+
+top of the Product Backlog.
+
+Got it?
+
+An important point to keep in mind is that the Product Owner is not a bridge
+
+between development and business.
+
+They can talk to each other if needed, but the business people cannot interrupt
+
+or try to command the Developers.
+
+And, who is here to make sure that all this works efficiently?
+
+The Scrum Master.
+
+As we saw, the Product Owner maximizes the value delivery chain.
+
+Now, since business ideas are created faster than they can be developed, do
+
+you think the Product Owner needs to act like a filter rejecting or accepting
+
+requests from the business stakeholders?
+
+No, definitely not.
+
+The Product Owner just needs to make sure that the requests are ordered correctly.
+
+Having the most important ones come first.
+
+This is part of what we call Product Backlog management.
+
+We will talk about how the Product Owner manages the Product Backlog later.
+
+Now, let's move to the next lecture!

@@ -1,0 +1,111 @@
+As you already know, the Kanban Method contains four fundamental principles
+
+to promote the continuous improvement of the organization's processes.
+
+Let's discuss them right now.
+
+As I have told you previously, the Kanban Method, which was created in 2010 by
+
+David Anderson, is highly flexible and widely used by organizations worldwide.
+
+But how did it become so popular so quickly?
+
+The answer is: because of its simplicity, which is described in its four principles!
+
+Kanban’s goal is not to change the organization’s structure; it is not
+
+to create new roles, responsibilities, new titles, and change processes.
+
+No, none of that.
+
+Kanban's idea is simply to visualize the workflow or processes you and
+
+your team already follow today.
+
+Then, by applying Kanban's tools and techniques, which we will cover later
+
+in this course, you will be able to continuously improve your workflow.
+
+This leads us to Kanban’s first fundamental principle:
+
+start with what you do today.
+
+Which is the flow you follow?
+
+What are your process steps?
+
+What tools do you use?
+
+Adopting Kanban is not about making radical changes to your workflow.
+
+In fact, at first, you shouldn't change anything!
+
+Just map and optimize what you already do today.
+
+In this course, you will learn how to map your workflow and
+
+use Kanban to optimize it!
+
+Such optimizations are key to applying Kanban's second principle:
+
+agree to continuously improve.
+
+Kanban is a lean approach, which means that it is about seeking the best
+
+way to deliver products or services with as minimal waste as possible.
+
+We achieve that by continuously improving, step-by-step.
+
+With Kanban, we continuously keep an eye for bottlenecks and proceed with
+
+small, but frequent improvements, to get better and better at satisfying
+
+our customers, in a predictable manner.
+
+Kanban's third principle is about respecting current the
+
+organization’s processes, roles, responsibilities, and positions.
+
+This principle reinforces the first, where the critical point is: Kanban
+
+must be shaped to work for your organization; not the other way around!
+
+So, to use Kanban, you just need what you already have today; you do not have to
+
+train people to learn new skills or hire someone for a new role demanded by Kanban,
+
+because it does not prescribe roles!
+
+This characteristic makes it easier to be adopted because people are
+
+less fearful of having to fulfill new job descriptions or getting fired.
+
+Kanban's fourth principle is about encouraging leadership
+
+behavior from everybody.
+
+Here, we are talking about self-management, which includes having
+
+people feel responsible for their work and results, and proactively seeking
+
+to understand the whole value delivery chain; every step necessary for value
+
+to be delivered to the customers.
+
+In other words, people need to quit being task doers and collaborate
+
+more, having a whole-team perspective.
+
+In summary, these are the four fundamental principles of Kanban.
+
+First, start with what you do today.
+
+Second, agree to continuously improve.
+
+Third, respect current processes, roles, responsibilities, and positions.
+
+And fourth, encourage leadership behavior from everybody.
+
+In the following lecture, let's discuss the six key Kanban practices.
+
+See you there!

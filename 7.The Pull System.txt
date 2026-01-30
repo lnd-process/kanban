@@ -1,0 +1,225 @@
+How does Kanban tackle the queue problem, promote the ongoing flow of
+
+value and avoid the waste of resources?
+
+The answer is Kanban’s Pull System!
+
+Let us go over this concept by going back to the task board
+
+discussed in the past lecture.
+
+As previously discussed, we have a queue formed
+
+in the Review column.
+
+This queue is getting formed because the
+
+people writing the articles are not checking if there are reviewers available.
+
+The writers are simply writing as many articles as possible and
+
+pushing them forward to the next column, the "Review" column.
+
+As a consequence, the articles to be reviewed accumulate, and the writers
+
+expect the reviewers to handle them because, you know, they are using the
+
+mindset "my job is to write articles.
+
+I am doing my part and I'm not responsible for the next steps".
+
+This mindset and strategy reflect
+
+a Push System.
+
+Each person takes care of their work and pushes the article’s card
+
+to the next step, transferring the responsibility to the person in charge.
+
+There seems to be nothing wrong with this, right?
+
+In contrast, in a Pull System, the person on the right on the board drives the flow.
+
+Thus, in this example, the writers don't push work to the reviewers; the
+
+reviewers pull work from the writers.
+
+To clearly understand how a pull system works and its impact on the flow, let
+
+us see, in practice, how it works.
+
+We will start by taking a step back when there were no articles written.
+
+Initially, I would have all articles that need to be written
+
+in the NOT STARTED column.
+
+Before moving on, we need to make two adjustments to this Kanban board.
+
+The first adjustment is breaking down these two intermediate
+
+columns of the board into two, like this, to track when these columns
+
+have work in progress or done.
+
+And the second adjustment is to define the maximum number of items I
+
+can have in each column, like this.
+
+Notice that we have two numbers for each column.
+
+The number on the left indicates the number of items currently in
+
+progress, and the one on the right indicates the maximum number of items
+
+in progress that the column holds.
+
+For example, for the "Write" column, we have zero items in progress and a
+
+maximum limit of work in progress of one.
+
+I know you may be wondering about the purpose of these modifications,
+
+but don't worry about it; just follow the explanation because
+
+you will learn along with it.
+
+Now, we are ready to start!
+
+Remember, there is only one rule that everybody must follow: work is pulled!
+
+For example, if I am responsible for writing articles, I will start
+
+the flow by picking up a card.
+
+Say I choose to work with this article about leadership and start working on it.
+
+Notice that the number here on the left increase, indicating that we have
+
+one item in progress for this column.
+
+While I am working on this article, can I, or any other person, pull
+
+another article to be written?
+
+No!
+
+Why?
+
+Because we have reached the limit of items that can be in
+
+progress for the “Write” column!
+
+Let us assume that I am done with the article and move
+
+it to the "Done" sub-column.
+
+Notice that the card is still in the "Write" column, but it has
+
+moved from the “In Progress” sub-column to the “Done” sub-column.
+
+Now, a reviewer notices that a new article is done; what does she do?
+
+She pulls the card to the “Review” “In progress” sub-column and
+
+starts to review the article.
+
+Now, notice that we opened space in the “Write” column!
+
+Thus, let us keep going and assume that one more article was pulled
+
+from the “Not started” column.
+
+Whenever it is done, it is moved to the right.
+
+At this moment, can a reviewer review a new article?
+
+Yes, because the limit of articles in the REVIEW column is two, and we
+
+currently only have one in progress.
+
+Thus, the second article is pulled to the right.
+
+And, this is how the flow goes: the items only move to the right if allowed
+
+by the work in progress limits and if someone is available to pull it.
+
+Let us now assume that a new article was written and is ready to be reviewed,
+
+but two articles are still here.
+
+In other words, we have reached the limit for both the “Write” and “Review” columns!
+
+What happens?
+
+Well, the newly written article cannot be pulled for review, and we
+
+cannot start working on a new one, which means that we are blocked!
+
+If we didn’t have the work in progress limits and kept writing
+
+new articles, we would just form a huge queue at the “Review” column
+
+because it is clearly a bottleneck!
+
+Keeping writing new articles is a waste because it won't help
+
+create real value, which is only achieved whenever articles are done.
+
+In this course, we will discuss how to deal with a situation like this
+
+in detail, but, in summary, there are two simple solutions: have writers
+
+review articles or hire more reviewers!
+
+And this is the beauty of the Pull System!
+
+In a straightforward way, it helps the organization visualize its
+
+workflow status and helps people detect waste and optimize the process!
+
+Now, let's go back to our example.
+
+The people kept working, and we got into this scenario: all the steps are blocked!
+
+Then, notice the incredible magic of the Kanban Method:
+
+let us assume that we got done with this article about “Shyness.”
+
+What happens?
+
+For each new item that is done, a new slot is released at the column to the left,
+
+making it available to pull more work.
+
+Given that we got done with this article about “shyness,”
+
+we can now pull one article to the “Review” column.
+
+And by doing so, we open up one slot in the "Review" column.
+
+Then, we can pull one more article to be reviewed, opening up on slot for the
+
+“Write” column, which means that the team can start writing another article!
+
+In summary, the main idea here is that Kanban, through its
+
+Pull System, avoids queues
+
+and gives the organization insights on managing resources,
+
+removing bottlenecks,
+
+and eliminating waste by promoting an efficient creation of value.
+
+At this point, you might have understood the concept of the Pull System but might
+
+still be in doubt about why Kanban is crucial for organizations nowadays.
+
+In the following lecture, let us discuss where and when Kanban
+
+organizations apply Kanban.
+
+You will be surprised.
+
+See you there!

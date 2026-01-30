@@ -1,0 +1,17 @@
+As Kanban, Scrumban does not prescribe accountabilities for the team.
+
+In contrast, recall that Scrum has three accountabilities: Product
+
+owner, Scrum Master, and Developers.
+
+Sometimes Scrumban teams adopt Scrum’s accountabilities; sometimes, they don’t.
+
+For example, some Scrumban teams have a single Product Owner
+
+responsible for managing the Backlog.
+
+Other Scrumban teams prefer not to have a single person as a
+
+Product Owner and divide such accountability among multiple people.
+
+In conclusion, it is up to the team to define how to better organize themselves.

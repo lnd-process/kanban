@@ -1,0 +1,83 @@
+We have just talked about inspecting and adapting, focusing on the product.
+
+Now, it's time to think about the team, inspecting and adapting the Scrum Team.
+
+The Sprint Retrospective is an opportunity for the Scrum Team to
+
+reflect on their methods and teamwork.
+
+It's about making teams better, continuously improving.
+
+Maybe, your team is having interpersonal issues?
+
+Issues with the quality of the product?
+
+Maybe, the Definition of Done needs to be discussed and adjusted?
+
+Is the team having productivity issues?
+
+Maybe, caused by process issues, such as unproductive Scrum events or the
+
+Sprint length not being appropriate?
+
+These are all example of topics to be discussed during
+
+a Sprint Retrospective event.
+
+As with all Scrum events, the Scrum Master ensures that event
+
+is positive and productive.
+
+The Sprint Retrospective occurs after the Sprint Review, concluding the Sprint.
+
+It is timeboxed to three hours for one-month Sprints.
+
+For shorter Sprints, the event is usually shorter.
+
+In general, the goal is to answer three questions.
+
+What went well during the Sprint?
+
+We want to identify the good stuff and repeat them as much as possible.
+
+What didn't go well?
+
+We want to identify the best stuff too, but just identifying them is not enough.
+
+We need to come up with solutions and improve.
+
+For our case study, let's assume that Konyu's Scrum Team, after inspecting
+
+how the last Sprint went with regards to people, relationship, process,
+
+and tools, came up with these items.
+
+The Scrum Team considered that this stuff went well and these ones didn't.
+
+After discussions, they identified these improvement opportunities.
+
+Finally, the Scrum Team identified the most helpful ones and added
+
+them to the Product Backlog.
+
+You don't need to understand the meaning of each one of these improvements,
+
+but notice that some of them don't require effort from the Scrum Team.
+
+For instance, changing the Daily Scrum to 11h30am, doesnâ€™t require
+
+effort from the Scrum Team.
+
+It is just about, you know, rescheduling, the Daily Scrums.
+
+Conversely, others require effort.
+
+For instance, configuring static code analysis for continuous
+
+integration requires Developers to set up the tools and workflow.
+
+And finally, we are done.
+
+You now know everything you need to know about the Scrum events.
+
+Great job.

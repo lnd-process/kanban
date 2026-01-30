@@ -1,0 +1,125 @@
+If we are interested in learning lessons, we need to identify
+
+lessons that have the potential to improve performance in the future.
+
+Therefore, a lesson is a recommendation.
+
+Such a recommendation is based on a positive or negative experience,
+
+from which others can learn and improve their performance on
+
+a specific task or objective.
+
+For you to have a practical perspective of how lessons learned should be registered,
+
+let's take a look at one of the most famous lessons learned system in the
+
+world, Nasa Public Lessons Learned System.
+
+Here is the URL: lis.nasa.gov On the left navigation bar, you can
+
+see a list of lessons classified by NASA, centers, or topics.
+
+Let's take a look at this topic.
+
+Acquisition or procurement strategy and planning.
+
+On the right side, we have a list of lessons for this topic.
+
+For each lesson, we have a title or subject, a brief summary, which
+
+they refer to as the abstract, the date that the lesson was registered,
+
+the involved NASA organization, and the list of related topics.
+
+This part is important because it eases the search process.
+
+By classifying the topics, the organization has a common vocabulary.
+
+For instance, right here.
+
+By having the topic product assurance, this lesson will be easily recovered by
+
+the search mechanism whenever someone searches for the term Product Assurance.
+
+Let's take a look at this second lesson here.
+
+Let's not try to understand the technical part because it might end
+
+up being very specific and advanced, not within our scope here, so I'm just
+
+going to click on this lessons title and check the information about it.
+
+Here, we have the information for this lesson.
+
+And let's go to the main point.
+
+First, we have the driving event, describing the situation.
+
+What happened?
+
+This section has all the necessary information for anyone reading the
+
+document to understand what happened.
+
+Here, you could have images, videos, or whatever type of information that
+
+the people registering your lesson, judge to be relevant for future people
+
+that will consult this lesson learned.
+
+By scrolling down, we see the lessons learned and recommendations.
+
+Many people mess up here by not listing the recommendation.
+
+A lesson learned without recommendation is not a lesson learned.
+
+Is just a description of a historical event.
+
+As a leader, make sure that your projects lesson learned are
+
+real lessons that can be useful
+
+to other people.
+
+I find this part over here.
+
+very interesting too.
+
+Because it shows how the organization, how NASA has incorporated this
+
+lesson into their procedures.
+
+In this case, NASA has incorporated this lesson as part of one of its standards,
+
+called the Flight Project Practices.
+
+In fact, if we think about it, updating the document, updating the
+
+standard, updating a procedure is what made the lesson really learn.
+
+Before this, we only had identified the lesson, the lesson that was not
+
+really learned by the organization, and this is really important.
+
+This is so important that this is the reason for most
+
+lessons learned systems die.
+
+If a lesson requires change, you got to make it happen.
+
+It is your job as a leader.
+
+You might need to end up updating a procedure, a checklist, a standard, or
+
+simply make the lessons learned easily searchable for your organization.
+
+Got it?
+
+Great, now that you know how to properly register the lessons
+
+learned, in the next lecture, you're going to see how you must lead the
+
+process of making your organization learn through lessons learned.
+
+I'll see you there.

@@ -1,0 +1,111 @@
+Let’s now discuss our two final Kanban metrics, both related to Work in Progress.
+
+The first is counting the Work in Progress,
+
+and we could use a chart like this, where each dot represents the
+
+Work in Progress for a given day.
+
+However, in future lectures, we'll learn how to visualize the Work
+
+in Progress more efficiently using the Cumulate Flow Diagram, which is
+
+what professionals do in practice.
+
+The second metric is Work Item Age.
+
+This metric is also known as Aging WIP, or Aging Work in Progress, and
+
+is the amount of time between when a work item started and the current time.
+
+Notice that this metric only applies to items that are still in progress.
+
+In practice, most teams represent this metric on the Kanban board by adding a
+
+dot to the card for each day spent on it.
+
+For example, this task has two dots, indicating that it started two days ago.
+
+This other one has three dots, indicating that it started three days ago.
+
+KanbanTool doesn’t have a feature for adding these dots, but you could represent
+
+the same information using asterisks on the task’s title, as shown here.
+
+Why is this metric important?
+
+Two reasons.
+
+First, because it can help us to identify tasks that are
+
+struggling and require attention.
+
+that could hinder our average cycle time, making it longer.
+
+In general, the longer the Work Item Age, the longer the cycle time.
+
+For example, there was a case in which we were developing an Android app.
+
+And we had a card for a bug we detected on our app.
+
+Our best Android developer was working on this bug.
+
+And, the guy was really, really good.
+
+He's the best Android developer that I have ever met.
+
+However, at some point, I remember that we had five dots already on the card!
+
+In other words, our Android specialist had been working on this defect for
+
+a week and couldn’t figure it out!
+
+We discussed the issue and ended up concluding that the bug was not
+
+on our app but on Android itself!
+
+Thus, we notified the Android team at Google about the bug
+
+and waited for them to fix it.
+
+I share this story with you because it's important to note that you
+
+shouldn't use the work Work Item Age to pressure people to get done fast,
+
+but as an indicator for having healthy discussions to identify tasks that
+
+need attention and action points.
+
+Another use case for the Work Item Age is to prioritize work.
+
+Think about the food that you have in your fridge.
+
+Have you ever been in a situation where you choose what to eat
+
+based on the expiration date?
+
+Sometimes, you're not looking forward to eating yogurt, but you end up eating
+
+it because it is about to expire?
+
+In other words, leave your task in progress for too long might spoil
+
+your average cycle and lead time; in other words, making them too long
+
+and possibly, hindering your chances of meeting performance expectations.
+
+Thus, in general, a simple idea to apply is “first in, first out.” Get done with
+
+the work items before starting new ones.
+
+And, this is it.
+
+In the following lecture, let’s wrap up talking about Kanban metrics
+
+and discuss a fascinating, almost miraculous, relationship between
+
+3 of the metrics discussed.
+
+See you there!
+
+

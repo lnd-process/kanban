@@ -1,0 +1,5484 @@
+90.
+In this module, I'm going to teach you what is considered to be the best
+
+technique in the world for you to be as productive and efficient as possible in
+
+carrying out your day-to-day activities.
+
+Getting Things Done or GTD.
+
+With GTD, you will get things done.
+
+It is a very simple but powerful solution for managing your day-to-day
+
+tasks, and it is a technique that I use to manage all my tasks.
+
+The truth is that many people even ask me, "Mirko, how do you
+
+manage to handle so much stuff?"
+
+Maybe you're not aware of what I'm doing today, and I also don't know when are
+
+you going to be watching this video.
+
+After all, these videos are being recorded today but will be watched
+
+for years by a lot of people, and maybe when you watch, I'm doing a lot
+
+more or less things than I do today.
+
+But for you to have an idea, I am the Research Manager
+
+at Virtus Innovation Center.
+
+At Virtus, I manage the Intelligent Software Engineering Group,
+
+where I currently work with a group of researchers and Ph.D.
+
+and master candidates, performing studies on how to improve productivity
+
+in software engineering by applying intelligent techniques, such as artificial
+
+intelligence, Bayesian networks, machine learning, genetic algorithms, and so on.
+
+We are a very productive research group, publishing impactful
+
+scientific papers consistently.
+
+Honestly, this would be already too much to handle because there are
+
+several projects going on at the same time and a lot of scientific
+
+content to be updated with.
+
+But, I also run a startup named KONYU, and I am also starting up
+
+two more companies, Omni Academy, focusing on producing high-quality
+
+online courses, such as this one.
+
+And ScrumPM, a training, and consultancy company on applying Agile Management.
+
+On the personal side, I am married with tchoo daughters . And, you know, I have
+
+all those daily routine tasks, such as grocery, bills to pay and so on.
+
+And I also play tennis.
+
+I played college tennis in the United States when I was younger, and of course,
+
+I don't practice as much today because I used to practice three or four hours
+
+per day, but I still practice enough to be one of the top players in my region.
+
+Plus, I got to find time to keep learning and evolving.
+
+So as you can see, I have lots of stuff to do.
+
+But I managed to get work done.
+
+I have a very intense day-to-day life.
+
+Everything is working out.
+
+Everything is moving, everything is evolving, and in this whole story,
+
+GTD has been literally an essential tool in my personal and professional
+
+life because all that I told you happens with a certain harmony and
+
+efficiency, as incredible as it may seem.
+
+After all, it is really a lot of stuff for one person to handle.
+
+Plenty of things for only one Mirko Perkusich to do, but things have
+
+been going well and have evolved.
+
+However, there are professionals who live this reality of having
+
+many things to do for one person.
+
+And then they complain, you know, this is a lot for me to do alone.
+
+In our modern life, we have so much stuff to do.
+
+There are many emails to send, many others that you have received and have
+
+to processâ€”information,
+
+activities, planning.
+
+We constantly communicate with others through
+
+social networks, always getting
+
+updated with the news, using Twitter, and so on.
+
+So, now we have a very strong demand on a day-to-day basis.
+
+We work, work, work, and still, we feel that we are behind.
+
+As a result, we ended up extrapolating and working 10, 11, 12 hours a day.
+
+Extrapolating work to the next day and making it a routine.
+
+And what happens?
+
+Many people end up mixing their personal time with their
+
+professional life and going crazy.
+
+And the worst of all is when you start to accept that it should be like this.
+
+Life is like this.
+
+You have to give up your personal life to be able to handle your professional life.
+
+There are a lot of people out there who are working three
+
+shifts a day, taking work home.
+
+They are at home thinking about work problems, and then they are at
+
+work thinking about home problems.
+
+And they're so used to it that everything ends up becoming a normal
+
+and acceptable thing, when in fact this is going to destroy your personal life.
+
+As a consequence, we end up having health problems, relationships get destroyed,
+
+and this is very, very frustrating.
+
+Now focusing a little bit on the professional side of our life, the
+
+fact is that we are not prepared in our life to deal with all these
+
+dynamics of the modern world.
+
+The education system at school...
+
+they don't teach us how to deal with this.
+
+So we have today's work environment where priorities change all the time,
+
+new demands appear every minute, and nobody received formal training for this.
+
+And then each one tries their best to manage work in time,
+
+in the best possible way.
+
+But at the end of the day, you work long hours, and you apply your way of
+
+organizing sometimes an organized mess.
+
+So from here on, I will give you as a bonus a good dose of the GTD technique,
+
+which if you listen in practice, you will become someone more efficient, more
+
+productive in all aspects of your life.
+
+It will help you to focus on the right thing at the right time, helping
+
+you to manage your time better.
+
+And, as a consequence, you'll have better results, being much
+
+more productive and efficient.
+
+And to wrap up this lecture, let me tell you one thing, you have enough time to
+
+do every important thing in your life.
+
+This also includes your personal life.
+
+I'm not just talking about the professional life here...
+
+Arnold Schwarzenegger, Albert Einstein, Roger Federer, Michael Jordan, me and you.
+
+We all have 24 hours per day.
+
+The difference is how we go about managing our time, and I'm
+
+sure GTD will change your life.
+
+91.
+Let's get started talking about GTD.
+
+So what is GTD?
+
+Essentially, GTD is a productivity tool, period.
+
+GTD was created by David Allen, and it is a solution to manage
+
+your day to day activities, your responsibilities, regardless of what
+
+you do or your area of activity.
+
+It does not matter.
+
+It is completely agnostic.
+
+If you have things to manage your life, activities to do in
+
+your day-to-day, GTD is a way for you to handle them efficiently.
+
+And according to the GTD methodology, for us to be highly productive, we have
+
+to carry out five steps consistently and regularly, that is, without wavering.
+
+So we're going to go through this diagram in later lectures, but now I just want
+
+you to understand that you have to be consistent in what you intend to do.
+
+One of the key principles of GTD is having a clear mind.
+
+I'm not talking here about meditation, yoga, or something similar.
+
+So now you might ask, but Mirko, what does it mean to have a clear mind?
+
+It is simply thinking only about what you need to think and
+
+also do it at the right time.
+
+So, listen well.
+
+It is about thinking only about what you need to think and also thinking
+
+about executing them at the right time.
+
+For example, you know when you're at your desk working on a task, and then
+
+you remember that you still have to make a call today to your sister, for
+
+instance, for arranging about Sunday lunch, then at the same time, an email
+
+arrives in your mailbox, you don't open it, but you see, this is from an important
+
+customer and he's very angry with you.
+
+Just by seeing that email, curiosity hits and urges you to stop whatever
+
+you're doing and read the email.
+
+This, my friend, is not having a clear mind.
+
+What is the outcome?
+
+You're going to be very inefficient.
+
+You will end your day tired, but when you check your work done, you will feel
+
+that you haven't accomplished much.
+
+Now think about it for a little bit.
+
+Have you ever been through something similar?
+
+I'm pretty sure most of you have felt this way before.
+
+I sure have.
+
+This feeling is horrible.
+
+Very discouraging.
+
+Let's try to understand a little bit better what happened.
+
+So, you start to work on the report, and then your mind is divided.
+
+You're thinking about the content of the email you have just
+
+received from an angry client.
+
+Plus, your mind is constantly having to remind you that you still have to call
+
+your sister today to schedule lunch.
+
+So in practice, you're not only writing the report.
+
+You're switching between tasks.
+
+That is, you read an email, answer the email, go back to the report and
+
+then remember to call the sister...
+
+and then go back to the report.
+
+Remember the email...
+
+call the sister, go back to the report...
+
+and then you suddenly remember that you have to give a message to
+
+your boss, then go to the boss's office, go back to the report.
+
+This is not efficient!
+
+So, I'll ask you again.
+
+Have you ever been into this situation?
+
+Well, I can tell you that a lot of people do this.
+
+So, you have some people saying that they're really good at multitasking,
+
+but it's just an illusion.
+
+Science has already shown that you lose 30% of your
+
+productivity when you multitask.
+
+That is, you switch between two or more tasks.
+
+So think about it.
+
+Many people feel very productive and are proud to say that they have so much
+
+stuff to do and that they multitask.
+
+But the current scientific understanding is that they are not
+
+as productive as they could be.
+
+Because 30% of their effort, their energy, their time is lost, wasted.
+
+Isn't this crazy?
+
+So, let's say you work 10 hours per day.
+
+If you multitask, you're wasting three hours.
+
+Three hours per day is a lot of time.
+
+You could be working out, socializing with friends, spending
+
+more time with your family.
+
+And what are you doing?
+
+You're just wasting your time.
+
+And remember, time, my friend, is our greatest asset.
+
+You can't buy time.
+
+You can get poor and then get rich.
+
+You can get fat and then get thin.
+
+You can sometimes get sick and then get healthy.
+
+But time...
+
+you can't go back in time.
+
+No way.
+
+At least that's what we know today, right?
+
+Maybe someone invents a time machine, such as in Terminator, but for
+
+now, you can't go back in time.
+
+You can't buy time.
+
+So here we have our first big takeaway for this course: "being
+
+busy is not being productive."
+
+So now you might understand why you might plan to finish up your work in 8 hours,
+
+but you end up taking 10 hours, and then you have to take work home every day.
+
+So, if you want to be more efficient, you need to have 100%
+
+of your focus on the task at hand.
+
+You need to do one thing at a time, at the right time, having a clear mind.
+
+A final tip related to this point is to turn off notifications.
+
+They are very distracting.
+
+There's nothing worse than, while you're working, you get into that flow, full
+
+productivity mode on, and then bling!
+
+Your phone vibrates!
+
+Or emits a sound, letting you know you got a new email, a new message, a new
+
+engagement on Instagram, or whatever.
+
+A new update on your game, a new app was released.
+
+It's just distracting you.
+
+It's taking control of your time from you.
+
+So just turn them off.
+
+You must be in control of your time, not your phone.
+
+Don't let other people make you busy, distracted, and less productive.
+
+You need to do this for yourself.
+
+Great!
+
+Now, you know, one of the key principles to be productive,
+
+which is having a clear mind.
+
+We as human beings have a lot of concerns, work issues, health,
+
+children, government, and so on.
+
+Having a clear mind is thinking about what can be resolved,
+
+given your current context.
+
+For example, if you're at home, your current context is your home.
+
+So let's suppose it's a Sunday afternoon and you start thinking
+
+about the work problem, a pending issue, an email you have to send,
+
+a phone call you have to make.
+
+Your head is in a chaos of information and concerns about work.
+
+But, guess what?
+
+You're at home, and you cannot solve any of those things right now.
+
+Right by your side, you have your wife or husband, maybe your kids, your children.
+
+And instead of you enjoying your time with them, your head is a mess,
+
+and you get stressed thinking about stuff that you have no control over
+
+at this particular instant of time.
+
+You cannot solve your work problems right now.
+
+And you know what, you shouldn't.
+
+Why?
+
+Because you're out of the context of your work.
+
+So you're just feeling busy, but you're just wasting time and getting
+
+stressed out because you're not going to be able to solve anything right now.
+
+Even worse.
+
+You're going to start your day on Monday, already stressed out, and you might end
+
+up not being productive during the day.
+
+This is a very vicious cycle that can make you very, very sick.
+
+Currently, there's a lot of people talking about a new syndrome, burnout syndrome.
+
+So, you know, you got to really be careful with this.
+
+But then you might think: "but I can work at home.
+
+I could spend my Sunday working..."
+
+But the point is, should you?
+
+Do we really have to work on a Sunday afternoon?
+
+Or is it just because you're not being productive during your work time?
+
+This is the key question.
+
+So a key principle about GTD is not about managing time, but rather a
+
+question of how to have a clear mind.
+
+Got it?
+
+And now, you might ask, but how do I have a clear mind?
+
+First thing, stop using your head to store information.
+
+Using your head for keeping pending work, responsibility,
+
+commitments is not a smart move.
+
+Our mind is not prepared to deal with so much information and to
+
+remember to do everything at the right time without missing anything.
+
+It is just not prepared for this.
+
+So what's the catch?
+
+Our mind is good to perform actions.
+
+So be smart and use it for this purpose and not to be a reminder of stuff to do.
+
+The task of storing information, storing stuff to do should be
+
+delegated to a sheet of paper, your cell phone, a notepad, an agenda.
+
+That's what these things are for.
+
+And you should start now!
+
+Take note of everything that you need to do and store it somewhere.
+
+There are several mobile and web apps available, or you might even
+
+prefer to use a traditional agenda.
+
+You name it, do whatever works best for you.
+
+This is the first step for you to become more productive.
+
+Let me just give you a really quick but valuable tip here.
+
+Always have the means to make quick notes on stuff to do.
+
+Whenever I'm working on my laptop, I always try to have a piece of paper
+
+and a pen available right next to me.
+
+So if I'm working on a report...
+
+so for instance, suppose I'm writing an article.
+
+If somehow I remember about something to do, or I have a
+
+new idea for a new project.
+
+I just write it down immediately.
+
+I just get my pen and write it down on paper.
+
+Very simple, but it has been very helpful for me.
+
+So, you know, just stop using your head to store information.
+
+Just by doing this, you'll end up getting rid of a good part of your stress.
+
+And it is the first step for you to be able to balance your professional
+
+life with your personal life.
+
+Now that you understand the basic principle of GTD, which is to
+
+totally clear our mind and use it to focus on doing one thing at a
+
+time, then we are ready to know the five truly magical steps of GTD.
+
+92.
+GTD is composed of five main steps, collect, process,
+
+organize, plan and execute.
+
+Let's start talking about step one, collect.
+
+Collecting is merely making explicit, getting out of your mind, registering
+
+all your concerns, stuff to do, work stuff, personal stuff, everything.
+
+For example, right now, you're watching this video.
+
+And maybe, you're going to remember something that you have to do, make a
+
+call, pay your bill, send an email, visit a friend, making an appointment, study for
+
+a test, or a meeting that you must attend.
+
+So, what to do?
+
+You register!
+
+You register everything that comes to your mind.
+
+Or maybe you're in the car, on the subway, or you're going to bed.
+
+You're going to sleep.
+
+Even in the pool.
+
+Do you remember something that you have to do?
+
+A responsibility, a task.
+
+Get out of the pool, take notes and then come back.
+
+You must always write down what you thought, regardless of the time or place.
+
+I usually have many ideas when I'm already in bed, ready to sleep.
+
+Suddenly, an idea comes, a reminder of something that I have to do,
+
+an email that I have to send, a contact that I need to make.
+
+But, hey!
+
+I'm going to sleep.
+
+So, what to do?
+
+Just go to bed and try to remember it the next day?
+
+Of course not!
+
+I write it down and then concentrate again on going back to sleep peacefully.
+
+I don't have to worry about forgetting my idea because I registered it.
+
+Now, if I go to sleep without taking notes, the next day, I'm going to wake
+
+up, and most probably, I'm not going to remember the idea I had the night before.
+
+You know that situation where, for instance, you're on the subway, and then
+
+you remember: "I have to call Brian."
+
+And then, after five minutes, you're like, I know I had something to do,
+
+but I can't remember it anymore.
+
+Well, maybe it wasn't that important.
+
+So, you know, it was a really straightforward task.
+
+Just call Brian.
+
+You just remembered about that five minutes ago, but you know, we tend to
+
+forget about this stuff because our mind is bombarded with reminders all the time,
+
+but it has a limited space to store them.
+
+At any time, there's no rule for this to happen.
+
+Your mind can come up with something that you have to do.
+
+And then the problem is that the reminders really need to be remembered, because many
+
+of them must generate action on your part.
+
+And if you don't do anything, you can miss an opportunity,
+
+or you can get in deep trouble.
+
+So, the first thing you have to do is collect, register.
+
+Collecting is a continuous effort.
+
+Do you remember something?
+
+Did you have an idea?
+
+Record it!
+
+Take it out of your head, and record it instantly.
+
+You might write it down in a notepad, a notebook, a mobile
+
+app, whatever works best for you.
+
+We will talk more about the tools later.
+
+For now, please just understand this first step, which is fundamental.
+
+For you to understand the importance of recording
+
+everything, let's see an example.
+
+Consider that you're trying to remember a phone number.
+
+If, while you're trying to memorize the number, I start saying random
+
+numbers, what's gonna happen?
+
+You're going to get really confused!
+
+And you know what?
+
+You're going to end up forgetting some numbers.
+
+They will be erased from your mind, completely erased.
+
+This same phenomenon occurs with tasks.
+
+But instead of forgetting numbers, you're going to forget about tasks.
+
+At this point.
+
+I really hope that you're convinced that you need to write down stuff.
+
+You need to collect.
+
+But now, you might ask, but Mirko, how do I collect?
+
+Which tools should I use to record my collection?
+
+For you to have a peaceful mind, you need to be very good at collecting everything.
+
+And the best thing is that you don't need much to collect everything.
+
+You can use a physical means such as a notepad, a calendar, and sticky notes.
+
+As I said in past lectures, I always have a pencil and pen available.
+
+So, if I remember something, I can easily write it down.
+
+Back when I was in college, I had a very intense lifestyle.
+
+I was a student-athlete, and I also worked part-time and was involved
+
+with non-profit organizations.
+
+Furthermore, I had a very busy social life.
+
+One aspect of my college career is that despite having so much going
+
+on is that I was a great student achieving the highest honors.
+
+I got an impressive, almost perfect GPA.
+
+Finishing my undergrad in computer engineering with a 3.9 out of 4 GPA.
+
+I'm not telling all these just to brag about myself.
+
+I'm not this type of person.
+
+The point is that I don't consider myself to be differentiated by birth,
+
+a genius or truly talented gifted individual, far away from this.
+
+I never did an IQ test or whatever, but I consider myself to be average.
+
+I think that the most important factor for my success at that time is that
+
+I had the method to organize work.
+
+And that I was very disciplined and consistent.
+
+At that point, I had a really cheap phone, which only served me
+
+to make phone calls and messaging.
+
+So my solution to collect was very simple.
+
+I always had a piece of paper stick next to my bed, in which I would record all
+
+my responsibilities, homework, projects, study sessions for tests, and so on.
+
+Afterward, I would schedule when to resolve each of my to-do stuff.
+
+That's it, it worked really well!
+
+Just with a pencil and paper.
+
+At that point, I confess that I didn't even know about the existence of GTD,
+
+but I executed a very similar method which had as its foundation, collect.
+
+I would put all my to-do stuff on that piece of paper.
+
+Nowadays, my life is way busier, and we have better technologies.
+
+So, I use web and mobile apps.
+
+Mobile apps are awesome because we always have our smartphones with us.
+
+So, by rule, whenever I'm on the run, and I remember something, I
+
+just register using my mobile app.
+
+Additionally, once a day, I stop and try to remember stuff to do.
+
+And then, I recorded it in the app.
+
+Sometimes I use the mobile app.
+
+Sometimes I use the web app.
+
+I usually do it during the morning.
+
+Other people do it before going to bed at night.
+
+Experiment and do whatever works best for you.
+
+However, If I'm already working on something, as I said in past lectures...
+
+if I'm already writing a report, writing a scientific paper, or whatever, an idea
+
+pops up, and then I don't get my phone.
+
+Because for me, I think that if I stop what I'm doing to get my
+
+phone and then look for the app, I'm going to get distracted.
+
+And guess what?
+
+I might end up losing that 30% of multitasking time.
+
+And I don't want to take this risk.
+
+So something that has been working really well for me is to have a
+
+pencil and paper right by my side.
+
+So whenever I remember something, I just get the pencil, write it down
+
+really fast, and then go back to work.
+
+So, you know, I don't end up losing that 30%...
+
+it is not characterized like multitasking, at least for me,
+
+it's working really, really well.
+
+You should try.
+
+But before going forward, I just want to emphasize that, like with
+
+any process, framework or method, you must not adopt GTD as it is.
+
+You must adapt it, tailor it to your needs.
+
+I'm telling you how GTD works for me.
+
+But you're free to experiment and adapt it to your needs.
+
+Each person has different needs, a different routine, okay?
+
+But, if you need any help or suggestion, just let me know, and
+
+I'll do my best to help you, agreed?
+
+Great.
+
+So let's move on.
+
+So the main point that we have been discussing so far is that if
+
+you remember something, record it.
+
+Use a phone, a piece of paper, whatever suits you best.
+
+But, the second important thing is that you have to forget about it.
+
+You write it down.
+
+And then you'll deal with it later.
+
+You really need to forget about it.
+
+You know why?
+
+Because the main objective of this first step is to clear your mind.
+
+And that is why collection has no time to happen.
+
+It is a continuous effort,
+
+got it?
+
+And, since GTD is very practical, I wanted to make this lecture
+
+very practical for you too.
+
+Therefore, I created a spreadsheet for you to get started applying GTD.
+
+So, pause the video here and download the spreadsheet.
+
+Okay.
+
+So, here we have the spreadsheet.
+
+And, on the home tab, just a quick reference to all the GTD steps.
+
+Let's go to the second tab, inbox.
+
+This is where you register stuff to do...
+
+today, tomorrow, in the next days, next week, whatever you remember...
+
+a call, a job, a visit, an email, a report.
+
+So, before watching the next video, write down things in your inbox.
+
+As you see here, in this example, Where I registered seven things
+
+that I got to get done soon.
+
+So, try to do it for at least seven things and then move on to the next video.
+
+93.
+At this point, we have already discussed GTD's this first step, collection.
+
+And now we're going to move on to the next GTD step, process.
+
+Process, is the stage of processing what we have collected.
+
+And for us to proceed, I'm going to present you the GTD
+
+flow chart with more details.
+
+Here we have a more complete flow chart.
+
+Right here, in the beginning, we have the stuff that we have collected in step one.
+
+All the items collected are recorded into the inbox, which here represents your
+
+spreadsheet, notebooks, smartphone, app, agenda, or whatever fits you the best.
+
+Now, already talking about the second step of GTD, which is the process step,
+
+we are going to define the destination of each thing we have collected
+
+each item you have written down.
+
+And to define the destination for each of the items, you start by asking yourself,
+
+should I take any action on this item?
+
+Or, in other words, is this item actionable?
+
+Examples of yes answers would be an action that I must do.
+
+That is, make a phone call, write an email, work on a document,
+
+take an online course...
+
+But maybe it might be something with no value for me, such as receiving an email
+
+of stuff that I am not interested in.
+
+So, what do I do?
+
+I trash it.
+
+Or maybe a second alternative, something with value, but not for now.
+
+Maybe, it's an idea of a book or a course that I would like to take, but recognize
+
+that it's not important for me right now.
+
+So, I won't really need to take action now.
+
+So what do I do?
+
+I store it at someday or maybe, and that is why we have a tab called
+
+someday/maybe in your spreadsheet.
+
+So in this tab, you have things that maybe one day you will do.
+
+For example, an idea that you took note of, but you're not going to plan or
+
+execute right now, for instance, I know I need to paint my room, but not today.
+
+Maybe next week, maybe two weeks from now.
+
+I don't know.
+
+I'm not going to plan this right now.
+
+So, in these situations, what do you do?
+
+Just add it to the someday/maybe list, take it out of your head, got it?
+
+And the third possible destination for non-actionable
+
+items is simply to archive them.
+
+The best example for this is an email, you know that email that you have read,
+
+but you don't have to take any action on it, but also you don't want to delete
+
+it because it can be useful sometime...
+
+maybe you receive a copy of a contract, or your insurance policy.
+
+There is no action you need to take on it.
+
+Hopefully, you'll never need it, but you better store it.
+
+I like to file, to save as reference content that I know that sometime it
+
+might come very handy, such as templates and guidelines for how to create a resume
+
+maybe, or maybe websites with interesting online courses that I could take.
+
+Also, for instance, I produce a lot of content daily, be it for teaching
+
+something, publishing a scientific article, or more industry-focused
+
+papers on project management, software engineering, productivity, and such.
+
+So, whenever I come across interesting blog posts, scientific articles,
+
+examples, books, and so on...
+
+that I think that might come in handy for me as a reference in the
+
+future, maybe to reuse in an example or something, I just record it.
+
+And this simple task of referencing might save you a lot of time.
+
+Therefore, we have three possible destinations for non-actionable items.
+
+It either goes to waste, the list of someday/maybe, or you
+
+will save it as a reference.
+
+Got it?
+
+So, at this point, we have covered the initial part of processing.
+
+We are separating the items that we must act upon from the others.
+
+Think of it as a filter.
+
+As input, you had all your stuff, and as output, you will only have
+
+to worry about the actionable stuff.
+
+All the other stuff you have already classified as waste, someday/maybe, or
+
+you have filed for future reference.
+
+Great!
+
+Now it's time to see what happens with the actionable stuff.
+
+In other words, stuff that you must take action.
+
+So coming back to this image...
+
+we are done with this part, and now we have to worry about these ones.
+
+And, at this point, you need to ask yourself, what is the
+
+first action on the given item?
+
+Or what is the next action on the given item?
+
+You think about what's the first thing you need to do to accomplish the item.
+
+Is it making a phone call, answering an email, generating
+
+a report, creating a checklist?
+
+So now you need to think about this.
+
+If you have an item that is just about making a phone call, just writing an
+
+email, or just a little short report.
+
+You can get it done in just one action.
+
+In one sitting, you get it done.
+
+Do you agree?
+
+If it's just about making a call, you just make it, and then you're done.
+
+If you just need to reply to an email, you just sit reply or
+
+email, and you're done, right?
+
+Your problem is solved, but there are also some items that require
+
+more than one action to be resolved.
+
+For example, if you need to plan a vacation trip.
+
+In that case, what would be the first action?
+
+Maybe you're gonna call the travel agency.
+
+But, you know you're going to have to look for hotels, put together a
+
+vacation script, maybe invite friends.
+
+So a vacation trip is like a multi-step planning item.
+
+So in GTD, we call this a project.
+
+And, in our spreadsheet, you're going to place projects in a specific
+
+destination, which is your project's tab.
+
+Then, you're going to fill the lines with the projects, and you just need to
+
+register the first action to be performed.
+
+You don't have to think about all the steps, just the first
+
+one, the next one, got it?
+
+So this is what you do when you have multi-step items.
+
+You just store it as a project and think about the next action.
+
+So, now we have just talked about this one.
+
+Now, what do you do?
+
+If you have an item that only requires one action to be completed?
+
+The first thing you do is to check if it can be done in less than two minutes.
+
+If yes, what do you do?
+
+Do it!
+
+Do not leave it for later.
+
+Do not write it down elsewhere.
+
+Do not schedule.
+
+Just solve it right now.
+
+If it takes at most two minutes, just kill it, solve it right now.
+
+The idea here is to avoid having you wasting more time managing a
+
+to-do list than getting work done.
+
+So, an example here is just a short email that you have to answer or
+
+maybe a message from your boss, but a really simple message.
+
+So just reply to it really fast whenever you're processing.
+
+Now, if the item cannot be solved in two minutes, what do you do?
+
+Let's talk about this in the next lecture.
+
+I'll see you there.
+
+94.
+At this point, we have a task that needs to be done, and that
+
+takes more than two minutes.
+
+What to do?
+
+Well, the next question you should ask yourself is: should it be resolved by me,
+
+or could someone else perform this action?
+
+If you can delegate it to someone else, you're going to store
+
+this item on the "waiting" list.
+
+So, here in our spreadsheet, we have a "waiting" tab.
+
+If you prefer, you can name it as delegated, whatever you want.
+
+And in this list, you will put everything that you have delegated to someone
+
+else, but that you need to follow up until they send you the result, okay?
+
+If needed, don't forget to put the name of the person responsible and any deadlines.
+
+This information is important so that, you know, when you should check with the
+
+responsible about the given tasks status.
+
+Here, what I usually do is to put reminders for myself about
+
+when should I check with the responsible for the current status.
+
+For instance, I might do it every day at 9:00 AM.
+
+And what I always do is make a quick note whenever I have this status.
+
+So, for instance, on Monday morning, I get a status from John.
+
+Then he tells me what it has accomplished as of now.
+
+So I take a quick note then on Tuesday morning, I check again.
+
+So when I do that, I can compare what John says he has accomplished until Tuesday
+
+and compare what he has done from Monday.
+
+And then I can see if you really evolved, and I can check if
+
+he needs help or something.
+
+Okay?
+
+And I need to say, when I started doing this, it helped me a lot.
+
+I have a lot of work that I need to delegate.
+
+Now, if it shouldn't be solved by someone else, that is, it must be solved by you,
+
+and you can't solve it in two minutes, there are two possible destinations.
+
+The first destination is the calendar.
+
+This is the case when you have a specific date or time.
+
+Maybe, for instance, a meeting or maybe a bill that you have to pay.
+
+That is, if you have something that needs to be executed on a specific
+
+date, then you go to a calendar.
+
+And now, you might ask, but Mirko, what calendar should I use?
+
+Well, I suggest if you have a Gmail account, a Google account,
+
+just use the Google calendar.
+
+That's what I use.
+
+So I have here the Google calendar.
+
+And, if you have an email from Google, you just need to type calendar.google.com.
+
+And it's really easy to use.
+
+Just click on the time slots and schedule your actions, okay?
+
+If you prefer, you can also use a traditional physical calendar.
+
+You just need something that has all the days of the year.
+
+But I prefer to use digital tools.
+
+The second possible destination is the "next actions" list.
+
+So in our spreadsheet, we have a "Next Actions" tab.
+
+In this list, you're going to report everything you need to do but that you
+
+don't have a specific date to perform it.
+
+You just know you need to do it as soon as possible, got it?
+
+So now you know what to do with each of the types of stuff that you
+
+have identified in the "collect" step, you have processed everything.
+
+The goal of the GTD process stage is to process all the collected items.
+
+In other words, your inbox needs to be empty because you have given a
+
+destination to all the collected stuff.
+
+And now you might ask, but Mirko, when should I do this?
+
+You need to do it every day.
+
+Systematically.
+
+No exceptions.
+
+Some people need to do it just once a day.
+
+In fact, that's what most people do.
+
+They do it once a day, for instance, at the end of the day, before going to bed.
+
+Others need to do it multiple times a day.
+
+For instance, I need to do it multiple times a day.
+
+Why?
+
+Because I work with a lot of projects in parallel.
+
+So I have many things going on.
+
+Lots of tasks delegated.
+
+And as the manager, one of the most important points is
+
+to be available whenever the team needs my help or feedback.
+
+So, if someone needs my help at 10:00 AM, they will request my help through
+
+email or the instant messaging app of choice for the given project.
+
+And, you know, I rarely answer the phone unless I know it's
+
+something very, very critical.
+
+But why Mirko?
+
+Because I control my time, not other people, okay?
+
+So let's say that Brian is working with me on a scientific article, and he's stuck.
+
+So he sends me an email asking for help at 10:00 AM.
+
+If I only answer Brian at the end of the day, I might be wasting
+
+Brian's entire day of work.
+
+And guess what?
+
+Sometimes it is stuff that I can figure it out in two minutes.
+
+Not necessarily giving him the answer, but pointing him in the right direction.
+
+Maybe a book, another article, or telling him to talk to John, who I
+
+know is an expert in the field, got it?
+
+That is why I do micro-processing multiple times per day, but
+
+you don't have to do it.
+
+Most of you can do it just once a day, and you'll be fine.
+
+The only rule here is to do it daily with no exceptions.
+
+So summarizing, what is your goal here?
+
+You need to empty your "inbox" list.
+
+That's it.
+
+Give destination for everything.
+
+And what do you do?
+
+You follow the flow.
+
+So before moving on to a practical example, let's just
+
+make a really brief summary.
+
+Given that you have your "inbox" list, you define if the items are actionable or not.
+
+If not, you have three destinations: you trash it, you put it on somebody/maybe,
+
+or you file it for reference.
+
+If they're actionable, now you to think, is it a multi-step item or not?
+
+If it is, you're going to store it as a project.
+
+If not, you're going to process it.
+
+If it takes less than two minutes, just do it.
+
+If not, you need to ask yourself, am I the one responsible or the
+
+one that should take an action?
+
+Or not?
+
+If not, you delegate it, and you put it for you're "waiting for" lists.
+
+If not, if it's you the responsible, you need to check if: does it have to
+
+be done at a specific date and time?
+
+If yes, put it in your calendar, such as Google Calendar.
+
+Otherwise, you just add it to your "next actions" list.
+
+And that's it.
+
+So, what have we done by now?
+
+We have collected all the things to do, and we have given
+
+a destination for everything.
+
+But before going to organize, let's see an example.
+
+So here we have my "inbox" list.
+
+And the first item is to send emails to investors.
+
+So this is a one-action item.
+
+So what do I do?
+
+I move it to the next action step.
+
+So you can see here, my first action is to send emails to investors.
+
+So what do I do now?
+
+I delete it from my inbox.
+
+The next item is to plan a vacation.
+
+Planning a vacation is a multi-step action.
+
+So what do I do?
+
+I add it to the "project" list, and I define my next action,
+
+which is calling the agency trip.
+
+Okay?
+
+Done.
+
+Let's delete it from the inbox.
+
+The next step is build Scrum.PM Website, which is similar to the next one,
+
+which is build OMNI.Academy Website and they're all multi-step actions.
+
+So what do I do?
+
+I add it to the projects.
+
+As you can see here, build Scrum.PM Website, and build OMNI.Academy Website.
+
+And what are the next actions?
+
+For both of them, just define the content.
+
+Of course, I know there's more stuff to do, such as defining the design, building
+
+the website, deploying it, and whatever, but for now, I just need the next action.
+
+So I'm done.
+
+So go back here and delete these two items.
+
+Next item is to organize slides for keynote.
+
+So I'm assuming here, which is the case, that I already
+
+have a lot of content ready.
+
+I just need to organize them.
+
+So in one sitting, I'm done.
+
+So I'm going to put this for my "Next actions" list.
+
+And here it is.
+
+Great.
+
+So I'm going to delete it from my inbox.
+
+And then, next step.
+
+Next action is review Manuel's scientific paper, and also, the paper
+
+is already done from his perspective.
+
+I just need to sit and review.
+
+Therefore I define it as one action item and put it on the "next actions" list.
+
+Great?
+
+So I can delete it from my inbox.
+
+And the last item that I had in my inbox was scheduled
+
+interviews with Konyu's clients.
+
+So this one is also a multi-step item.
+
+So I add it to the "projects" tab.
+
+And my next action is to identify five potential business customers.
+
+And with this, I have my inbox clear.
+
+And I'm finally done with processing.
+
+Now, it's your turn.
+
+Process your inbox.
+
+Afterward, move to the next video, where we're going to organize the work.
+
+95.
+And now that we have collected and processed all of our items, we
+
+are going to move on to the third step of GTD, which is, organize.
+
+And look, if you notice, with GTD, we're building our own
+
+personal information system.
+
+A private information system only related to our stuff.
+
+We are feeding this system with information, and what does it do?
+
+It is reminding you of what you need to do in the time when you need to do it.
+
+So, we don't have to use our brains to remember anything.
+
+You don't have to keep anything in your mind.
+
+Everything you need to do will be in this information system of yours.
+
+So, that is why it is important to collect and process very well.
+
+The principle of GTD is to empty your mind and use it for only one
+
+purpose, which is to perform actions.
+
+Our information system consists of a few lists and a calendar.
+
+And it is important for you to understand that it doesn't
+
+have to be something complex.
+
+A simple sheet of paper might be enough.
+
+Just take a sheet of paper, write a title on it.
+
+And that's it.
+
+You already have a list in your hand.
+
+Your information system.
+
+If you prefer a mobile app, great.
+
+There are a lot of to-do list apps available.
+
+In this course, we are seeing how to use a spreadsheet for this purpose.
+
+Having multiple tabs to organize your lists.
+
+And this is a very personal choice.
+
+You do it, whatever works best for you.
+
+Experiment.
+
+The important thing here is now we're going to create different areas to
+
+put information on them, and these areas, we're going to call them lists.
+
+So at this point, we already have some lists.
+
+Lists for "next action," "maybe/someday," for "projects", for "waiting."
+
+But now, in this step, in the "organization" step, you will, given
+
+your personal needs, break down the list into more refined, contextualized lists.
+
+For instance, right now, I have one tab, one list of "projects."
+
+What you can do is to divide this project list into two different
+
+lists, one for personal projects and another one for professional projects.
+
+For instance, in my case, I could have a personal project list,
+
+a project list only for Virtus.
+
+Another one for Scrum.PM.
+
+Another one for Omni Academy.
+
+Another one for Konyu.
+
+So I could have multiple lists.
+
+So right here, these are just some examples of different types
+
+of lists that you could have.
+
+And if you're using the spreadsheet, how do you implement this?
+
+Just create more tabs.
+
+Give them the names so that you can recognize the type of task that you need
+
+to do and do it according to your needs.
+
+Personally, in particular, me Mirko Perkusich, I like to
+
+have a few lists as possible.
+
+I feel that if I have a lot of lists, it would just increase the complexity
+
+of me having to manage a lot of stuff.
+
+Okay?
+
+But I'm just going to give you an example of why classifying lists
+
+might be a good idea for you.
+
+So suppose you're at home.
+
+When you're at home, what should you be doing?
+
+You should be doing stuff related to your home.
+
+So you can go directly to your home list.
+
+If I'm at Virtus, whenever I'm there, I can open my Virtus to-do list.
+
+If you're going to the supermarket, you can open your supermarket to-do list.
+
+Got it?
+
+So in this step, you're going to organize better your information system, maybe
+
+breaking down the previous list that we already have, the generic lists,
+
+into categories that best suits you.
+
+So this is a really personal choice.
+
+And the only thing I can recommend you is to experiment
+
+and see what works best for you.
+
+So now stop a little bit.
+
+And before going to the next video, try to organize your stuff.
+
+Remember, this is not a one thing you do, and never do it again.
+
+You can refine your process continuously.
+
+Okay?
+
+So try to do it, try to do your first version, try to define the
+
+lists that are important for you.
+
+That makes sense for you.
+
+And then you move on to the next video, in which you're going to
+
+talk about the planning stage.
+
+96.
+We haved all reached stage four of GTD, the planning stage.
+
+Also called the review stage, which for me is the most fun stage, the coolest
+
+one, because until now, we have already processed and organized everything.
+
+And now, it is time for planning.
+
+Here, I prioritize what I have to do in the next few days in the next week.
+
+So I'm going to define what do I need to have done by the end of the next week, but
+
+also what I'm not going to do next week.
+
+And this one is very important too.
+
+Because sometimes we put a lot of things to do during the following week, or
+
+the next days, and we end up not even doing 50% of what we have planned.
+
+So now we're going to learn how to do it correctly and efficiently so that
+
+you get productive and not frustrated.
+
+And how are we going to do that?
+
+How are you going to plan your next week?
+
+This first step works as follows: once a week, you must review your items.
+
+And where are they stored?
+
+Your lists and calendar.
+
+Remember, there are only two destinations possible for stuff that you need to do
+
+and are collected and processed, either one of your lists or your calendar.
+
+Then once a week, you're going to stop, review these items and determine
+
+what are you going to do next week.
+
+It is suggested that you should do this every Friday morning because
+
+generally you're well energized at the beginning of the day.
+
+So you're going to get all your lists and choose which tasks are the most
+
+important and urgent ones, and simply insert tasks into your calendar.
+
+In other words, you're going to reserve separate time from your
+
+calendar to perform the tasks.
+
+At this point, I think you're already convinced that you need to plan your work.
+
+You need to schedule all your work.
+
+And you need to do it once a week.
+
+But what do you do during this session?
+
+What exactly do you do whenever you stop, for instance, every Friday morning,
+
+for 30 minutes to plan your next week.
+
+What do you do?
+
+Well, the first thing you need to do is collect everything that needs to be done.
+
+So you have been doing this continuously throughout the week, but this is a
+
+time that you are going to do it again.
+
+Try to remember everything, collect everything, process everything,
+
+to make sure that during the next week you'll have your mind clear.
+
+You won't have to remember anything, okay?
+
+And then, after doing that, you're going to review your "action" lists.
+
+If you have stuff done, mark it as done.
+
+And, if you have really important stuff, you can already
+
+schedule them right now, okay?
+
+Then, go to the last calendar, reschedule tasks that were not done.
+
+After doing that, the next step is to allocate time for each week's task.
+
+In other words, you're going to review or plan your next calendar.
+
+After doing that, you can review your waiting lists.
+
+You're going to see all the tasks that you have delegated to people
+
+and then do an update if necessary.
+
+But, please understand.
+
+Here is what you're going to do during this session.
+
+For instance, review your waiting list.
+
+You can do it during this section, but this doesn't mean that you don't need
+
+to do it the other days of the week.
+
+You might have to do it daily, for instance, or every two days.
+
+It all depends on your personal needs.
+
+The next step is to review your projects.
+
+So we're going to review each project and define the next action.
+
+If necessary, afterward, you might want to review your "maybe/someday" lists
+
+because all your lists must be updated.
+
+So, at this point, you might decide that maybe you're going to
+
+really paint your room next week.
+
+So you make it active.
+
+So, it's going to become an active item that's going to your "next
+
+actions" list, or maybe you're not going to do anything about it.
+
+Just keep it as "maybe/someday," or maybe you're going to see, okay.
+
+This doesn't make sense to me anymore.
+
+Just remove it.
+
+Why?
+
+So you don't have a polluted list of maybe/someday actions.
+
+Just make sure you don't have like garbage over there, okay?
+
+And finally is: be creative and courageous.
+
+Think about new projects, create new stuff so that you're always evolving
+
+in your personal and professional life.
+
+And please don't make too many items.
+
+Don't try to solve everything in your next week.
+
+There is no use in filling your calendar with stuff that you
+
+won't have enough time to do it.
+
+Don't underestimate effort.
+
+If you need like two hours to do something, don't think you're
+
+going to get it done in 30 minutes.
+
+A tip that I can give it to you is that don't schedule
+
+eight hours of work per day.
+
+Because nobody can work eight hours per day.
+
+You need to take a break, you need to go to the bathroom, you get
+
+called in the last-minute meeting, you get called to help someone
+
+else, you need to have a snack...
+
+And there is stuff that...
+
+unforeseen stuff that eventually might happen.
+
+So, you know, literally, nobody can work eight hours per day.
+
+So, what I suggest is that you per day only schedule six hours of work.
+
+The idea here is that you don't get frustrated if you don't get done with
+
+your stuff if you have scheduled eight hours per day because nobody can do it.
+
+Just do it at most six hours per day.
+
+And then you do it for the first week, for the second week.
+
+And then, with time, you're going to refine your process
+
+and be more efficient, got it?
+
+So by completing this planning step, What is the result?
+
+Well,
+
+you have a plan of what
+
+you need to do for next week and what's the next step?
+
+Execution.
+
+97.
+And finally, we are here.
+
+We are on the last step of GTD, execute.
+
+Have you ever been in the situation of arriving at work on Monday,
+
+Tuesday, Wednesday morning...
+
+and then you think: "Hmm, what am I going to do now?
+
+I have so much stuff to do..."
+
+with urgency, priority that you don't know where to start.
+
+With GTD, forget about this.
+
+Why?
+
+Because when you arrive at work, you are ready to execute.
+
+You just open your plan and execute the plan.
+
+Just do it.
+
+Why did you have all the work of collecting, processing and organizing?
+
+So that when you're ready to work, when you arrive at work on Monday morning,
+
+you don't have to think about it.
+
+Just Execute.
+
+Now, it's time that you're going to really produce value.
+
+No more thinking or planning.
+
+You just got to stop and do exactly what you need to do.
+
+Now.
+
+Of course, it is also important to know that the calendar is flexible.
+
+It will happen that you schedule to start a task at 10:00 AM, but then a
+
+customer has an issue and calls you.
+
+Or your team has an impediment, so you've got to stop whatever
+
+you're doing and help them.
+
+So, instead of working on the planned task at 10:00 AM, you might start
+
+at 10 30 or maybe a little earlier.
+
+It will all depend on the situation, but the important thing.
+
+Is that you have to have your priorities and goals for each day of the week,
+
+and they need to be planned in advance during the planning stage so that during
+
+the week, you just need to go there and accomplish whatever you have planned.
+
+Make it happen!
+
+No more.
+
+Decision-making about planning because you have already done it.
+
+You can see it.
+
+You see it on your schedule.
+
+You just go and do it.
+
+And remember what I said about only scheduling six hours per day?
+
+Because you have approximately two hours to accommodate whatever
+
+new stuff happens during the week.
+
+And, I guarantee that if you follow what I have been teaching
+
+you here in this course, you will always do the most important work.
+
+And I'll tell you, one of the major causes of stress in people
+
+is that they're doing something, thinking that they should be doing
+
+something else, maybe more important.
+
+With GTD, your mind is right here with you.
+
+Always at war with you.
+
+You will plan on Friday, and in the following week, you just execute.
+
+But, of course, you need to be smart enough to always have room
+
+on your schedule to accommodate that actual work that might happen.
+
+So, to wrap up this lecture and to summarize everything
+
+that we have discussed, GTD.
+
+What have we just done?
+
+We separate some time during the week to calmly set priorities
+
+and schedule all work.
+
+And then, we have peace of mind on the remaining time of the week to execute.
+
+So what we are doing here?
+
+We are separating concerns.
+
+We're separating time for planning and for execution to avoid multitasking
+
+and to make you waste your time.
+
+And, when I say waste your time, I'm saying wasting your life.
+
+Okay?
+
+And this is it.
+
+This was the last stage of GTD.
+
+Great job.
+
+98.
+In my final words about the GTD, what I want to tell you is that you just
+
+received here the Ferrari of productivity.
+
+Getting things done is thought and applied in large companies to training
+
+and courses, and it's considered the best methodology in the world to make us
+
+productive people in everything we do.
+
+I, in particular, am passionate about GTD.
+
+It is very practical.
+
+I really use it in my day-to-day, activities and I have really good results.
+
+So I strongly recommend that you start practicing GTD today.
+
+Whether as a whole, or just simplify it a little bit for starters, but try
+
+to do it, try to put it in practice.
+
+Experiment with all the tips that I have given you here.
+
+Write down your appointments, put them on some lists, and
+
+include them in your calendar.
+
+You will see how you will become someone much more productive and trustworthy for
+
+everyone around you and for yourself.
+
+You will have enough organization.
+
+You're going to be able to organize your life.
+
+You will have the ability to promise and fulfill the responsibilities.
+
+So now it's up to you.
+
+I know a lot of people that had a very messy life, and they started
+
+to use GTD and improved a lot.
+
+I'm going to end with this final note.
+
+As with any process, you need to experiment with it and mold it for
+
+your lifestyle, for your character.
+
+Each person has individual needs.
+
+So maybe you might try to apply it on your first week, and you're not going to
+
+have like great results, but keep trying.
+
+Organizing your work, applying GTD is a skill that you can learn.
+
+And I can assure you if you master yourself in doing this, you will
+
+be a way more efficient person.
+
+99.
+Welcome to our Crash Course on Leadership.
+
+Here, you will learn what are the skills and characteristics of a good leader.
+
+And what path should you take to develop different skills throughout your career.
+
+Perhaps, you are already a good leader.
+
+Maybe you have already developed the skills, characteristics,
+
+and profile of a good leader.
+
+So I hope that you will leave here...
+
+You will leave this course even more inspired as a leader
+
+to develop yourself further.
+
+And if you're that person who has not yet developed as a leader, your
+
+communication is still not so good.
+
+You still can't inspire other people.
+
+Lead other people well.
+
+You will certainly leave this course with better directions, with clarity as to
+
+which path you need to follow in order to develop yourself as a good leader.
+
+And first of all, what we need to understand is: what is leadership?
+
+What does it mean to be a leader?
+
+I like a definition...
+
+in fact, you will find many definitions on the internet, from authors and books.
+
+Different definitions of leadership.
+
+And here's one that I consider the most accurate, the most complete one.
+
+That says that: "Leadership is the art of leading people to achieve successfully
+
+the results that were planned."
+
+So, leadership is about dealing with other people.
+
+You take these other people, you drive, you pull the car, and lead
+
+these people to achieve the results you and them want successfully.
+
+So leadership is closely related to the ability to influence and direct
+
+other people to achieve a common goal.
+
+This ability is one of the main characteristics that help
+
+the professional to stand out.
+
+Both in personal and professional life.
+
+And as I said, it is very rare to find good leaders.
+
+And then maybe the first thing that crosses your mind is whether this
+
+ability, this skill to influence, communicate, direct other people, is
+
+a natural gift, a talent, or a skill that can be developed throughout life.
+
+I hear many people insisting on saying that leadership is a gift.
+
+You're either born with it or not.
+
+It is part of their DNA.
+
+And then at that moment, when I hear someone saying something like
+
+this, I remember some very famous professionals, very well-known people
+
+who worked really hard, but people tend to say that they're gifted.
+
+Let's start talking about this guy.
+
+Have you ever heard of Rogerio Ceni?
+
+If you haven't, let me just give you one number.
+
+He played soccer or football, depending on where you're from.
+
+And, he was a goalkeeper.
+
+But he scored 131 goals during his career.
+
+He used to play for Sao Paulo, which is one of the most successful Brazilian
+
+teams, having won three times the world championship beating teams such
+
+as Milan, Barcelona, and Liverpool.
+
+And guess what?
+
+He's in the club's top ten goal scorers list.
+
+He was a top team scorer for two years in a row.
+
+I mean, this is amazing.
+
+He holds the World Record for goals for a goalkeeper.
+
+Just for you to have an idea of the dimension of what Rogerio has done,
+
+the number two is Chilavert from Paraguay, scoring 67 goals, almost
+
+half the goal scored by Rogerio.
+
+However, there is more.
+
+Chilavert scored less than 20 free-kick goals, most of them were
+
+from penalty, which are way easier.
+
+Rogerio scored over 60 free-kick goals.
+
+So, I mean, it is amazing.
+
+So, one would say: "Rogerio is so talented, right?"
+
+Once in an interview, Rogerio Ceni said that before attempting to hit
+
+his first free kick in a match, he practiced hitting 15,000 free kicks.
+
+His routine was to always be the first to arrive and the last to leave practice,
+
+hitting around 3000 free kicks per month.
+
+And all by himself.
+
+So, you tell me, is Rogerio Ceni just a lucky, gifted, super talented person?
+
+No, he worked hard, very hard.
+
+And with really high consistency.
+
+Let's see another Brazilian football player, Pele.
+
+Considered by many the best football player ever.
+
+People talk a lot about his talents and that he scored over a thousand goals, but
+
+people don't mention that his father kept him training two hours extra every day.
+
+So his father would take him to practice, and every day, he would
+
+practice two hours additionally when compared to all the other guys.
+
+Now Kobe Bryant, one of the best basketball players ever...
+
+He was so talented, right?
+
+Since a young age, he would wake up every day at 4:00 AM to practice.
+
+Oscar Schmidt, one of the best Brazilian basketball players ever.
+
+He was known as having the "Holy hand" because he was
+
+mortal on three-point shooting.
+
+And guess what?
+
+He hated being calling like that.
+
+Once during an interview, he said that his hand wasn't Holy.
+
+It was trained.
+
+Tiger Woods,
+
+for our last example.
+
+He has a very funny phrase where he says: "the more I train, the luckier, I get".
+
+Tiger Woods is one of the best golfers ever.
+
+And you know, golf is a pretty hard sport!
+
+You have to hit the ball and make it go in a small hole placed
+
+very, very far away from you.
+
+So, sometimes people say that whenever they get a great shot
+
+is the result of being lucky.
+
+That's why he said that the more I train, the luckier I get.
+
+Because the more I train, the more I hit the balls, so higher are
+
+the chances of getting them in.
+
+Thus, the point here is that I am aware that some people are talented.
+
+They were born to perform a given task, such as being
+
+really good at a given sport.
+
+Maybe they were born with the right height, body mass, and mentality.
+
+Of course, not everybody can be the number one, the best in the world.
+
+Only the ones with raw talent, and that worked really, really hard.
+
+Notice what I said.
+
+They are really hard workers.
+
+They work really, really hard.
+
+Go ask Roger Federer, LeBron James, Michael Jordan, Steve
+
+Jobs, Beyonce, you name it.
+
+Name a successful person.
+
+Ask them if they are talented.
+
+I am pretty sure that most of them will feel insulted because they
+
+worked really hard to get there.
+
+Michael Jordan wasn't born knowing how to throw a ball.
+
+He learned through practice, lots of practice.
+
+But notice that what I just said, not everybody can be the number one.
+
+But guess what?
+
+It's okay not to be the number one.
+
+You can still be pretty good.
+
+You can still work for top companies.
+
+I firmly believe that we are all capable of reaching great goals in
+
+our professional and personal lives.
+
+You want to play.
+
+You want to learn a sport, play an instrument, program
+
+a computer, you can do it!
+
+Anyone can do it!
+
+It doesn't mean that everybody can be a software engineer at Google or
+
+Facebook, for instance because they have a limited amount of people they can
+
+hire, but you can still be really good.
+
+You can be a really good software engineer, project manager...
+
+and work for good companies, or maybe create your own.
+
+I think a little bit with me if we can learn all these things,
+
+why can't we learn to lead?
+
+Of course, we can learn how to lead.
+
+You can become a great leader.
+
+Some will have to work harder than others, but it is possible.
+
+So the first thing is to define the correct mindset.
+
+You need a growth mindset.
+
+Don't be like most people that believe that talent defines their destiny.
+
+You define your destiny on whatever field you are by your hard work and consistency.
+
+Therefore, it is up to you.
+
+So right now, it doesn't matter if you're not a great communicator.
+
+If you don't know how to deal or inspire people, or if you're shy.
+
+Just pay attention what I'm going to teach you from here on, and you will be
+
+on the right path to become a good leader.
+
+Ready?
+
+So, let's move to our next lecture!
+
+See you there!
+
+100.
+To get started.
+
+Your first lesson is: being a leader is not being a boss.
+
+So if you think...
+
+hm, I want to be a leader because I want to command other people.
+
+No, there are people who think that when they gain authority over others,
+
+they become an untouchable God.
+
+And now they just need to define what to do, give people commands, and
+
+they need and will follow the orders.
+
+This viewpoint could not be worse.
+
+Considering the evolution that we have had in people management and people
+
+leadership during the last few decades.
+
+So if you have a boss like this, well, he's not a leader.
+
+He's just a person with deep issues.
+
+There's a big difference between boss and leader.
+
+If you put it on the internet search on Google for "Boss and leader,"
+
+you will find countless hundreds, thousands of articles, texts, and
+
+videos talking about the differences between being a boss and being a leader.
+
+Favoring you to be a leader.
+
+So what is the difference between boss and leader?
+
+Boss is the guy who has a position above yours, and therefore you
+
+are obligated to obey to him.
+
+And you obey him because it's your job.
+
+With a boss, he will tell you what to do, and you will obey because
+
+you don't want to lose your job.
+
+The guy has a position.
+
+He's above you.
+
+And then, you and all the other team members are going to obey,
+
+just because you have to obey.
+
+Have you ever had to deal with someone like this?
+
+How did you feel about him?
+
+Did you like him?
+
+Did you look forward to working for him for a long time?
+
+I'll tell you one thing.
+
+Companies lose great people because of having bad leadership.
+
+A lot of people, they leave their boss, not their job, not the company.
+
+Conversely, the leader is the one that you will follow.
+
+You admire your leader.
+
+Because leaders, they don't need to demonstrate power because
+
+of their current position.
+
+Their power is on their ideas.
+
+The inspiration that they offer to their team.
+
+For you to lead, you don't need to have a higher position.
+
+It's not about hierarchy.
+
+It's about how you behave and inspire people.
+
+It's about listening to people and guiding them.
+
+Being a boss is about telling people what to do.
+
+Leading is about guiding the people and getting your hands dirty.
+
+There are many leaders who are not bosses, and there are many
+
+bosses who are not leaders.
+
+There are many people who have the position, have the
+
+authority of the position, but do not know how to be a leader.
+
+They can't inspire their teams.
+
+They are unable to make their teams work for him, but only for his position.
+
+Just as there are many people who are leaders who are inspiring, who make
+
+people listen and follow what they see, but they do not necessarily have
+
+a high position in the organization.
+
+Leadership is not associated with a position.
+
+Leading is a function you take over, and so you inspire other people to do what
+
+you need because they understand and trust you to do what you need to be done.
+
+So it is important that you understand this difference and take the first step
+
+to lead you, to develop as a leader, and not to prepare yourself to be a boss.
+
+When dealing with a boss, you are afraid to go to his office.
+
+You arrive at the door.
+
+Before entering, you take a deep breath, summon up some
+
+courage, and then you get in.
+
+The leader is the one who leads you.
+
+You want, you desire to be called, to go to his office.
+
+You know he wants to make you grow.
+
+He always seeks to guide you.
+
+He wants to see you always on the best path.
+
+And then you enter his room with the greatest pleasure.
+
+You want to be with him as much as possible.
+
+You know you're going to leave that room better than you got in.
+
+Maybe you will not leave happy, because maybe you made a
+
+mistake and got a fair scolding.
+
+But, you will leave with extra learning because a good leader,
+
+he corrects without offending.
+
+He guides without humiliating.
+
+The boss, on the other hand, makes use of power.
+
+For him, if you made a mistake, you are weak.
+
+You are not able, you are very bad.
+
+"Be careful, or I will get you fired.
+
+If you make this again...
+
+be very careful.
+
+I will fire you."
+
+So the boss, they always threaten people.
+
+The boss is always ashamed.
+
+The boss is heavy, where he doesn't need to be heavy.
+
+And often, he doesn't have a sense of justice, and he wants
+
+simply to show his power.
+
+He wants people to continue to fear him and obey him because of the power
+
+he has for the position he holds.
+
+While the leader inspires you, they make you move forward.
+
+The boss, I even joke, the boss expires.
+
+The boss makes you empty.
+
+They demotivate you.
+
+He doesn't give you any reason to be close to him and to want to learn from him.
+
+And, there are other characteristics that make a good leader.
+
+The leader is even more than inspiration.
+
+A leader leads the team to do their best to follow him.
+
+Leaders are very proactive.
+
+Instead of waiting, they will seek.
+
+Instead of complaining about the darkness, they light the candle.
+
+So you must seek to develop to the maximum, all of this within you.
+
+The characteristics of a leader, be proactive, seek to inspire people,
+
+show them why they are important,
+
+follow their work, guide them.
+
+So that they can get better and better.
+
+And if they get it wrong, show them the right way.
+
+Give them the drill, the right measure.
+
+Recognize when they did a good job so that they have the
+
+pleasure of working with you.
+
+Of giving you their best.
+
+So that you can together achieve success because they know they
+
+see that you are a fair person.
+
+Someone who seeks everyone's growth.
+
+And is not there simply to give an order, but to extract from them the best.
+
+Someone who seeks everyone's growth.
+
+And is not there simply to give an order.
+
+Because the leader takes something from a person but also leaves something.
+
+And now that you understand a little bit about what it means to be a leader, I
+
+can tell you calmly that if you listen to what I told you several times,
+
+you start putting it into your mind,
+
+you start trying to develop it.
+
+Develop these characteristics, develop your leader profile.
+
+It is already enough to bring transformation in your life.
+
+In relation to being a leader.
+
+Whenever you interact with people, try to follow the steps.
+
+Afterward, reflect on what happened.
+
+Analyze if you acted like a good leader or not.
+
+Reflect on your behavior after a meeting, for instance.
+
+Or after a workday, have you been acting like a leader?
+
+If not, what do you need to do to get better?
+
+To help you to light your way, I will leave here five tips that, if
+
+you understand, follow, seek with determination and courage, you will
+
+certainly be able to become a good leader.
+
+Ready?
+
+So let's move to the next lecture.
+
+101.
+The first step is to forget your comfort zone and develop your communication.
+
+Having good communication is an essential skill for any leader.
+
+Because whoever leads other people is always communicating.
+
+Whether with your team, customers, partners, managers, C-level executives.
+
+Leadership involves a lot, a lot of communication.
+
+Who officially works as a leader, for example, a project manager, has about 70%
+
+of their tasks related to communication.
+
+Whether by email, by phone, by voice, 70% of their effort they spend communicating.
+
+So, express yourself well.
+
+Be clear, objective, use your tone of voice, the correct body language,
+
+and the right words, according to the occasion, according to
+
+the people with who you are
+
+communicating with.
+
+Sometimes, you will need to be more formal.
+
+And sometimes being formal might be a good idea to make people
+
+around you more comfortable.
+
+The more you have this ability, the more you will be valued, not only
+
+as a leader but as a professional.
+
+The more you develop this, the more valued you will be simply because most people
+
+don't have great communication skills.
+
+And you might have already noticed this.
+
+Try to remember your colleagues at work, your college colleagues, maybe
+
+even some of your college professors.
+
+How many of them communicated well?
+
+I bet that most of them were pretty bad.
+
+Conversely, you might have also realized that there are some people
+
+that seem like they
+
+were born to be a good communicator because they're so engaging; so inspiring.
+
+So, first of all...
+
+if you already have good communication skills, great!
+
+One item on your list for you to scratch.
+
+You will only need to polish, refine those skills so that they get better and better.
+
+But if you don't have good communication skills, which is more likely since most
+
+people don't have good communication, given the statistics, I want to tell
+
+you that it is possible; it is totally possible for you to develop this skill.
+
+And to prove it to you, I'm going to tell you a little bit about my experience.
+
+How I won and overcome this everyday challenge of communicating well.
+
+When I decided that I had to develop my communication skills, first of
+
+all, the first thing I had to do was: "get out of my comfort zone."
+
+Put it in your head that you have this challenge.
+
+You will have to get out of your comfort zone.
+
+You will have to embrace this challenge and make it your priority.
+
+Nobody can do that for you.
+
+It is a personal skill that you need to develop within yourself.
+
+When I was in high school and even in college, I wasn't really
+
+interested in being a
+
+good communicator.
+
+I graduated in computer engineering, and at that point, I only cared
+
+about the technical stuff.
+
+I was excited to learn about developing software, electrical
+
+circuits, calculus, but I didn't really care about communication
+
+or anything related to leadership.
+
+In fact, to be honest, I didn't really like to work in groups.
+
+I would rather do everything by myself.
+
+I went to college in the USA, and over there, I played on
+
+the university's tennis team.
+
+When I still had one semester to graduate, I couldn't play tennis
+
+anymore due to restrictions from the league; just some bureaucracy stuff.
+
+So, since I had the scholarship for playing tennis, the university decided
+
+to keep giving me the scholarship, but instead of playing, I would work
+
+as the tennis team's assistant coach.
+
+At this point, things started to change a little bit.
+
+I used to play for the team, and I was the number one player in singles and doubles.
+
+But as I said, I didn't really care at that point about being seen as a leader.
+
+So other guys were the team captain.
+
+I had a great relationship with everybody on the team, all the guys and girls.
+
+And I consider most of them as my good friends until today.
+
+But I didn't really play the role of a leader.
+
+So my communication skills were more tailored to be as good, as
+
+good as it can be within friends.
+
+But now, I was the assistant coach.
+
+Of course, most of them were already my friends, but since I was in a coaching
+
+position, they started to look at me as someone who could help them to evolve and
+
+improve as a tennis player and person.
+
+So, they would come and ask for advice about how to improve
+
+their techniques, how to deal
+
+with high-pressure moments
+
+during matches.
+
+They would come and talk to me when they were having a hard time,
+
+for instance, with the coach.
+
+So they would come for ask for help, for solutions, for guidance.
+
+And also, when I was a player, my perspective was more selfish.
+
+I only cared about winning.
+
+When I was the assistant coach, I had a broader view and felt that
+
+I had the mission to help the good players to be great ones.
+
+And
+
+also the not-so-good ones,
+
+the ones who were seen as backups to become more motivated, to
+
+become good players, be tougher, and to have a winner mentality.
+
+That's when I started to improve my communication skills, I started
+
+studying more about tennis coaching, leadership, and that's when I
+
+ended up getting interested in project management and Scrum.
+
+At the end of the semester, I got a job offer to come back to Brazil
+
+and work as a Scrum Master , which is a leadership role, in a startup.
+
+So picture this: I was young, just graduated, just starting up my career.
+
+And I was working as a Scrum Master in a startup, which had
+
+some of the best developers around.
+
+Some of them are the best I've known until this day.
+
+They were very experienced and knowledgeable.
+
+A little intimidating, right?
+
+I remember my first day at work.
+
+Less than an hour after I arrived, I had to lead the first planning
+
+meeting with the entire team.
+
+And of course, I wasn't expecting this.
+
+I thought my first days, my first weeks, I would have some
+
+training or something more lighter.
+
+But no, no.
+
+First day, first hour, first meeting.
+
+So, yes, I had to mature really fast.
+
+However, I already had some experience communicating with
+
+groups, given my assistant coach experience, so it helped a little bit.
+
+Of course, when I started, I wasn't great.
+
+However, I continuously improved, given the reflections that I
+
+would make about my performance.
+
+Fast forward, and a few years later, I already had a Tenure
+
+Track professor position.
+
+And I was teaching and traveling all around the world to
+
+present talks and conferences.
+
+So, I started to learn how to communicate better, first, dealing
+
+with a few young tennis players, which some of them were already my friends.
+
+I evolved and started to deal with more experienced, knowledgeable
+
+people in the workplace; management, customers ... Then I became a
+
+college professor and researcher and started to give talks worldwide.
+
+You can see that it was like a stairway.
+
+One step at a time.
+
+It's not about building the wall.
+
+It's about putting a brick.
+
+And then, another one, you don't start trying to communicate
+
+with a thousand people.
+
+You start by mastering communicating with one person and then a group of people.
+
+And then dealing with people in higher
+
+positions, directors, managers,
+
+customers, C-level executives, and so on.
+
+It's a process.
+
+Successful people are more used to being outside their
+
+comfort zone than inside it.
+
+Thus, even if you already consider yourself a good communicator, try
+
+to get out of your comfort zone.
+
+So, the first tip is if you need to develop your communication.
+
+Don't miss an opportunity to practice.
+
+You will get there.
+
+If you want to go far and succeed, then get used to being
+
+away from your comfort zone.
+
+If you're a person who needs to develop your communication,
+
+then look for challenges.
+
+Don't wait for them to arrive!
+
+Seek challenges, volunteer, to give talks.
+
+Actively participate in meetings.
+
+I remember that I trained my communication at every opportunity.
+
+I remember that, before
+
+going for my first
+
+lecture ever, which was during the examinations to be hired as a professor,
+
+I trained a dozen times the same lecture.
+
+I had a lot of friends to watch my lectures and give me feedback.
+
+I would watch myself in the mirror, start with the end goal in mind, even
+
+if you're going to make a presentation to one person, pretend that's for
+
+a 1000, and get really prepared.
+
+I did it during a period.
+
+And now I'm confident that I can speak in front of anybody.
+
+Of course, I feel a little anxious when I'm stepping up on stage, you know, some
+
+butterflies, but this is totally normal.
+
+Once you're confident that you are prepared enough, things flow naturally.
+
+This is what happened to me.
+
+And I want it to happen to you too!
+
+If you have the opportunity to speak on the birthday, speak to your
+
+family, to present a job at college,
+
+if you are still an university
+
+student, to present three slides at your company, or anywhere.
+
+Try to make
+
+the best slides of your life!
+
+Seek to speak
+
+the best speech of your life!
+
+The secret
+
+to developing communication
+
+is to practice.
+
+A good idea is to also watch great public speakers, get specific tips with public
+
+speaking professionals, things like your posture, what to do with your hands,
+
+where to look when you're communicating.
+
+So I encourage you to study about public speaking, but you need to practice.
+
+It is okay if you don't go too well on your first attempts.
+
+Do you think Michael Jordan was good when he tried to shoot
+
+his first ball?
+
+Of course
+
+not!
+
+The important thing is to have a growth mindset.
+
+Use every opportunity possible to learn how to become a better communicator.
+
+102.
+It is a fact that developing communication skills is something that requires
+
+more than a few minutes of training.
+
+Still, specific techniques, incredibly, generate immediate results.
+
+Let's start talking about them and start this course at full throttle.
+
+In this lecture, I want to surprise you and prove, in practice, that you
+
+can move from the place you are now and improve your communication skills.
+
+In the following minutes, we will focus on how you can have a more
+
+impactful and strategic communication.
+
+You will improve your communication by only slightly adjusting some
+
+phrases and words, which I am sure you have been using in your daily life.
+
+For this purpose, we will follow only three steps.
+
+The first step is to identify harmful speech patterns that
+
+have hindered your communication.
+
+The second step is to identify efficient speech patterns that you can use to
+
+better express what you want to convey.
+
+And the third step is to strengthen within your mind the speech
+
+patterns define in step two.
+
+To start this exercise, please, take a look at the spreadsheet attached to this
+
+lecture as a resource, and notice that we have two lists: on the left side, we
+
+have at least called "harmful", and on the right side, a list called "efficient."
+
+We will start by thinking together about several expressions and
+
+words that are harmful for our communication, but that we often use
+
+in everyday life, both at work or home.
+
+Next, we will identify the expression or new word that we will use to replace
+
+that harmful or inefficient one that is sabotaging our communication.
+
+Ready?
+
+Let's go to practice, and you will understand this idea better.
+
+I will start here with a controversial example: the first word that you
+
+should eliminate from your expressions, especially at the workspace is
+
+the word "idea"; that's right.
+
+And why should you eliminate this word from your vocabulary?
+
+Simply because no one cares about your ideas.
+
+Have you ever stopped to think about it?
+
+When you're talking with someone and want to solve a problem or even in a meeting
+
+with other people, imagine what happens when I say this: "I think I have an idea."
+
+Did I pass a message that I have a solution to the problem?
+
+Have I transmitted confidence?
+
+Did my message generate any impact?
+
+Neither my verbal expression nor my body expression passed
+
+any trustworthiness here.
+
+To generate impact with your communication, you need to adjust
+
+your vocabulary and use words and expressions appropriate to each context.
+
+Are you at work?
+
+Do you want to generate impact, to pass trustworthiness, to be
+
+heard by everyone present, to have your message clearly received?
+
+What people want to hear from you when they have a problem is a
+
+solution, a proposition, a proper response, an answer to the problem.
+
+So how about instead of saying, "I think I have an idea," saying," I
+
+believe I have a solution for you."
+
+You said what you wanted, that you have an idea.
+
+Still, now you passed a totally different message, more serious, impressive..
+
+Do you agree?
+
+Let's go to the next examples.
+
+How you feel about the expression "I think."?
+
+Well, it is not that you cannot use it now and then.
+
+The point is that "I think" is a weak expression that has no value because
+
+anyone can think whatever he or she wants; for example, I can think
+
+that the moon fits in my pocket, and nobody has anything to do with this.
+
+Thus, don't use such a weak expression in a work meeting, because you want
+
+others to have the impression that you have a relevant opinion to share.
+
+Instead of using expressions like "I think the best solution is
+
+solution X," say something like: "I believe this..., because of this..."
+
+For example, "I believe that we must use solution X because I read about it, and
+
+saw that there are some well-succeeded competitors that have already used
+
+it in a similar context as ours."
+
+Can you notice the difference in confidence, the credibility of
+
+you saying, "I believe this...
+
+because of this reason..."
+
+instead of only saying "I think"?
+
+Do you know what happens when you use this weak terms in your communication?
+
+Probably you have been there at some point in your life.
+
+You are in a conversation and then you give a solution, an idea, but
+
+no one reacted to your speech.
+
+Then, within 5 minutes, another person says exactly the same
+
+thing, but speaking differently.
+
+And everybody says, "Hey, great idea!
+
+What a good solution."
+
+Then you're like, "wait a minute.
+
+I have just,...
+
+you know,..
+
+Nevermind."
+
+This is why our list of harmful patterns versus efficient patterns is critical.
+
+You must put it into practice.
+
+You must frequently read it, study it and incorporate the efficient
+
+patterns within your daily life.
+
+Do you remember the three steps that I talked about at
+
+the beginning of this lecture?
+
+First, you identify harmful patterns in your daily communication.
+
+Second, you identify efficient patterns that you must use, and that
+
+will better express what you want.
+
+And last, but not least, you must print out this list, put it on your bed's
+
+mirror, and read it daily to reinforce in your mind efficient speech patterns
+
+that you have defined in the second step.
+
+Now, I recommend you stop watching the video lectures a little bit
+
+and analyze the spreadsheet.
+
+Add more patterns that you believe makes sense for you, and look at it daily.
+
+Read it,absorb it, let these patterns enter your mind.
+
+Incorporate them and practice them everyday in your communication.
+
+And of course, if you need any help or suggestions, just shoot
+
+me a message on the Q&A board.
+
+And that will be more than happy to help.
+
+Now.
+
+Let's keep moving!
+
+103.
+The second step is about working on your motivation and optimism.
+
+As a leader, you must symbolize the motivation of many who will be led by you.
+
+So, if you're a pessimistic person, you can prepare yourself because
+
+your team will also be pessimistic.
+
+There will be people who do not believe, who give up easily.
+
+If you are optimistic, you will have a team
+
+that will be affected by
+
+your optimism.
+
+Of course, everything has to be balanced.
+
+But it is incredible how our attitude as leaders, our faith,
+
+that we will succeed in the
+
+project, how our courage ignites, inspires
+
+the people we lead our team, understand that you, as a leader, are a reference.
+
+You are a mirror.
+
+Will be the match that will ignite the flame of the rest of your team.
+
+When people on your team get discouraged by a promotion that didn't come, a
+
+salary increase that didn't come.
+
+They will come looking for you.
+
+And what should they
+
+find?
+
+Someone who will agree
+
+that this is the end for them?
+
+That there is no way out?
+
+That is comfortable with failure?
+
+That is satisfied with failure?
+
+Of course not.
+
+They must find someone optimistic someone with creativity to give them
+
+a new vision, to give them a new option, a new path, another solution,
+
+a new wave to achieve their goals.
+
+Someone that won't let them be discouraged.
+
+Won't let them give up.
+
+So be motivated, be optimistic.
+
+People are usually not optimistic.
+
+By doing this, you will be a channel to ignite your team to be
+
+motivated and confident every day.
+
+And it's also important to say that being optimistic is not being foolish, okay?
+
+To believe that if even if you do wrong, everything will turn out well.
+
+No!
+
+This is being a fool.
+
+Being optimistic is about not giving up on the first barrier and not
+
+letting your team to do it either.
+
+It is about believing that you can find
+
+a second alternative.
+
+It's about chasing the second alternative.
+
+It is about not accepting defeat without having tried all
+
+the possibilities of victory.
+
+I learned a lot of things on the
+
+tennis court.
+
+Imagine this situation...
+
+you're losingâ€”match point
+
+to the other guy.
+
+Just one more point, and he wins.
+
+He's really close, right?
+
+Victory seems so far from your reach.
+
+But, guess what?
+
+There's still one more point for him to
+
+score.
+
+So, are you going to
+
+give up?
+
+Of course not!
+
+I remember
+
+once that I was losing
+
+to
+
+this guy...
+
+6x0, 4x0...
+
+I was being massacred.
+
+I was playing
+
+the worst ever.
+
+Horrible!
+
+And he was getting everything in.
+
+But I didn't give up.
+
+I kept trying, I ended up losing, but they almost
+
+turned the match around.
+
+There
+
+were other situations too, where I was losing match
+
+point down.
+
+And I still ended up
+
+winning the match.
+
+So,
+
+if you're pessimistic,
+
+negative, I can assure you one thing you will fail.
+
+If you are optimistic, you always have the hope to
+
+keep moving and succeed.
+
+But also,
+
+don't let your optimism blind you.
+
+You need to be realistic and always analyze your surroundings, your
+
+context, make the best decisions.
+
+I also lost matches where I was winning
+
+match points, and I lost.
+
+It hurted a lot.
+
+Most of the times, it was because I was too optimistic.
+
+It felt like the match was already done.
+
+Okay, so you've gotta be optimistic always, but always be smart
+
+enough to analyze the situation and make the best decisions.
+
+During the course, we saw many techniques that can be used to
+
+generate motivation in the team.
+
+One is the team having a vision about the expected result.
+
+Why is it important?
+
+People in their nature they need to feel useful and understand
+
+their importance in the project.
+
+In order to be happy and motivated and give their best.
+
+So I'm going to give you here a great advice.
+
+As a project manager, as a leader, share key information about
+
+your project with your team.
+
+For instance, the vision can be shared during a project kickoff
+
+meeting, the first project meeting.
+
+Make sure to cease the first days of the project, boost your team by
+
+letting them know the goals,
+
+the priorities, and always make sure that they are aware of their
+
+role and their importance, but also the importance of each other team
+
+member for the project to succeed.
+
+And after the kickoff meeting, to reinforce and motivate them even
+
+more, you can call each one of your team members or other stakeholders in
+
+particular.
+
+And talk individually about their
+
+importance, and that you are counting on them for the project to succeed.
+
+Do you realize how much this simple thing can transform someone's
+
+behavior within a project?
+
+So, I don't know about your background.
+
+If you already have an experience doing this, or if you're just starting
+
+your career or still in college.
+
+But if you have the experience, you know what I'm talking about.
+
+If you haven't already,
+
+trust me, train your communication, learn and develop the skills,
+
+the characteristics of a
+
+good leader.
+
+And the time will
+
+come when you will have the kickoff meeting of the project.
+
+You will see how it works.
+
+People get even more inspired.
+
+You share the challenge with them and make clear their importance, the impact that
+
+they have to lead the project to success.
+
+This is something very powerful, and it works.
+
+You will generate motivation and optimism in your team from
+
+the beginning of your project.
+
+Now, it is clear that it's
+
+important that this remains throughout
+
+the entire project.
+
+You will not, for instance, in the middle of the project, your team makes
+
+a mistake or the project is delayed, unforeseen events are happening, and then
+
+suddenly you throw everything in the air.
+
+No, you aren't the person who will hold the torch.
+
+You must be the person who will look for
+
+alternatives.
+
+Who will say we were
+
+wrong, but calm down.
+
+Let's see what's the best way for us to recover from this error.
+
+It will still work.
+
+There will still be time.
+
+Come on there.
+
+We will do our best.
+
+I count on you!
+
+Do this, do that, talk to someone, do this here, try something else.
+
+You need to direct them.
+
+Guide them, encourage them.
+
+You need to keep your team always in a good mood, always with
+
+motivation, always with energy.
+
+Of course, there will be hard times.
+
+There'll be times when you will not even have the strength to do
+
+this, but these must be
+
+exceptions.
+
+Normally, most of the time, you will be able to be a motivated person and
+
+optimistic person, will inspire other
+
+people, and make her team always
+
+motivated.
+
+A team that
+
+doesn't give up.
+
+Even when they mess up, they remain motivated and optimistic, doing their
+
+best, believing that they will succeed.
+
+Recover from the mistakes and complete the project successfully.
+
+And that is why motivation and optimism are part of the profile of a good leader.
+
+104.
+Few people know what empathy is and its importance, but the world
+
+would be a thousand times better if people were more empathetic.
+
+So tip three is: develop your empathy.
+
+But, what is empathy?
+
+Simply translated, it is the ability to put yourself in the shoes of another
+
+person, is trying to understand what she's feeling, what she desires.
+
+By developing empathy,
+
+you can guide people better, understand them better.
+
+In the case of leaders, empathy is mandatory.
+
+Leaders need to be experts at this.
+
+They must be empathetic.
+
+When I am leading, I like to periodically call my team members just
+
+to hear from them how they're doing.
+
+If they're satisfied, if they're motivated, and then what do I do?
+
+I try to practice my empathy to get better and better.
+
+I try to understand what are their needs, what makes them happy,
+
+what motivates each of them.
+
+Then after I have a good understanding, I put myself in their
+
+place to understand where they're
+
+going.
+
+What is the most important thing for them?
+
+I try to give tips on how they can improve.
+
+Set goals with them.
+
+You collaborate with them to define how to reach their goals.
+
+I really try to put myself in their shoes so that I can understand them better.
+
+So that I can align what they desire with what I wish for them within the project.
+
+And then, I can have an alignment between my expectations and their expectations.
+
+Do you know how to have the best of your team members?
+
+You put yourself in their shoes and understand what are their desires.
+
+What are their dreams?
+
+Their dreams of life, not just about the company.
+
+Is it getting married, buying a car, owning a home, making a trip?
+
+After you understand their desires, you do everything possible to align
+
+their desires with the company's goals.
+
+If you're able to do this, the team members are not going to be working
+
+only to achieve the company's revenue, which is what the company wants.
+
+They will be working for their dream.
+
+And as a consequence, the company will also be successful.
+
+And how does this work?
+
+Imagine, for instance, that I come to you...
+
+you are my team member.
+
+And then I ask you, what is your dream?
+
+And you tell me that your dream is to go to France.
+
+You want to spend 15 days in France.
+
+And then I ask you how much does it cost?
+
+And you say $10,000.
+
+And then I tell you, dude, look, this year, our goal is to earn something.
+
+If you can do your part, if you can achieve this goal here, your
+
+personal goal, you will have your trip at the end of the year.
+
+Next January, you will be in France, and you all spend your 15 days
+
+that you have been dreaming of.
+
+What did I just do?
+
+I try to understand your dream, your desire, what drives you.
+
+And then try to align your dream with the goals for my project,
+
+the goals for my organization.
+
+This is one of the most famous and successful techniques for you to
+
+get the support of your followers, the support of your employees.
+
+They will give their best to the organization, their maximum.
+
+The employee is dream.
+
+Be a promotion, a salary, increase a vacation, a new
+
+house, getting a PhD degree.
+
+But if you have the necessary empathy and understand what is their desires,
+
+what are the ambitions of each one of your team members understand their
+
+needs, understand their profile.
+
+You will work in favor of it, and you will not only have a goal
+
+accomplished, but friendship trust, gratitude, and you'll see your
+
+colleague happy to be doing their best.
+
+This is one of the great characteristics of a leader.
+
+The ability to make people do their best in a healthy, motivated, and happy way.
+
+So, learn, practice, try to put yourself in other people's shoes.
+
+You can even practice this at home with your wife, with your children, your
+
+colleagues, your brothers, try to put yourself in their shoes because when
+
+you do it, you will better understand the reasons for their decisions.
+
+You will understand them better.
+
+You will know how to satisfy them, and you will be better on
+
+alligning their goals with yours.
+
+And then with empathy comes confidence too.
+
+Because look, if I call my team members for a conversation, if I try to know
+
+how they're feeling, how they're doing, if I tryto understand them, then, well,
+
+their wills, their dreams within the company, where do they want to go?
+
+How can I help them better?
+
+I gain their trust.
+
+I gain their companionship.
+
+They will know that I care for them.
+
+They will know that I'm working for them.
+
+And so they will work for me.
+
+They will know that I want their best.
+
+They will know that I value them and that I want them to work at my company.
+
+Be part of my team to grow with me.
+
+I want to help them grow.
+
+I want to achieve success with them and I want to make their dreams come
+
+true, but I will also align this with the dreams of my organization.
+
+This is a very winning strategy.
+
+It clearly requires on your part, a development related to empathy.
+
+It is not technical.
+
+It's not something you hear here and you can easily practice tomorrow.
+
+It is something that requires you to practice continuously.
+
+You need to continue to try to understand people, better, try
+
+to put yourself in their place.
+
+Try to understand why your team member ministry decision at some point, for
+
+instance, but on second thought, what about if you were in his place in the
+
+same context, would you have done the same and maybe you overreacted with him?
+
+What did the mistake from your part?
+
+It is about going deep and try to understand why people
+
+are behaving in a certain way.
+
+By being empathetic, you will be a better leader, greatly
+
+enhancing your influence on people.
+
+You will treat people fairly with time with your experience, dealing with people.
+
+If you try hard, you can become better and better, which are empathy,
+
+thus enhancing your potential.
+
+As a great leader.
+
+Remember a leader is about making people follow your lead because they want to.
+
+So by being empathetic, it's kind of like you're making them become closer to you.
+
+You're more connected to them.
+
+And this is a necessary trait that you need to become a good leader.
+
+People won't follow you if they don't feel connected with you.
+
+105.
+Having good communication is generating in people the understanding that you
+
+want them to have and the feeling and impact you want them to feel.
+
+Achieving good communication is not a one-way street.
+
+Conversely, it is more like a bumpy two-way street, with electronic
+
+speed bumps and obstacles.
+
+Such complexity exists because people, including ourselves, have different
+
+perceptions about what they hear and see.
+
+So when we talked to other people, whether in a one-to-one conversation
+
+or a presentation, intention is what you expect people to understand
+
+and feel about what you said.
+
+Reality is what they really understood and felt about what you said, got it?
+
+Again, intention is what you expect people to understand
+
+and feel about what you said.
+
+Reality is what they really understood and felt about you said.
+
+We, in general, judge ourselves given our intentions.
+
+However, other people judge us by the impact that we generate on them.
+
+For example, imagine a man that loves his wife but sometimes
+
+is not very gentle with her.
+
+One time she told him, dear, can I have an ice cream over there?
+
+And he answered, of course, yes.
+
+Just go and get it.
+
+And her reaction was like, okay, I don't think I want it anymore.
+
+Let's just go home.
+
+His intention was good.
+
+He really wanted his wife to have the ice cream.
+
+However, the way he communicated, especially considering his
+
+gesture, caused her to be inhibited in getting the ice cream.
+
+And many times, what comes after a scene like this is a fight because
+
+of previous lousy communication.
+
+It would have been totally different if he, if he had answered
+
+something like, sure, honey, do you want me to go get it for you?
+
+What flavor do you want?
+
+I know that at this point, you might be pondering on many
+
+situations that you have been too...
+
+where your intent and the real impact did not really match.
+
+I gave you an example from personal life, but the same
+
+issue frequently happens at work.
+
+So write it down.
+
+Your intention doesn't matter.
+
+What matters is your impact on other people.
+
+We tend to judge ourselves and defend ourselves based on our intention.
+
+However, our job is to understand how other people will receive our message
+
+by understanding their perception.
+
+Let me tell you a story.
+
+I used to work with a manager and he had some communication issues.
+
+For instance, during meeting, when someone suggested a solution different from his,
+
+he would stare at the person seriously.
+
+And he was like this.
+
+And then what happened?
+
+The team became inhibited to give new ideas, because it seemed
+
+like he got really annoyed.
+
+This impact was caused by the faces he made while others were
+
+talking throughout the meeting.
+
+However, I knew him.
+
+He was a nice guy who enjoyed being challenged and criticized.
+
+The problem is that when he was concentrated, he would frown
+
+his eyebrow while listening.
+
+And he would stare at the person because he was thinking about
+
+what the person was speaking.
+
+He was not trying to intimidate the person.
+
+Thus, he did not intend to discourage the team from innovating.
+
+However, the intention is not reality; and, it doesn't matter.
+
+In another meeting, he interrupted and said something like, "So,
+
+this is happening for two months, and I didn't know anything."
+
+And everybody was like paralyzed and intimidated by the rest of
+
+the meeting because they thought that he was complaining and
+
+blaming them for the failure.
+
+Still, given that he was not very involved in the project, his
+
+intention was to assume the guilt; he was not trying to blame the team.
+
+However, again, intention is not the reality.
+
+To wrap up this lecture, my final message here is to, whenever communicating to a
+
+person or group of people, and you don't get the impact that you have planned,
+
+don't think: what is wrong with them?
+
+What is wrong with these people?
+
+Instead, ask yourself, "how can I improve my communication and
+
+be more clear and impactful?".
+
+Exercising this has to do with our past lectures: develop your empathy,
+
+put yourself in your audience shoes.
+
+Understand their background.
+
+Doing this is the first step to figure out how to best communicate with them.
+
+Sounds good?
+
+Great!
+
+So let's move to the next lecture.
+
+106.
+Let's talk about the types of leaders and understand why you must not choose one.
+
+Maybe you will notice that right now,
+
+one of them will best suit you, but
+
+at the end of the next lecture, I want you to understand why you
+
+should not label yourself as one of the available types of leaders.
+
+I don't know what your profile is...
+
+So I would like to comment with you about each of the existing
+
+profiles and give you a hint on how you should view each one of them.
+
+Knowing these profiles will also help you to understand a little bit
+
+more about the art of leadership.
+
+The first
+
+leader type that we're going
+
+to discuss is the demanding one.
+
+It is the person who observes all the details, not missing any slip.
+
+Nothing goes unnoticed with this leader.
+
+They understand that in order to work.
+
+They have to cover
+
+all the gaps, and there are
+
+no spaces for mistakes.
+
+They are very critical, observant, and perfectionist.
+
+They believe that the only path to success is
+
+excellence.
+
+And the next
+
+type of leader is the
+
+autocratic.
+
+The autocratic leader is
+
+one who does not encourage effective participation in
+
+projects.
+
+They usually
+
+make all the necessary decisions and often oppress the team members.
+
+They see team members as
+
+competitors, not as collaborators, partners.
+
+They always conduct processes with a lot of energy, a lot of vigor.
+
+But they don't value the skills, knowledge, and results
+
+of the people that they lead.
+
+So they end up creating a work environment in which professionals are overcharged.
+
+So you have an environment of lots of demands and requests
+
+but little recognition.
+
+And this causes discomfort, in addition to limiting your team's
+
+performance.
+
+You just complain and demand.
+
+You never recognize.
+
+So this autocratic profile is much more for the boss than for the leader,
+
+okay?
+
+The next type of leader is the liberal.
+
+The liberal leader is one who gives employees the freedom to
+
+exercise their functions without much interference from the leader.
+
+Employees themselves are responsible for managing the results of their work.
+
+It is a way for the leader to show confidence in the capacity
+
+of each of the team members.
+
+However, you have to be careful with that.
+
+Because sometimes if you're too relaxed, if you give them too much freedom, it
+
+might happen that your team is going to start taking some attitudes of
+
+immaturity because they're just, you know, too far away, disconnected from you.
+
+On the
+
+other hand, a liberal leader
+
+gives freedom to good people to stand out.
+
+So they end up discovering talents.
+
+And the next type is the visionary leader.
+
+I
+
+really like this profile.
+
+They have a great sense of opportunity and has latent optimism.
+
+There that
+
+enterprise guy who anticipate situations,
+
+having the courage to take risks.
+
+This type of leader recognizes the importance of the collaborators, of the
+
+team, for the project to be successful.
+
+They always seek to motivate the team to achieve good results.
+
+So this is the visionary leader.
+
+And
+
+I confess that it
+
+is the profile
+
+that I like the most.
+
+The next one is the democratic leader.
+
+The democratic leader, as the name implies, is one that allows followers,
+
+the team members, to participate in decisions more effectively.
+
+They make important decisions in group.
+
+They believe in ideas.
+
+They accept criticism and suggestions because they believe that this is
+
+important for the evolution of projects, the team, and the organization as a whole.
+
+This opening of spaces for
+
+dialogue, this effective communication, and the feedback that they
+
+receive from the team, it brings a lot of growth and guarantee better results.
+
+Now, the concern about the democratic leader is precisely not to lose control.
+
+Because since they give a lot of
+
+openness for all people to
+
+participate, they suddenly can get into chaos, easily.
+
+Because sometimes you need to give some balance to the team.
+
+And then we have the "coach leader".
+
+The "coach leader" is the one who can identify the capacities
+
+of each one of the team members.
+
+He's able to understand what each person's
+
+capacity is, what each
+
+person does best.
+
+And uses this capacity to help maximize the results of the company's project.
+
+They present challenges, motivating news.
+
+They create a collaborative environment for entrepreneurs.
+
+They care about each individual professional.
+
+So coach leaders, they really follow
+
+the coach's principles
+
+of identifying what are the weaknesses and the strengths of each team member.
+
+And they seek to explore the strengths and improve the
+
+weaknesses to maximize the results.
+
+They follow each
+
+team member closely, motivating each one of
+
+them.
+
+So that they have confidence in their own work and by having good confidence,
+
+they will reach excellent results.
+
+Great!
+
+At this point, you know about the different types of leaders.
+
+In the next lecture, you will understand why you shouldn't
+
+label yourself as one of them!
+
+See you there!
+
+107.
+And now that you know about the different profiles of leaders, I want to tell
+
+you why you shouldn't choose a profile.
+
+Don't label
+
+yourself!
+
+It's just because
+
+none of these profiles is complete enough for you to choose to deal with
+
+all types of contexts and people.
+
+In fact, when you look at these profiles,
+
+you might imagine situations
+
+where it will be better to have a coach or a visionary leader.
+
+That's why you should think about yourself as being like more flexible.
+
+And being able to walk around all these profiles when needed.
+
+You need to be charismatic, integral, correct.
+
+You need to know how to listen, know how to speak at the right time, know
+
+how to motivate people, to identify the weaknesses and strengths of each
+
+of the team members individually.
+
+You need to create a connection between them.
+
+You need to be empathetic.
+
+You need to give them guidelines for correcting their weaknesses
+
+and maximizing their strengths.
+
+Furthermore, a leader shares experiences.
+
+It does not compete with the team members.
+
+They don't see the team members as competitors, but
+
+as colleagues, as partners.
+
+These are the characteristics that the company wants for a leader.
+
+Not necessarily a company wants a visionary or democratic leader.
+
+They want someone that can maximize the chances of success.
+
+And usually, you'll have to know a little bit of everything.
+
+So sometimes, you need to be that leader
+
+that earns the respect
+
+of your
+
+followers and helps them to resolve matters in an optimistic,
+
+creative, motivated, energetic, confident way.
+
+But sometimes, you need to act more like a boss.
+
+If you have already been a leader, you understand what
+
+I'm going to talk about here.
+
+Sometimes you have to deal with people that they only care about receiving
+
+the wages at the end of the month.
+
+So, you know, it's not possible to motivate them.
+
+So with these people often the effect of the leader, the
+
+weapons of a good leader, do
+
+not work.
+
+Being empathetic,
+
+trying to motivate them will not work because they are the problem.
+
+So you really
+
+need to command them, tell
+
+them what to do and how to do otherwise.
+
+They will just sit there the entire day and do nothing.
+
+Because they really don't care.
+
+Unfortunately, there are people who are very
+
+difficult to accept guidance, to accept be inspired,
+
+to trust their leaders.
+
+They are very hard to get motivated.
+
+So it's not easy to deal with them.
+
+So in cases where you see that there's a lot of lack of commitment,
+
+then you need to be a little boss.
+
+You need to be
+
+tougher, more incisive, talk less
+
+and just make them work.
+
+And you know, if nothing works...
+
+well, sometimes you have to fire them.
+
+So, what you need to understand is that you need to know, depending on
+
+the situation, which profile suits the best, which one will be more effective.
+
+So your goal is not about choosing a leadership style
+
+but to making things work.
+
+Getting work done in the most efficient way.
+
+Therefore, you need to learn how to act like any one of
+
+the profiles that we have just
+
+discussed.
+
+And the main tip
+
+that I want you to understand is for you to reflect a little about the types of
+
+profiles that we have just discussed here.
+
+Listen, a little more about these
+
+characteristics.
+
+Review and analyze which
+
+ones you have.
+
+For
+
+the good and the bad.
+
+Are you more like an autocratic leader?
+
+If so, perhaps you should look for more characteristics of
+
+these other types of leadership.
+
+And maybe decrease or eliminate some characteristics of the autocratic leader.
+
+If you're more like a liberal leader, think a little bit.
+
+Have you ever lost control of a project because of this?
+
+Have you ever felt that for being distant, your team is not connected with you?
+
+If this is the case, then maybe stop being so liberal, give some of your time
+
+to your team so that you can understand them better, and create a connection.
+
+So analyze all these profiles very well and try to understand where you are, where
+
+are you standing right now, and try to identify where do you need to improve.
+
+We will hardly be able to achieve perfection in all those profiles.
+
+Of course not.
+
+But you just need to keep trying to improve step by step.
+
+Try to improve your empathy, motivation, communication
+
+skills.
+
+And the years are gonna go by and
+
+based on your experience, you will see that you are going
+
+to get better and better.
+
+You will be inspiring.
+
+You will be inspiring people.
+
+In other words, you will be a better leader.
+
+108.
+To develop as a leader...
+
+in fact, to develop in your personal and professional life, a great tip that
+
+I give you is: find your references!
+
+So, what do I mean by references?
+
+You need to learn how to be an observer.
+
+So myself...
+
+I met people who are excellent communicators.
+
+Teachers, advisors, managers...
+
+maybe you work with someone that is a great leader.
+
+The way she speaks, her vision, her attitude, the look on her
+
+eyes, the way people react to her.
+
+If this is the case, use her as a reference.
+
+If you're about to make a talk at a conference, go to
+
+YouTube, watch a Ted Talk.
+
+Observe the renowned speakers doing their job.
+
+How do they start the talk?
+
+How do they move around the stage?
+
+What type of language do they use?
+
+What do they do with their hands?
+
+How do they interact with the audience?
+
+So what is my final message here?
+
+Do not miss the opportunity to observe.
+
+If you want to be a good leader, then watch a good leader work.
+
+How do they lead?
+
+How do they address their team?
+
+How do they give feedback to their team?
+
+How do they motivate their team?
+
+The best way for you to do this is by looking at your own
+
+leader if you have a good one.
+
+If you don't have a good leader, then you can observe
+
+the leaders from other projects.
+
+Unfortunately, in this case, you will not have direct access,
+
+daily contact with a good leader.
+
+But, you know, it's good to observe the bad leaders too.
+
+Try to understand why do they have a disconnected team?
+
+Why so many people who work for him go work elsewhere.
+
+Why he doesn't have the capability of retaining attracting good people?
+
+Maybe he's not empathetic.
+
+Maybe it's because he never has time to talk to interact with the team.
+
+So the team is always feeling disconnected from him.
+
+And this, of course, has a direct impact on the team's performance and
+
+their satisfaction with their job.
+
+Generally, everybody works with good and bad leaders and, you know,
+
+working with good people, you'll realize that they make mistakes.
+
+Nobody's perfect.
+
+So don't try just to copy them.
+
+You need to analyze them.
+
+You need to learn what they do well and what suits you so that
+
+you can copy their best behavior and feed it into your personality.
+
+As a result, you will learn a little bit here, a little bit there, a little
+
+bit with each one of the good and the bad leaders that you interact with.
+
+So they will be your reference.
+
+On the next lecture, I will give you one more tip, about
+
+how to improve as a leader!
+
+See you there!
+
+109.
+To wrap up this section, here goes my final tip:
+
+find your mentors.
+
+Mentors are those people who do something better than you and who can guide you.
+
+For example, you can have a friend, a project manager, or
+
+a software engineer that's more experienced or more knowledgeable
+
+than you, so he can guide you.
+
+You can talk periodically.
+
+He can give you feedback.
+
+Therefore he's being your mentor, your reference, and
+
+he will help you to develop.
+
+Mentors don't have to be older than you.
+
+They just gotta be better at you in a given task, maybe communication,
+
+programming, project management, organizing his personal finance, okay?
+
+And also, please, don't forget to practice.
+
+Practice everything that you have learned in this course.
+
+And such further read about leadership.
+
+Talk to experts.
+
+Talk to your friends who are already leaders.
+
+But practice, do not be afraid.
+
+Leadership is something that you learn when you practice.
+
+If you need to improve your communication, then as a great speaker says, when you
+
+have the opportunity to speak, speak!
+
+Be it at a birthday party, with all your friends, be it at a
+
+small event with like five people or a big event with 500 people.
+
+Don't miss an opportunity, have the ambition to go there and speak.
+
+The same thing applies to all the other characteristics.
+
+Always practice, and don't forget, always reflect on what you did
+
+and try to improve continuously.
+
+Whenever possible, ask the people around you for feedback because
+
+it is very difficult for us to have a perfect view of ourselves.
+
+We are always biased, especially when we're talking about our own defects.
+
+If I ask you right now about your three main qualities, well, most of you are
+
+going to be really fast to answer me.
+
+But if I ask you about your three defects, that's going to be a little bit harder.
+
+This is even a classic question in interviews.
+
+Because it is much more difficult to see our defects...
+
+So, you know what, just ask people for feedback and tell them to be honest.
+
+For this purpose, you need to accept the feedback.
+
+Don't be mad at them or upset if they tell you that you did something wrong.
+
+See it as a learning opportunity and not as a failure.
+
+Never, never underestimate the importance of listening to what
+
+other people have to say about you.
+
+Okay.
+
+And with this, we wrap up this section.
+
+Great job.
+
+110.
+As a leader, your main goal is to conduct people to achieve the planned objectives.
+
+For this purpose, you need to learn how to delegate work.
+
+It seems pretty simple.
+
+You take a set of tasks to be done and tell people to do it.
+
+At the end of the process, each one delivers his or her tasks and you succeed.
+
+It sounds pretty easy, right?
+
+Not really!
+
+Poor delegation is one of the main causes for organizations to
+
+not achieve the planned results.
+
+And, who gets the blame?
+
+Poor leaders!
+
+If people on leadership positions, such as project managers, knew how
+
+to delegate tasks, organizations would be way more productive.
+
+Thus, if you want to become an effective leader, you must
+
+learn how to delegate work.
+
+In the next lecture,
+
+you will learn what types of delegation exists.
+
+I'll see you there.
+
+111.
+It is time for you to learn the three types of delegation: Gofer
+
+or Micromanagement, Dump & Run, and Stewardship Delegation.
+
+Next, I will describe each one of them.
+
+And as an exercise, try to figure out which one is our current style.
+
+Let's start talking about gofer.
+
+This type gets its name because you have the leader telling people to
+
+go for task one, go for task two,
+
+and so on...
+
+Instead of giving people a big picture, a vision of the results to be achieved.
+
+THe leader focuses on describing the exact step-by-step to
+
+be followed and continuously checking if the person is done.
+
+For instance, let's assume that I hired a video editor to edit my videos.
+
+Here, I will tell the editor exactly what to do for each video, where to cut
+
+the videos, which elements or effects to add when to add them, where to add
+
+them, the exact position on the screen.
+
+Which font to use, which colors to use.
+
+I would tell her exactly what to do.
+
+The editor would merely follow my instructions.
+
+It is almost like programming a computer, telling it exactly what to do.
+
+This type of delegation is the most annoying one because
+
+it displays a lack of trust.
+
+Further, people that are micromanaged tend to not care about the intended
+
+objective but only on the task at hand.
+
+This happens because they don't have a big picture, a vision
+
+of the goals to be achieved.
+
+They don't feel as they own the results.
+
+Thus, they feel that as long as they're done with whatever was
+
+told them to do, they're fine.
+
+What if I mess up on the instruction for my video?
+
+What if I tell the editor to add an element that doesn't
+
+make any sense for the video?
+
+What would the editor do?
+
+If she feels micromanaged,
+
+if she feels that she doesn't own the work, she's probably not motivated
+
+enough to care about the results.
+
+She would just follow my instructions, and whatever goes wrong, she's going
+
+to say, Hey, it's not my fault.
+
+I'm just doing what Mirko told me to do.
+
+How do you think micromanaged people react to unexpected issues?
+
+They don't react.
+
+They feel like it's not their job to figure out what to do.
+
+It is the leader's job to describe all the scenarios that might occur and
+
+the associated step-by-step solutions.
+
+Thus, gofer might work for very simple, repeatable tasks.
+
+One example is a company that I used to work for when I was very young.
+
+My job and the job of hundreds of others was to classify if the results for
+
+Google searches were relevant or not.
+
+So we had this huge, very detailed guideline that we needed to
+
+follow exactly as described.
+
+We had no idea how Google would use our results.
+
+We just cared about finishing our daily tasks and getting paid.
+
+The company would make sure to micro-manage every task.
+
+Making sure that we were getting done fast enough and with enough quality.
+
+Otherwise, we would get fired.
+
+The company didn't expect us to be super motivated.
+
+It just wanted us to get the tasks done.
+
+One at a time.
+
+We acted like task doers to complement Google's algorithm.
+
+Apparently, the gofer approach works well for them.
+
+Because the work was highly predictable and they had a bunch of people doing
+
+the same tasks, so they could easily compare the performance of each worker.
+
+However, notice that the gofer approach is not suited for most environments because
+
+instead of taking the most of people, you reduce them to task doers, which
+
+will make them get demotivated and get annoyed by your very presence as a leader.
+
+Further, if you have many tasks dependent on each other, you, as
+
+the leader, will have to control and synchronize everything.
+
+Thus, it only works to the point where you have enough time
+
+to control such dependencies.
+
+I like to think of gofer delegation as a ventriloquist.
+
+Because there's a very limited amount of tasks to be done that
+
+you can control, and you take away from people their capabilities to
+
+input and come up with solutions.
+
+Have you ever been in this situation, micromanaged or micromanaging people?
+
+How was your experience?
+
+Think about these questions for a little bit, and then move to the
+
+next lecture, where you will learn about the dump & run delegation.
+
+See you there.
+
+112.
+The next type of delegation is Dump & Run.
+
+Here, the leader quickly tells the person what to do.
+
+Doesn't make sure that the person knows how to proceed and disappears.
+
+This type is also called delegation by abdication.
+
+You dump responsibility to other people and run away.
+
+It is very common in scenarios in which the leader had a bad
+
+experience with micromanagement and wants to radically change things.
+
+Or when you are excessively confident in people's abilities.
+
+Or even when you think that there is a common agreement of what needs
+
+to be done when there isn't one.
+
+You don't define deadlines, scope, authority, such as what
+
+decisions can the person make.
+
+You leave everything for the person to figure out without
+
+any guidance or support.
+
+The result is usually having people that are lost.
+
+They don't know what to do.
+
+Worse than that, they don't know if they should look for their leaders to ask
+
+for help because they think that it's their fault for not knowing what to do.
+
+The outcome is obvious.
+
+Lots of rework, waste.
+
+People getting demotivated, and the necessary results are not achieved.
+
+Okay.
+
+Now let's move to the next lecture and talk about the last type of delegation.
+
+I'll see you there.
+
+113.
+Finally, the balance.
+
+The ideal one.
+
+Stewardship leadership.
+
+This type is based on three pillars.
+
+Vision, restriction, and support.
+
+You share the vision, the results to be achieved.
+
+You enable them to feel part of the team and that they own the results.
+
+However, you define the necessary restrictions, such as deadline, standards
+
+to be followed, or reporting mechanisms.
+
+Thus, you give them the freedom to define the procedure and methods, given that they
+
+conform with the imposed restrictions.
+
+Let them be aware of the decisions that they can make, what
+
+degree of freedom do they have.
+
+It is very important to make this clear.
+
+Two things might happen.
+
+If people are not aware of the degree of freedom, they have for making decisions.
+
+First, they might be interrupting you frequently to ask stuff that
+
+they could decide without your input, making you waste your time.
+
+Second, they might make decisions that go against the expected standards or
+
+templates, which might cause rework.
+
+Because they'll have to fix it.
+
+This will make you waste time, too.
+
+But even worse, they will get annoyed because of the rework.
+
+To avoid these issues, make sure that the task doers know all the task restrictions
+
+so that they can make better decisions.
+
+And, finally.
+
+Give the people the necessary support.
+
+Do they already know all needed to get the job done?
+
+If yes, great!
+
+Let them do their job.
+
+If not, share with them the necessary know-how and then let them
+
+define how to get the work done.
+
+Despite the situation, make yourself available to help them figure out any
+
+issues or impediments that might come up.
+
+Let's see an example, for instance, for editing a video.
+
+Instead of telling the editor exactly how to edit the video, I can start
+
+by sharing with her three examples of videos that I think are awesome
+
+and explain what makes them awesome.
+
+Then, instead of telling her exactly where to cut the video or add
+
+elements or effects, I could give her additional information, as most, as
+
+she needs to understand the expected quality and style for the video.
+
+A restriction could be that the screen can not be frozen without
+
+movement for at most five seconds.
+
+If this is the case for the original video, figure out the best solution, which
+
+might be, add an effect, add an image, add objects or elements on the screen.
+
+Is the editor's job to figure out what to do.
+
+By doing this, I'm not telling her exactly what to do.
+
+I'm just giving her constraints, restrictions on what is good
+
+and engaging video for me.
+
+However, it is up to her to figure out how to solve each possible issue.
+
+I'm making her responsible for the vision but within agreed restrictions.
+
+Finally, I make her accountable before her work by setting deadlines with her.
+
+Instead of telling her to get it done on Monday, I ask her, when
+
+can you get done with this desk?
+
+Of course, we might end up negotiating a little bit, but I let her define when she
+
+will be able to deliver the work whenever possible with the expected quality.
+
+Further, I define all the reporting mechanisms to avoid having me
+
+annoying her with: how is this task?
+
+Are you done yet?
+
+When are you going to be done?
+
+For this purpose, I might ask her, for instance, to update a daily
+
+spreadsheet or task management tool.
+
+Or, you know, just send me a weekly report.
+
+I usually have people to send me daily reports.
+
+Not because I want to know exactly what they've been doing during the day, but
+
+because I want to know if there are any problems or impediments for which they
+
+need my intervention, they need my help.
+
+This is one very important thing make yourself available to help
+
+them time stuck is time wasted.
+
+Great.
+
+You now know about the three types of delegation.
+
+Given this, how should you improve your work delegation skills?
+
+This is a topic of our next lecture.
+
+I'll see you there.
+
+114.
+In this lecture, let's wrap up talking about delegating work.
+
+As we have discussed in previous lectures, there are three types of delegation,
+
+Gofer, Dump & Run, and Stewardship.
+
+Gofer gives too many instructions on how to get the work done and might cause
+
+people not to care about the end result.
+
+Dump & Run gives people too much freedom.
+
+Lacking enough support or instructions, people might get lost.
+
+Ideally, you would go for the Stewardship Delegation.
+
+Because it has a good balance between giving people the freedom to define how
+
+to get work done but with enough support.
+
+However, as discussed in previous lectures, other
+
+types might sometimes work.
+
+Thus, instead of choosing a type, focus on the pillars.
+
+Whenever you're delegating work, ask yourself three questions: first, do they
+
+know what is the result to be achieved?
+
+Second, are they aware of the task restrictions, deadlines,
+
+standards, reporting mechanisms, decision-making freedom...
+
+Make sure that everything is transparent and make sure to
+
+not transmit lack of trust.
+
+And third, do they know how to get the work done?
+
+If not, provide training.
+
+And be there for them along the way.
+
+Sounds good?
+
+Try to adopt each aspect of delegation and observe the results.
+
+I am sure that learning how to delegate work will make you
+
+shine as an effective leader.
+
+115.
+Welcome!
+
+Now that you have an overview, of a good leader's characteristics
+
+and how to improve on that.
+
+In this section, you will learn two special techniques to adopt
+
+RIGHT NOW on your projects.
+
+Maximizing their chances of success, and of course, making
+
+you a more valuable professional.
+
+The first one is the Project Kick-off Meeting.
+
+It's a great practice to engage your team, get their buy-in, and
+
+create an environment of trust.
+
+Making sure that your team collaborates as a unit to achieve your project's goal.
+
+Later on...
+
+you will learn about the Lessons Learned.
+
+Which is a deeply valuable practice used by highly effective
+
+organizations such as NASA.
+
+For each of these techniques, you will learn all the necessary
+
+theories but focusing on putting them into practice right away and
+
+in the most efficient way possible.
+
+Are you Ready?
+
+So letâ€™s move to our next lecture.
+
+See you there!
+
+116.
+
+In this lecture, I want to introduce you to a simple and efficient technique:
+
+the "Project Kick-off Meeting."!
+
+However, before talking about it, let me explain you the problem.
+
+A project is about the team.
+
+It is about the team being effective and efficient to achieve the project's goals.
+
+A problem faced by most companies is that the team, the people, lack enough
+
+information about the project in hand.
+
+What is its vision?
+
+What are the goals?
+
+This lack of context causes them to question themselves,
+
+why am I doing this task?
+
+At the end of the day, the only answer that they have is: I am doing
+
+this because someone told me to.
+
+And, well, this is not very encouraging.
+
+As a result, you will have people that feel like they are task doers, instead
+
+of intelectually capable human beings.
+
+This situation causes them to get desmotivated, and this might directly
+
+affect the project's results.
+
+And, guess what?
+
+the rate of failing projects is astonishing, mostly
+
+due to leadership issues.
+
+I am sure that you don't want to be on this position, that is why, I am going
+
+to teach you a simple, but effective way of starting the project having
+
+everybody with the correct mindset!
+
+The solution is to hold a Kick-off meeting!This meeting is a powerful
+
+weapon to gain your team's trust, give them a shared goal, and motivate the
+
+involved people to work as a real team!
+
+Each individual should leave the meeting, feeling as an essential
+
+factor for the project's success and in line with the project's goals!
+
+Pay attention!
+
+Never forget this!
+
+When working with a team, You are dealing with human beings!
+
+Sometimes, we might think that because everyone's getting paid...
+
+they will automatically be 100% motivated and give their best!
+
+But, in practice, it isn't so simple!
+
+People need special kind of motivation!
+
+no matter how well they get paid.
+
+They need to be challenged and to feel important.
+
+They need to understand the why behind their activities!
+
+The Kick-Off meeting!
+
+has two main purposes.
+
+First, to set expectations.
+
+And, second, motivate the project team, boost its morale!
+
+At this point, you understand the motivation for running kick off meetings,
+
+but how to conduct an effective one?
+
+The answer for this question is the topic of the next lecture!
+
+See you there!
+
+117.
+In this lecture, you will learn how to conduct a project kickoff meeting.
+
+First, notice that there are two types: client and internal kickoff meetings.
+
+A client kickoff meeting, as the name suggests, involves the
+
+project's clients, if there are any.
+
+Notice that some projects are internal and don't involve people
+
+outside of the organization.
+
+Internal kickoff meetings involve the project team and your organization's
+
+internal stakeholders, which include people that can affect
+
+or be affected by the project.
+
+For internal projects, it's the only kickoff meeting to be held.
+
+However, if your project has an external client or customer, you might want to have
+
+an internal kickoff meeting before having the client one so that the project team
+
+is aligned before meeting with the client.
+
+Let's start talking about this one.
+
+First, let me give you the greatest tip ever.
+
+Don't use the project kickoff to lay off information.
+
+You might be wondering, what do you mean, Mirko?
+
+Do you know that feeling of being in a meeting and thinking, why am I here?
+
+Why didn't they just send me an email with this information?
+
+I have been there a lot.
+
+If it's a one-way communication, share a document, send an email don't
+
+waste people's time with a meeting.
+
+This is a horrible way of starting a project.
+
+The kickoff meeting should, whenever possible, be collaborative,
+
+setting up your team for success.
+
+To achieve this, you got to do some preparation.
+
+First, share background project information with the participants.
+
+With enough time ahead of the meeting, you can include here: their project goals,
+
+timeline, scope, communication strategy, and the main risks so that everybody has
+
+enough context for the project kickoff.
+
+Second, if you're planning to have specific questions addressed to the
+
+participants, send the questions to them before the meeting so that they
+
+can plan the best answers properly.
+
+Third, if you think that some questions will be raised, prepare the answers
+
+and necessary supporting documents.
+
+Maybe a couple of slides to answer them the best way possible during the meeting.
+
+And finally, set up the meeting's agenda.
+
+As a rule of thumb, I would say that to plan it to last at most one hour.
+
+People usually get very bored after one hour in a meeting.
+
+Also is schedule the meeting ahead of time to make sure everybody can plan properly.
+
+And of course, plan the meeting.
+
+The meeting must be conducted following a plan.
+
+Failing to plan is planning to failure.
+
+The kickoff meeting is expansive, and it's your opportunity to uplift your
+
+team's morale early in the project.
+
+Don't underestimate its importance.
+
+Given this, let's talk about the agenda.
+
+The structure depends on the project, but the most include the five why's:
+
+who, what, where, when, why, and how.
+
+Given this, I'm going to suggest that in the agenda here, but feel
+
+free to adapt it to your context.
+
+The first thing to consider is to set the stage.
+
+Separate at most five minutes, to explain to everybody the
+
+meeting's, goals and structure.
+
+If you have worked with this project's client in the past, you can
+
+start by letting the team know the client's style and work preferences,
+
+which might include, for instance, reporting mechanisms and frequency.
+
+Then, give the people the opportunity to introduce themselves,
+
+focusing on their role and what they'll deliver in this project.
+
+You can add here an icebreaker activity by asking them to, for instance,
+
+tell a project or a story, or things that went wrong in past projects
+
+and what they have learned from it.
+
+Separate around 5 and 10 minutes for this part depending on the team size.
+
+Later, it is time to bring the team and align the perception
+
+of the project's goals.
+
+This is about coming with the why behind the project.
+
+What motivates the project?
+
+Why is it important to the organization?
+
+Here, for instance, you could facilitate a session for the
+
+participants to come up with an elevator pitch or a vision statement.
+
+And, it should last around 10 minutes.
+
+Let's suppose that your company was hired for a project about training
+
+25 novice software developers in artificial intelligence technologies.
+
+The client's goal was to at the end of the process, hire as most people as possible.
+
+The vision could be something like this.
+
+For a given customer, this project solves a problem of recruiting software
+
+developers with expertise in developing artificial intelligence-enabled systems.
+
+For your organization, this project can be important because it opens the door
+
+for other future training projects with this company and other tech companies.
+
+At this point, everybody will be aligned, understanding why the project exists
+
+and why it is vital to the organization.
+
+And if it's the case for the client, the next step could be to define success.
+
+Here, you could ask the participants to come up with
+
+success indicators and targets.
+
+For instance, for our example project, what is success?
+
+Teaching all the planned content on time.
+
+What level of expertise is expected for the students at the end of the project?
+
+Notice that the idea here, again is to bring the team
+
+into a common understanding.
+
+Reserve around 10 and 15 minutes for this step.
+
+Next, you could clarify the scope.
+
+Reserve an additional 10 minutes.
+
+For instance, you could give them a canvas divided between in scope and out
+
+of scope and ask them to fill it up.
+
+For our example, we could have within the project scope, preparing the content,
+
+teaching the lectures, preparing and conducting learning evaluation activities,
+
+mentoring or coaching the students, which artificial intelligence technologies
+
+and tools should be covered, and so on.
+
+Out of scope, could be recruiting students, because another organization
+
+is responsible for this activity.
+
+At the end of the process, you should be able to resolve any scope
+
+conflicts, make it things crystal clear.
+
+Then, you can clarify who is responsible for what if it is the case.
+
+The main point here is to have the team to understand the importance of each people
+
+and how their work affect each other.
+
+Since your project here is for a training program, you could identify
+
+who are the instructors for each topics, who's going to mentor or
+
+coach the students, and so on.
+
+The next point here is what's often missed on kickoff meetings.
+
+But I think that is an essential one.
+
+Ask people about how they feel about the project in general.
+
+You could go with a simple thumbs up and thumbs down mechanism here.
+
+If there are thumbs down, try to identify the issues and solve
+
+them if they are easy to solve.
+
+If someone comes up with a risk that no one thought about it yet,
+
+and no one has a good answer.
+
+You could schedule a follow-up meeting for this part of the meeting.
+
+Five minutes should be enough.
+
+Then, finally, close the meeting, ask if anyone has any questions, and answer them.
+
+Also, make sure you leave a positive and engaging message to boost
+
+your team morale and make them put their hearts into the project.
+
+This is your job as a leader.
+
+Further, if it is the case, set the team for the client kickoff meeting, make
+
+sure that your organization looks good.
+
+To wrap up this lecture, let me just make a quick comment about
+
+the client kickoff meeting.
+
+The main difference here is that, of course, the client will be there.
+
+The overall goal is the same as the internal kickoff meeting,
+
+which includes setting the tone, project vision, scope, and timeline.
+
+However, you will focus more on introducing the client
+
+to the team and vice-versa.
+
+And agreeing with the client, how to effectively work together to
+
+deliver the project successfully.
+
+And this is it, great job!
+
+Now that you know how to conduct a project kickoff meeting, you
+
+are a more empowered leader.
+
+Don't underestimate this technique because it can bring you wonders on your projects.
+
+I will see you in the next lecture.
+
+118.
+Kick-off Meeting Agenda Template (Downloadable file)
+Hey there, how is it going?
+
+
+
+I have prepared a document to help you plan your kick-off meetings!
+
+
+
+The document is available here (click here).
+
+
+
+To use it, download it or make a copy of the Google Document.
+
+
+
+Please, let me know if you have any issues.
+
+
+
+Mirko

@@ -1,0 +1,223 @@
+To have a deeper understanding of Scrum's purposes and mechanics, it is crucial to
+
+understand its roots in the Agile mindset.
+
+Further, it is essential to comprehend Agile's older brother, the traditional
+
+way of working, also known as waterfall.
+
+Given this, this lecture focuses on giving you a better perspective
+
+of the Agile mindset and how it compares to the waterfall approach.
+
+Let's make things visual.
+
+First, let me start here by drawing the X-axis for time.
+
+And the Y-axis is going to be for the product vision, which here means
+
+the product description, including its requirements and features.
+
+Now, let's assume that right here is our initial vision.
+
+The waterfall approach is also known as traditional, proactive, predictive,
+
+plan-driven, and disciplined.
+
+Why?
+
+Because in waterfall, we aim to develop the perfect plan and then follow it.
+
+I like to compare it with the way we work with a cannon.
+
+Say that you have a target and need to hit it with a cannon.
+
+What do you do?
+
+You aim for the target and
+
+"boom" take the shot.
+
+"Aiming for it" in the business world usually means having an approved project
+
+plan or a signed contract specifying what will be done, when, and for how much.
+
+Further, "shooting" means following the plan.
+
+Let's represent these concepts in our model.
+
+Let's assume that this is a development cycle's starting point and that the
+
+plan is represented by this arrow pointing to our initial vision.
+
+Given that we have a plan, what do we do in waterfall?
+
+We execute it until the end.
+
+And, after a period, we will reach our initial vision.
+
+Consequently, if we assume that we got the visual right at first and
+
+have a fixed target, we are good to go if we can develop the perfect plan.
+
+However, what if we can't get the vision right at first?
+
+Let's go back to the cannon.
+
+What if the environment changes?
+
+If the wind starts blowing stronger?
+
+Or an obstacle gets in the way?
+
+Or if we have a moving target, like a car?
+
+Let's represent such uncertainty by assuming that this is our correct
+
+vision, far from our initial one.
+
+Even though we were initially aiming correctly, we would miss the target!
+
+The same thing might happen in the business world, especially when
+
+working with new technologies and markets; the correct vision is,
+
+usually, far from our initial one.
+
+For this reason, waterfall can lead you to a useless product whenever
+
+there is lots of uncertainty regarding what to build and how to build it.
+
+Notice that I am exaggerating here slightly when comparing the waterfall
+
+approach with shooting a cannonball.
+
+Theoretically, in waterfall, we could change the initial plan, but, in practice,
+
+we would not move the vision much because of the associated cost and bureaucracy.
+
+As a result, two things might happen.
+
+First, the implemented changes might not be enough to deliver the correct vision
+
+or something sufficiently close to it.
+
+Or, second, we might at some point get to the correct vision, but it will
+
+be so late that it might be useless.
+
+Given this, what is the alternative to waterfall?
+
+Here is where Agile, also known as an adaptive approach, comes in.
+
+In Agile, we assume that we initially don't know the target.
+
+We acknowledge that we cannot come up with a perfect plan.
+
+The idea is to deliver something close to the customer's needs in
+
+short cycles, given what we know now and learn with experience.
+
+Thus, here, we would point to our initial vision
+
+and then make a rapid release to the customers or present
+
+the product to stakeholders.
+
+Notice that this release contains only a fraction of our current product vision!
+
+After experiencing the result, the customers, stakeholders, and the
+
+team become more informed and make a better decision about the product,
+
+which might be adjusting our product vision.
+
+At this point, you might be asking yourself, "But, Mirko, in practice,
+
+why do such adjustments happen?"
+
+There are many possible causes.
+
+The first is our team learning more about the technologies being used.
+
+The second is changes in the market or available technologies, for instance,
+
+an update on the tools we are using.
+
+A third is poor early and customer analysis.
+
+And finally, there's the phenomenon popularly known as "IKIWISI", which
+
+means "I know it when I see it".
+
+For some types of products, especially the more innovative ones.
+
+it is useless to ask potential customers if they will like the product or use it.
+
+Why?
+
+Because if the product is so innovative, they won't be able to really grasp
+
+how they could interact with it.
+
+Or sometimes, it is just too hard to explain the product to them
+
+because it is so intangible, which is frequent with software products.
+
+Given this, the users just know if the product is valuable when they see it.
+
+In these scenarios, the only way to get meaningful validation from the
+
+customers is to show them something usable and have them use it.
+
+Right here, after they have analyzed or inspected our deliverable, we get
+
+feedback from them and learn more about what needs to be delivered.
+
+As I previously said, this might cause us to adapt our vision
+
+and, consequently, our plan.
+
+And then, what we do next?
+
+We deliver a new version, get our customers to use it, analyze the feedback
+
+and adjust again; hopefully getting closer and closer to the correct vision.
+
+And we keep doing this until we reach the correct vision.
+
+Given this, what is agility?
+
+Agility, or being agile, means responding to change.
+
+Now, let's do a quick review of what we covered in this video.
+
+At this point, you know that waterfall is better suited for endeavors in
+
+which we know what to do, what to deliver early in the development cycle.
+
+Well-known examples are constructing a bridge
+
+or a building because the scope, or the work to be done, is
+
+not expected to change much.
+
+Conversely, Agile is best suited for complex environments, where changes
+
+are natural and should not be avoided because adapting is the way to lead
+
+us to the desired outcomes, in other words, the correct product vision.
+
+This scenario is frequent for developing innovative or complex products.
+
+Further, you know that Scrum is an Agile framework for guiding changes.
+
+Great job!
+
+In industry, many people confuse being agile, rapid and lean.
+
+In the following lecture, we will discuss how these concepts relate to
+
+each other, giving you solid foundations for what is to come in this course.
+
+See you there.

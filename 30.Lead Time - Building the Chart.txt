@@ -1,0 +1,163 @@
+The best lecture you learn about the lead time in the lead time chart.
+
+No that's address how to build the chart.
+
+Forest.
+
+Where does the record information come from?
+
+We.
+
+Need to know the date when each task was created in the
+
+date on which it was completed.
+
+If you're using a physical Kaban board, did they start reading
+
+all the cards, given this.
+
+You would have to collect this information in manually create the chart.
+
+If you use a. Too, such as cable or another similar one.
+
+You can automatically generate the chart with a few clicks.
+
+On Caitlin to click on tools.
+
+on analytics.
+
+And.
+
+And this window opens now click on lead in cycle time in the
+
+chart will be presented here.
+
+Notice that the chart is not showing you up.
+
+Here because my board doesn't have enough data.
+
+However, if I had data.
+
+wouldn't have something similar to what I showed in the previous lecture.
+
+Pretty handy.
+
+Right.
+
+Even though using Kevin to makes tasks such as plotting the lead time chart.
+
+Easy.
+
+Some of you might be using physical cabin boards or your team uses
+
+a digital tool that doesn't.
+
+We have analytics features in the case you could use a spreadsheet to plot the chart.
+
+a gift.
+
+Gift.
+
+one as a resource that you can download.
+
+To To populate the chart.
+
+Either delete times data in.
+
+In this table.
+
+The example data has each column representing.
+
+Venting a date in 15 columns.
+
+You can change this to fit your needs by Eddie.
+
+More columns or having each they store data from different
+
+periods such as one week.
+
+Or one month instead of one day.
+
+line here represents the lead time.
+
+Of each test completed.
+
+on January.
+
+Very first one task was completed with the lead time of two days.
+
+And another.
+
+The other one was finished with the lead time of one.
+
+On January 2nd.
+
+had one test with a lead time of one.
+
+so on.
+
+see this information.
+
+on the lead time chart, which is a scatter chart, having the X Xs for.
+
+The date on which the tasks were completed, the Y X four
+
+delete time of the task.
+
+Tasks completed.
+
+And the dot colors are associated with the lines from the table.
+
+first line is represented by your blue and the second one by orange.
+
+Example.
+
+1st, we have adult with two days in.
+
+I have another adult.
+
+With one day awfully time.
+
+that as previously discussed Xcel elder.
+
+Although medically associates, the doc calls with the lines.
+
+So.
+
+So each line is represented by a different color.
+
+However, notice that.
+
+If you wish you can use the chart formative features
+
+to customize the quarters.
+
+To fit your needs.
+
+And with this, we finished talking about the lead time.
+
+In this lecture, we saw that cable to automate.
+
+Automatically creates the lead time chart.
+
+But weekend.
+
+Alternatively.
+
+spreadsheet for the same propose.
+
+The second option might make sense.
+
+If you work with physical cabin boards, or if your team uses a tool that doesn't.
+
+Support lead time charts.
+
+lecture.
+
+That's.
+
+Let's discuss our second carbon metric cycle time.
+
+See you there.
+
+

@@ -1,0 +1,191 @@
+w, that you have a better grasp of Scrumban, let’s compare it with Scrum
+
+and Kanban and discuss when to use it.
+
+We are going to compare Scrum, Kanban, and Scrumban using these factors.
+
+First, in terms of team size, a Scrum Team typically has 10 or fewer
+
+members, while this is undefined for Kanban and Scrumban teams.
+
+However, notice that this is not a rule and that you can scale
+
+Scrum by having multiple Scrum Teams working on the same product.
+
+If you want to learn more about this, take a look at Scrum.org’s Nexus Guide.
+
+In terms of accountabilities, Scrum prescribes three, while Kanban
+
+and Scrumban don’t prescribe any.
+
+However, it is common to use or adapt Scrum’s accountabilities in Scrumban.
+
+While Scrum has Sprints lasting one month or less, Kanban follows a continuous
+
+flow, and Scrumban has virtual iterations aiming to last at most 2 weeks.
+
+Scrum Teams start a Sprint by conducting a Sprint Planning event.
+
+Kanban doesn’t prescribe planning events, while Scrumban has on-demand planning.
+
+One of the goals of Scrum’s Sprint Planning is to select items from the
+
+Product Backlog to the Sprint Backlog.
+
+Thus, in general, the selected items must fit the Sprint, while
+
+Kanban and scrum and Scrumban have work items with unlimited size.
+
+Further, we can conclude that Scrum’s work management is Sprint Backlog-based because
+
+the Sprint Backlog is the single source of work for the team during the Sprint.
+
+Conversely, Kanban and Scrumban have a continuous pull-based system.
+
+As an observation, during an iteration, Scrumban teams only pull
+
+work from the “Ready” column, but they are free to update it whenever
+
+they want without bureaucracy.
+
+This discussion leads us to the next aspect: the board.
+
+In Scrum, the board is reset after each Sprint, since each
+
+Sprint starts from scratch.
+
+Conversely, Kanban and Scrumban have persistent boards.
+
+Some people say that limiting Work in Progress is restricted to Kanban
+
+and Scrumban, but this is not true.
+
+They limit it at the column level, but Scrum also limits it.
+
+By having timeboxed Sprints, in Scrum, the work in progress is
+
+automatically limited by the Sprint Backlog, since it is the team’s only
+
+source of work during the Sprint.
+
+However, it is important to mention that Scrum gives the team the flexibility
+
+to change the scope within the Sprint.
+
+Many people point out that one of Scrum’s disadvantages is that any
+
+change in scope mid-sprint must wait for the next one, but this is not true.
+
+You can change the Sprint Backlog, as long as it doesn’t endanger the Sprint Goal.
+
+However, if the change endangers the Sprint Goal, you should, in
+
+general, wait for the next Sprint.
+
+You also have the option to cancel the Sprint, but this should be only
+
+done if the change is really critical.
+
+Notice that you might still see this as a weak point of Scrum in terms of handling
+
+changes, but there are techniques that you can apply to handle super volatile
+
+environments such as every Sprint Planning, reserving part of the team
+
+capacity, say 20%, to handle unplanned work that might come up during the Sprint.
+
+I have used this before and worked like a charm.
+
+Finally, the last aspect is the Events.
+
+Scrum prescribes that these events must be conducted every
+
+Sprint, with no exceptions.
+
+In contrast, Scrumban teams usually conduct these events too,
+
+but on-demand, and Kanban have no prescriptions about events.
+
+However, it is a good practice to conduct these events in Kanban
+
+for promoting feedback loops.
+
+Now, for us to have a big picture about how Scrum, Kanban, and Scrumban
+
+compare in terms of flexibility, let me use a color code for this table.
+
+Here, I used green for the most flexible approach, red for the least
+
+flexible, and yellow if in-between.
+
+For example, in the first line, I marked everything with green because none of
+
+them have rules regarding the team size; Scrum only suggests having a team of 10
+
+or fewer people, but it is not a rule.
+
+In the third and fourth lines, I marked Scrumban with yellow since
+
+it adds a little bit of structure on top of Kanban by having the “Ready”
+
+column with work-in-progress limits.
+
+As you can see, in general, Scrum is the least flexible and Kanban the most.
+
+This result is expected since Scrum is a more complete framework, with more rules.
+
+However, it is important to notice that Scrum and Kanban have different goals.
+
+Scrum focuses on building the right product within a
+
+context of high uncertainty.
+
+This is why it focuses more on product management strategy practices and
+
+has, for example, Product Owner and the Sprints as a way of building part
+
+of the product to gather feedback and adjust the requirements as needed.
+
+On the other hand, Kanban focuses on optimizing the workflow.
+
+As we already know, these ideas complement each other.
+
+Scrumban complements Kanban with some Scrum ideas and practices.
+
+This is why Scrumban is a way of implementing Kanban.
+
+Conversely, Scrumban removes some of Scrum’s mandatory aspects, and
+
+this is why Scrumban is not Scrum.
+
+Scrumban does this as a way to minimize waste, especially in planning activities.
+
+One situation in which Scrumban, instead of Scrum, is used a lot is when
+
+the team has a hard time estimating the effort for completing work items.
+
+This might be the case when the work item is ambiguous or very complex.
+
+An example is developing an innovative machine learning algorithm for
+
+recognizing objects from images.
+
+This task has lots of uncertainty regarding gathering the dataset, cleaning
+
+the data, building the models, defining hypothesis, testing them, and so on.
+
+Thus, it might the case that estimating work items and planning Sprints ends
+
+up being a waste of time because the estimates will be very imprecise
+
+and the team might finish a sequence of Sprints without being able to
+
+get any Product Backlog item done.
+
+In summary, we saw that Scrumban makes Scrum more flexible
+
+while adding structure to Kanban.
+
+However, adopting it requires caution and we will discuss why in the next lecture!
+
+See you there!

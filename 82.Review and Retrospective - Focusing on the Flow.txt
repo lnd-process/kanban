@@ -1,0 +1,57 @@
+Now, let us talk about the Review and Retrospective events.
+
+As you already know, in Scrum, they are held at the end of each Sprint.
+
+And in Kanban, they are not prescribed, but it is good practice
+
+to adopt them as feedback loops.
+
+Scrumban teams, in contrast with Scrum Teams, are free to conduct
+
+these events only when needed.
+
+However, the goals of the events are the same as in Scrum.
+
+For example, a Review meeting can happen whenever there are enough
+
+deliverables for the stakeholders to inspect and give feedback.
+
+However, there are cases in which the stakeholders prefer having a
+
+fixed cadency for the Review meetings because of their busy schedules.
+
+It is up to the Scrumban team and stakeholders to decide
+
+what works best for them.
+
+With Retrospective meetings the same thing, the Scrumban
+
+team decides when to hold them.
+
+In contrast with Scrum, Scrumban teams don’t need to conduct a Retrospective
+
+meeting after each Review meeting.
+
+They can decide only to conduct this meeting whenever they
+
+have enough topics to discuss.
+
+However, I must say that, typically, conducting them with a fixed
+
+cadency and short cycles of at most one month is a good practice.
+
+Otherwise, the team risks not looking for ways to improve efficiency and
+
+productivity, and bad behaviors and inefficient practices might perpetuate.
+
+For this reason, skipping Retrospective meetings can be very dangerous.
+
+In summary, compared to Scrum, Scrumban’s Review and Retrospective
+
+meetings have the same purpose, but Scrumban teams have more flexibility
+
+regarding when to conduct them.
+
+In the following lecture, let us discuss accountabilities in Scrumban.
+
+See you there!

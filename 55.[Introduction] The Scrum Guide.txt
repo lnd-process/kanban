@@ -1,0 +1,109 @@
+At this point, you know that Scrum is a mechanism to guide changes.
+
+However, is it a process?
+
+A methodology?
+
+A method??
+
+I hear many people claiming that Scrum is a methodology or process, but by
+
+doing so they're missing a key aspect of Scrum, which is its role as a means
+
+for the team to define its own processes and methods to address complex problems.
+
+Now, it is time for you to take a step forward and understand why
+
+Scrum is considered a framework.
+
+Let's model the world of Scrum as a subway system.
+
+Here, we have Scrum and some of its concepts and practices.
+
+And here we have practices from many knowledge areas that can be used to
+
+complement Scrum depending or the context.
+
+the bedding
+
+Here, paths with different colors means that they are part
+
+of different knowledge areas.
+
+As previously discussed, the pink line represents Scrum official practices,
+
+according to the Scrum Guide.
+
+This green line represents Product management practices.
+
+Dark orange represents Lean practices, and so on.
+
+So, here, for instance, we see Product Backlog and Product Goal,
+
+practices that are part of the Scrum framework to manage products.
+
+That's why they belong to the Scrum line and are closely connected
+
+to the Product Management line.
+
+An example of completing Scrum is describing Product Backlog items
+
+using the User Story notation.
+
+Now, check this out.
+
+Developing software without any DevOps, testing, or design
+
+activity is a very risky endeavor, and I wouldn't recommend it.
+
+Now, how many DevOps, testing, or design activities are part of Scrum?
+
+Zero.
+
+Yep, Scrum does not prescribe how to version, deploy,
+
+design or test your software.
+
+Does it mean that you don't have to do any of these activities?
+
+Of course not.
+
+For this reason, Scrum is defined as a framework.
+
+Scrum gives you the strategy; the what backed by the whys.
+
+Still, you, the user, must determine the hows, the tactics, making sure
+
+that you conform to the rules of Scrum to avoid covering problems
+
+and limiting the benefits of Scrum.
+
+You might be wondering: "Why do we need to define how to adopt Scrum?".
+
+Because each product, organizational culture, technology,
+
+and so on are different!
+
+And defining the how is very context-sensitive.
+
+Trying to make a general-purpose solution is doomed to failure.
+
+That is why Scrum doesn't even try to go there.
+
+However, don't get me wrong.
+
+Scrum is a potent tool for your toolbox, and, in this course, I will equip you
+
+with the necessary skills to apply Scrum for real, being aware of its boundaries
+
+and where you and your team will need to step up and make decisions to complement
+
+the framework to suit your needs.
+
+The key takeaway from our discussion here is that to use Scrum successfully,
+
+depending on your domain, you must complement it with other
+
+processes, methods and techniques.
+
+Again, Scrum is a framework, but a very powerful and useful one.

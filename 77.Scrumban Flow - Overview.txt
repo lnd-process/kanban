@@ -1,0 +1,219 @@
+Now, we will discuss Scrumban’s flow for delivering value so that you
+
+have a big picture of how it works.
+
+Before moving on, it is important to notice that Scrumban does not have
+
+an official definition or definitive guides such as Scrum and Kanban.
+
+Thus, what I'm going to present here is a generally accepted definition
+
+of what Scrumban is in the industry.
+
+As you already know, both in Scrum and Kanban, the flow starts
+
+with a list of work to be done, usually, called the backlog.
+
+It is the same in Scrumban.
+
+The difference is that Scrumban has a column named “Ready”,
+
+next to the “Backlog” column.
+
+This column stores work items that originate from the backlog.
+
+And they are the most valuable work at the moment, usually, having more details than
+
+the others about the work requirements.
+
+For example, while in the “Backlog” column, I could have a card only saying
+
+“Auction feature” representing that we need to develop a feature for supporting
+
+auctions on an e-commerce website.
+
+Clearly, the software developers would need much more information about this
+
+whenever they start developing it.
+
+Whenever the card is moved to the “Ready” column, we could add
+
+details to it, as illustrated here.
+
+You don’t need to read or understand the details presented herein.
+
+I just showed you this example to give you a general idea of the
+
+difference between a card sitting on the “Backlog” and “Ready” columns, ok?
+
+Further, there are no prescriptions for the level of detailing required.
+
+It is up to the team to decide.
+
+The only role is that the “Ready” column only has the most important work items.
+
+Now, have you noticed that the “Ready” column has Work in Progress limits?
+
+In this case, the limit is five.
+
+There are three primary reasons for having such limits and
+
+understanding them is essential to better grasp Scrumban’s mindset.
+
+Thus, pay close attention.
+
+The first reason is to avoid wasting time with excessive planning.
+
+In Scrum, we start each Sprint by planning it, which requires the team to select
+
+Product Backlog items to fit the Sprint’s timebox, creating the Sprint Backlog
+
+During the Sprint, the team only works on items from the Sprint Backlog.
+
+In general, Scrum’s Sprint Backlog-based work management requires the team
+
+to estimate the size of the Product Backlog items and, sometimes, break
+
+them down to fit the Sprint.
+
+There are two challenges with this approach.
+
+First, sometimes estimating size is too hard because the requirements
+
+are ambiguous or the team has no idea about development details.
+
+This is usually the case when working with new technologies, for example.
+
+Second, the team might waste time discussing too many Product
+
+Backlog items because not all of them will fit the Sprint Backlog.
+
+Scrumban simplifies this work management strategy by saying that
+
+most effort on estimation is waste.
+
+Thus, it approaches this by adopting Kanban pull-based work management and
+
+limiting the amount of work that the team can focus on, in other words,
+
+limiting the number of cards in the “Ready” column, regardless of their size.
+
+In this example, since we already have five items on the “Ready”
+
+column, the team gives full attention to getting them done, instead of
+
+wasting time planning more items.
+
+The second reason for limiting Work in Progress for “Ready”
+
+items is that it defines the virtual length of an iteration.
+
+In contrast to Scrum, Scrumban doesn’t have timeboxed Sprints
+
+with a predefined length.
+
+In Scrum, if you have a 2-week Sprint, this means that every two weeks the
+
+team stops developing to conduct the Sprint Review, Sprint Retrospective,
+
+and Sprint Planning events.
+
+In other words, there is a fixed cadency for holding such events.
+
+Scrumban doesn’t have timeboxed Sprints or iterations.
+
+However, in general, we would like to have releases or gather feedback from
+
+stakeholders, at most every 2 weeks.
+
+For this purpose, instead of using a 2-weeks timeboxed iteration, we estimate
+
+a Work in Progress limit high enough to keep the team busy for around two weeks.
+
+In this example, I defined the Work in Progress limit as five,
+
+estimating that the team would get done with them in 2 weeks.
+
+The main point here is that we don’t have to select backlog items to get
+
+done in the next two weeks, as we would do with Scrum, we would only
+
+define the Work in Progress limits to guide us on having a two weeks cycle.
+
+In other words, while Scrum is product-oriented,
+
+Scrumban is flow oriented.
+
+It focuses more on flow metrics such as cycle time and throughput.
+
+Notice that if the team misses the estimate and delivers the five items in
+
+13 days or 16 days, it is not an issue.
+
+The team analyzes what happened and tries to optimize the flow for future work.
+
+Further, the team and stakeholders define when to hold the Review and
+
+Retrospective events given their needs.
+
+We will talk more about this later in this course.
+
+What about the Planning events?
+
+Answering this question leads us to the third reason for limiting Work
+
+in Progress in the “Ready” column: support the continuous flow of tasks.
+
+In Scrumban, we don’t hold Planning events with a fixed cadency, as we do in Scrum.
+
+Instead, we have On-demand Planning, only holding them whenever needed.
+
+In practice, we only hold Planning events if a minimum amount
+
+of “Ready” cards is reached.
+
+And, we can define this number based on an expected ideal frequency
+
+for holding Planning events.
+
+For example, here I am assuming that we can get done with 5 items in 2 weeks.
+
+Thus, if we assume that holding Planning events every week is the
+
+ideal frequency, we could define the minimum amount of “Ready” cards as 2.
+
+Thus, in this situation, we would hold a Planning event aiming at pulling
+
+three cards from the “Backlog” column into the “Ready” column.
+
+This is why I say that Scrumban has virtual iterations.
+
+Instead of having timeboxed iterations like Scrum, it is pull-based and
+
+events are only held when needed.
+
+However, as we discussed, we can control the cadency of events by
+
+setting the Work in Progress limits.
+
+We have a big paradigm break with Scrumban and it is OK if you
+
+are still a little bit confused.
+
+Scrumban doesn’t follow Kanban’s continuous flow nor
+
+Scrum’s timeboxed Sprints.
+
+It is a combination of both, Kanban and Scrum in the form of a
+
+pull-based work management approach.
+
+Thus, I recommend that you watch this lecture again to have a better
+
+understanding of Scrumban’s big picture.
+
+Next, move to the following lecture in which we will clarify each of the
+
+key points of Scrumban and I am sure that, by the end of this section, you
+
+will understand Scrumban’s practices.

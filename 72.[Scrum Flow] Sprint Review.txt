@@ -1,0 +1,165 @@
+Now that you have an overview of Scrum's process to inspect and
+
+adapt the Product let's see how to execute the Sprint Review.
+
+Before getting to the event itself, what happens before the Sprint Review starts?
+
+Well, it all begins with the Developers getting ready for the event.
+
+They need to check which Product Backlog items are done, given the
+
+Definition of Done, and prepare them to be presented during the Sprint Review.
+
+For example, for our case study, let’s assume that our Scrum Board is like this,
+
+with all the Product Backlog Items Done.
+
+The Developers must make the features related to these Product Backlog Items
+
+available to demonstrate them to the stakeholders during the Sprint Review.
+
+For the first Product Backlog Item, this means that the Web page containing
+
+the form for the user to create a new account must be available for
+
+the stakeholders to try to use it.
+
+The second one is concerned with the sign-in.
+
+Thus, the Web page related to signing into the system must be Done.
+
+And the third one is related to recovering a password, which means
+
+that the Web page enabling users to recover their password must be done.
+
+Let's assume that the team has verified that everything is working correctly.
+
+Notice that, in our case study, we are assuming that all the
+
+Product Backlog Items are done.
+
+However, sometimes, it is not the case.
+
+Therefore, the question is, should the undone work be presented
+
+during the Sprint Review?
+
+What do you think?
+
+Pause the video for a minute, answer the question, and come back.
+
+The answer is: No, it shouldn't.
+
+Only the Increment is presented during the Sprint Review, and undone work
+
+must not be part of the Increment.
+
+Having said this, we are good to keep moving.
+
+We're ready for the Sprint Review event.
+
+But, before discussing how the Sprint Review should be held, let's
+
+talk about how it shouldn't be.
+
+What is the Sprint Review not?
+
+The Sprint Review is not a demo meeting.
+
+Even though I said that in Sprint Review events, the Developers present
+
+the Increment to stakeholders, it is not a demo meeting.
+
+“What do you mean, Mirko?” you might ask.
+
+I mean that the Sprint Review is not an opportunity for the Developers to
+
+show progress, give a product update, or sell themselves to the stakeholders.
+
+It is not a formal status meeting.
+
+So, if the team is presenting something with slides, screenshots
+
+of the tools, or something similar, there's something wrong.
+
+You won't have a real Increment inspection.
+
+The customers, the stakeholders, will be inspecting screenshots and
+
+images of something that might be representing the product, which
+
+does not lead to quality feedback.
+
+And second, for the Sprint Review to be valuable, you need stakeholders
+
+that understand the market, maybe even users or customers, as we have
+
+previously discussed, to participate.
+
+If they're not, the team will miss the opportunity to
+
+learn more about the product.
+
+So, what's the point of having a Sprint Review if you use slides
+
+or if the customers are not there?
+
+Given this, what is the Sprint Review about?
+
+The Sprint Review is about transparency and collaboration between the
+
+Scrum Team and key stakeholders.
+
+You have transparency by allowing the stakeholders to use the
+
+Increment whenever possible.
+
+So for Konyu, you would give the URL to the customers.
+
+They will get their laptops, phones, or computers, access the URL,
+
+and then try to use the features.
+
+So, for instance, for the signed up feature, they'll access the Web page
+
+made available by the Developers and try to fill the spaces so they
+
+can experience how the feature is being provided in the product.
+
+They must do this for all the new features developed in the Increment.
+
+If you're working with a mobile app, you give them a smartphone
+
+with the latest version of the app.
+
+Even better, if, for instance, you're creating an Android app
+
+and the stakeholders have Android devices, install the app on their
+
+devices and let them try to use it.
+
+They need to experience the real product.
+
+In summary, we have that the Scrum Team and invited stakeholders participate
+
+in this event, which has as inputs the Increments developed during the Sprint,
+
+the Product Backlog, and market analysis, which is vital to define the next steps.
+
+During the event, the Sprint's outcomes are inspected, progress towards the
+
+Product Goal is discussed, and the Product Backlog might be adjusted.
+
+Thus, the outcome of this event is a direction on what to do next, which
+
+usually means an updated Product Backlog.
+
+And this is it!
+
+You are now ready to answer any questions about this event on your PSM I assessment!
+
+Great job!
+
+In the following lecture, let's test your knowledge with a PSM I Sniper lecture!
+
+See you there!

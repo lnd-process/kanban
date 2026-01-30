@@ -1,0 +1,125 @@
+Welcome to our last lecture on the Cumulative Flow Diagram.
+
+Here, we will discuss how to analyze it to come up with Kanban’s
+
+three essential metrics: Lead Time, Cycle Time, and Throughput.
+
+For this purpose, let’s go to the last sheet of our spreadsheet.
+
+Let me zoom in so that we focus only on the graph.
+
+Before going into the three metrics, let’s discuss a simpler
+
+one: the Work In Progress.
+
+We can spot the Work In Progress for a given day by measuring
+
+the height of the blue band.
+
+For example, here we have the Work In Progress for the 10th day.
+
+Work in Progress is two because we subtract
+
+the value of the top line of the band, which is three, by the value
+
+of the bottom line, which is one.
+
+Now, it is your turn.
+
+What is the Work In Progress for the 12th day?
+
+Pause the video, answer the question and come back.
+
+The answer is three, resulting from subtracting four by one.
+
+Now let's talk about Lead Time.
+
+For this purpose, first, notice that each band has two lines.
+
+For example, let's discuss the case for IN PROGRESS.
+
+The top one marks the arrival of items on the IN PROGRESS column,
+
+and the bottom one, the departure.
+
+Given this, if you're interested in the Lead Time, we should focus on the top
+
+lines from the top and bottom bands.
+
+In our case, the top lines of the red and green bands, which
+
+I have highlighted here in pink.
+
+Why?
+
+Because they represent the times in which a task was created, in other
+
+words, arrived at the NOT STARTED column, and completed, in other
+
+words, arrived at the DONE column.
+
+Thus, we can measure the Lead Time for each point in which
+
+we have a task arriving at the NOT STARTED and DONE stages.
+
+In our graph here, we have two cases in which this happens.
+
+For both cases, we compute the Lead Time by taking the horizontal
+
+distance between NOT STARTED and DONE.
+
+For this first case, the Lead Time is eight days, because the task arrived
+
+at the NOT STARTED column on day one and the DONE column on day nine.
+
+Now, it is your turn.
+
+What is the Lead Time for this case?
+
+Pause the video, answer the question, and come back.
+
+In this case, the Lead Time is nine days because the task arrived
+
+at the NOT STARTED column on day four and the DONE column on day 13.
+
+Notice that the procedure is analogous to what we discussed in the cases where
+
+we have more columns on the Kanban board.
+
+What about the Cycle Time?
+
+It is similar to the Lead Time, except that, instead of considering the arrival
+
+of the tasks at NOT STARTED, we only consider when they arrive at IN PROGRESS.
+
+For example, in this case, the Cycle Time is seven days
+
+Finally, let’s talk about the Throughput.
+
+For example, what is the Throughput between days 8 and 14?
+
+Before answering, notice that the Throughput measures the number of items
+
+the team concludes in a given period.
+
+Thus, how do we compute it using the CFD?
+
+For this purpose, measure by how much the height of the green band
+
+increase between days 8 and 14.
+
+In this case, the Throughput is two, meaning that two tasks were
+
+completed between days 8 and 14.
+
+And with this, we wrap up talking about the Cumulative Flow Diagram.
+
+As we have seen, the CFD is a great tool to help us compute and visualize
+
+key Kanban metrics and trends.
+
+Now, take a few minutes to work on this section’s quiz.
+
+And please, if you have any questions, post them on the courses Q&A board,
+
+and I will be happy to answer them.

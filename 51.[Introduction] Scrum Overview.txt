@@ -1,0 +1,139 @@
+Let's get started at full throttle by understanding, in
+
+a nutshell, how Scrum works.
+
+Scrum is very simple.
+
+You start with a problem.
+
+It might be, for instance, developing a new product or service.
+
+Examples here include building new software or adding new features or
+
+fixes to an existing one, designing a new car or building, developing an
+
+innovative marketing strategy for your company, a new online course, and so on.
+
+In Scrum, the team takes the problem and breaks it into smaller chunks.
+
+For an e-commerce website, breaking the problem would be listing its
+
+features such as sign up and login pages, having support for Content
+
+Management System features, having payment methods, registering products,
+
+shopping cart, product search, and so on.
+
+The team lists everything in a to-do list called the Product Backlog.
+
+This list is ordered so that the work on the top has a higher
+
+priority than the work on the bottom.
+
+Afterward, during a team event called the Sprint Planning, the team collaboratively
+
+selects a few of the top to-do items such as "developing sign up and login pages" to
+
+compose what is called the Sprint Backlog.
+
+The items on the Sprint Backlog are developed and delivered in what is called
+
+a Sprint, which is the heart of Scrum.
+
+A Sprint is a period of at most one month.
+
+At the end of each Sprint, a product Increment is delivered.
+
+And what is an Increment?
+
+For an eCommerce website, it is the website up and running , with
+
+the new functionality, ready to go.
+
+In other words, it is something that the customer can look at and see if it's
+
+good or not; if it fits their needs.
+
+If it does, great, the team is going on the right path.
+
+If not, great too!
+
+Now, the team has enough knowledge to adapt their to-do list and
+
+improve their chances of delivering the best product or service.
+
+So, the team keeps running the Sprints and refining the Product Backlog with
+
+the acquired knowledge from inspecting Increments until the customer or
+
+business decides that the product is good enough, or there's no more budget left.
+
+To make this work, Scrum prescribes events and accountabilities.
+
+Let's start with the events.
+
+Scrum is composed of five events.
+
+The first one is the Sprint, which is a container for the remaining ones.
+
+Then, we have the Spring Planning, which we have already talked about, which
+
+happens at the beginning of each Sprint.
+
+And then, we have two events at the end of the Sprint, the Sprint
+
+Review, and the Sprint Retrospective.
+
+The Sprint Review is about inspecting the Increment and
+
+adapting the Product Backlog, which we have previously discussed.
+
+The Sprint Retrospective is about the team's continuous improvement.
+
+So, it's about inspecting the team's processes and adapting them to
+
+deliver as efficiently as possible.
+
+And finally, there's the Daily Scrum, a 15 minutes event that happens daily,
+
+where the team inspects and adapts their work, giving the team complete focus
+
+on achieving the goals of the Sprint.
+
+Now, let's talk about the three accountabilities.
+
+The first one is the Product Owner.
+
+The PO is the single person accountable for managing the Product Backlog,
+
+ensuring that everybody is aligned with the work to do and that the
+
+most important stuff is done first.
+
+The Product Owner's goal is to maximize the value of the product!
+
+Then we have the Developers.
+
+They are the ones that transform the to-do list into Increments..
+
+And last but not least, we have a fancy one, the Scrum Master, the one
+
+who facilitates all of this work.
+
+Together, they form the Scrum Team!
+
+And that's it!
+
+You've done it.
+
+You had a glimpse of how Scrum works in just a few minutes!
+
+I think this might be a record.
+
+Don't feel overwhelmed if you feel like this video was too much.
+
+The idea here was just for you to get a big picture of how Scrum works.
+
+We will get into the details of everything that we have
+
+discussed here in future lectures.

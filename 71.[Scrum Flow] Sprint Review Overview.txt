@@ -1,0 +1,51 @@
+We are almost getting done!
+
+There are only two more events for you to master: Sprint
+
+Review and Sprint Retrospective.
+
+Now, let's talk about the Sprint Review!
+
+As we have previously discussed, the Sprint Review is held
+
+at the end of each Sprint.
+
+Its goal is to inspect the Increment or any other outcome of the Sprint and, if
+
+needed, adapt the Product Backlog or determine any other future adaptations.
+
+Ideally, for this meeting, you will have the presence of users,
+
+customers, and internal stakeholders.
+
+For Konyu, this could be, for instance, the person in charge of operations or
+
+someone responsible for customer support.
+
+And, it would be awesome to have people representing the target customers,
+
+such as a collector or store owner.
+
+If they can't show up, the Product Owner represents their interests, but it is
+
+essential for them to be there because if they inspect the Increment, they can
+
+give the Scrum Team valuable feedback.
+
+With the collected feedback, the Scrum Team can analyze and
+
+update the Product Backlog.
+
+Further, the progress toward the Product Goal is discussed.
+
+As with all the other Scrum events, the Sprint Review is also time-boxed.
+
+For a one-month Sprint, it is time-boxed to 4 hours.
+
+For shorter Sprints, it is usually shorter.
+
+Now that you have an overview of the Sprint Review, letâ€™s learn more about
+
+how to execute one in the next lecture.
+
+See you there.

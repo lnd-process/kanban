@@ -1,0 +1,18 @@
+Hình thu nhỏ của bài giảng
+0:00 / 0:00
+Phiên âm
+The third step is to map the workflow on your board, which in practice
+
+means defining your board's columns.
+
+The critical thing to consider here is that, at this stage,
+
+we don't create a new workflow.
+
+Instead, we start with what we currently have.
+
+In other words, at this stage, we focus on setting up the board
+
+for the team's current workflow.
+
+In the following lecture, we will discuss the roadmapâ€™s next step.

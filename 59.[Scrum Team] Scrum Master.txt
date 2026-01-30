@@ -1,0 +1,85 @@
+Now, let's talk about the Scrum Master.
+
+The Scrum Master wears two hats, serving the organization and Scrum Teams.
+
+She helps those outside the Scrum Team interact positively with the team.
+
+She's accountable for the Scrum Team's effectiveness and serves it to improve
+
+its practices within the Scrum framework.
+
+For instance, she assists the PO on how to manage the Product
+
+Backlog to maximize value.
+
+Further, she also coaches the Scrum Team on how to self-manage and
+
+deliver done and valuable Increments.
+
+Therefore, we can conclude that the Scrum Master is accountable for establishing
+
+Scrum, as defined in the Scrum Guide.
+
+She does this by helping everyone understand Scrum theory,
+
+practices, rules, and values.
+
+She also causes the removal of impediments.
+
+An impediment is anything that might hinder the team's productivity.
+
+Many teams register them in an impediment list.
+
+Here we have some common examples of impediments.
+
+Let me share a real story with you.
+
+I used to work as a Scrum Master for a team that worked with a smartwatch
+
+for a very famous brand; we were trying to collect data using the smartwatch
+
+sensors to process them later.
+
+For this purpose, the Developers from my team followed the provided
+
+Developer manuals, but it didn't work.
+
+So they came to me.
+
+After reviewing the document with them and checking what they had done, we concluded
+
+that something weird was happening.
+
+I knew people who worked directly with the smartwatches manufacturer;
+
+given this, we were able to talk with people from the inside.
+
+After that, it came to our knowledge that they had a bug.
+
+However, they showed us a workaround for the problem, which our team implemented.
+
+This story is an example of the Developers asking the Scrum Master for help by
+
+raising any impediment and the Scrum Master doing whatever he can to solve it.
+
+But, Mirko, when are impediments raised?
+
+They can be raised anytime.
+
+But, usually, this is done during the Daily Scrums.
+
+And finally, we have that the Scrum Master is responsible for leading
+
+and facilitating Scrum adoption.
+
+She ensures that Scrum is understood by the entire organization, going
+
+from planning Scrum implementation within the organization as a whole and
+
+facilitating meetings if necessary.
+
+Given this, in summary, the Scrum Master is a true leader who serves the
+
+Scrum Team and the larger organization.
+
+https://medium.com/@mirkoperkusich/who-is-responsible-for-quality-in-the-scrum-team-78b0070cc2dd

@@ -1,0 +1,89 @@
+Now, let us go back to our basic Kanban board and discuss another popular
+
+variation: using Buffer Columns.
+
+Notice that we have already used this variation in this course’s first section
+
+while discussing the Pull System.
+
+At that point, we broke down the WRITE and REVIEW columns into two
+
+subcolumns: IN PROGRESS and DONE.
+
+The “Done” subcolumns are what we call Buffer Columns.
+
+There are a few reasons for using them.
+
+First, it makes it easier for us to apply the Pull System concept.
+
+Why?
+
+Let us see an example.
+
+Over here, we have that this article’s writing has been finished.
+
+Remember that work is pulled from the right in the Pull System.
+
+Thus, since it is indicated here that this article has been written, someone
+
+can pull it to the REVIEW column.
+
+Second, Buffer Columns expose problems in the flow.
+
+Back to this example, let’s suppose that it has been two days since this article
+
+has been waiting for someone to review.
+
+In other words, the team has been blocked from pulling more articles
+
+to be written for two days!
+
+Thus, we need to figure out what is wrong with the REVIEW step and ensure
+
+that a reviewer is available to pull this article and make the flow move.
+
+In Kanban, we do not want queues!
+
+We do not want cards accumulating!
+
+Now, let’s see how to create Buffer Columns on KanbanTool.
+
+First, let’s go to “Settings.”
+
+Then, go to “Board Editor.”
+
+Let’s start by breaking down the “Write” column into two.
+
+For this purpose, click on this icon, and, automatically, two columns appear.
+
+Let’s change the name of the first one by clicking here and changing the column name
+
+from “Buffer” to “In Progress.” Save it.
+
+Now, let’s do the same for the second subcolumn.
+
+Change its name from “Working” to “Done” and save it.
+
+We are done with the WRITING column.
+
+Now, let’s do the same for the REVIEW column.
+
+Click on this icon.
+
+Click here to edit the first subcolumn's name.
+
+Change it to “IN PROGRESS” Now, click here and change the
+
+subcolumn’s name to “DONE.” Now, we are done with the REVIEW column.
+
+Close this window and go back to our board.
+
+As you can see, Column Boards can be handy to manage your flow, and it is
+
+pretty easy to use them on Kanban Tool.
+
+In the following lecture, let's discuss one more popular Kanban board variation.
+
+See you there!
+
+

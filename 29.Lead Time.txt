@@ -1,0 +1,141 @@
+Let's start talking about campaigns, key metrics by discussing about the lead time.
+
+the time a work item takes to go through.
+
+Through the entire flow.
+
+When we start counting when the When the.
+
+Item is created any certed in the board's left post column.
+
+we stopped counting whenever it is moved to the right most column.
+
+In other words, considering that Kevin focuses on delivering value.
+
+To the client continuously.
+
+The lead time is the period between the moment a request is.
+
+Created by the client in the moment that the request is satisfied.
+
+From.
+
+This point of view, it becomes clear that this is a highly central metric for us in.
+
+Kanban.
+
+we seek is to have an average lead time that satisfies our business
+
+needs, especially our clients.
+
+lead time is calculated by adding up all.
+
+All the lead times and dividing it by the number of close desks.
+
+And essential tool to help us analyze.
+
+Analyze the lead time of a cable board is the lead time chart.
+
+In this.
+
+chart, each dot represents the period the test took to get done.
+
+this first dot represents an item completed on January
+
+1st in this position on two.
+
+On the Y axis because it took two days to get done counting from the day.
+
+It.
+
+Was created.
+
+In other words, this task had a lead time of two.
+
+Let's example.
+
+sees that you items got done on January 4th.
+
+This blue one has a lead time of three days one has a lead time of one.
+
+Lead time chart help us first.
+
+Let's remind remind that our goal is to seek for behaviors trans.
+
+or bottlenecks that are getting in our way and compromising our workflows.
+
+Efficiency.
+
+From our data, the team's average lead time is 1.89 days.
+
+This metric is a primary indicator of the team's performance.
+
+Average lead time, the better.
+
+Now going back to our our question.
+
+How can.
+
+Can this chart.
+
+decisions that will lead.
+
+To reducing our average lead time.
+
+That's an, Ally's it one thing that we we can notice is that
+
+most of the items less than one.
+
+Or chew this, however, a few of them less than three days.
+
+actual mood before the team to discuss, why did this task list three days?
+
+Do they have something in common?
+
+It might be the case that three days for this.
+
+Desk is reasonable.
+
+But it might also be the case that they could have been done faster.
+
+Which would reduce average lead time.
+
+That's the goal goal is to define action points to get
+
+done with that's faster and as.
+
+As a consequence, reduce the average lead time.
+
+With Kanban best way.
+
+To analyze the food and make decision is as a team collaborating.
+
+Raising questions and discussing the answers.
+
+do is analyze parents.
+
+On the dots.
+
+For example, we could say that the orange dots are related to book fixing.
+
+And the blue dots.
+
+Movements.
+
+But taking we can easily see that the orange dot.
+
+It seems to in Everage take longer than blue ones.
+
+Which might indicate process to fix bugs could be improved.
+
+At this glimpse on how to calculate and visualize the lead
+
+time and how it can help us.
+
+To improve our workflow.
+
+Let's move to the following where I will teach you how to create a lead time chart.
+
+See you there.
+
+

@@ -1,0 +1,47 @@
+Now that the Kanban board is configured to reflect the team’s
+
+workflow, let us quickly define the Work-In-Progress limits for these columns.
+
+For this purpose, click here on “Settings,” and then
+
+click on “Board Editor.”
+
+Here we have our columns.
+
+Click here to configure the “Write” column.
+
+Over here on “WIP Limit,” let us define it as 1.
+
+“Why 1, Mirko?” I am not using any profound logic here because
+
+we will discuss how to define WIP limits in the next section.
+
+For now, let’s just focus on the steps on how to configure the board on KanbanTool.
+
+Let’s keep moving.
+
+Click on “Save.”
+
+Let’s do the same for “Review,” define the Work-In-Progress limit as 2, and save.
+
+Finally, let’s go to “Publish,” define the Work-In-Progress limit as 2, and save.
+
+Let's close the window, and here we have the Kanban board with
+
+the Work-In-Progress limits.
+
+Now, we have a basic Kanban board set up.
+
+Great job!
+
+However, notice that the Kanban board is very flexible.
+
+To open your mind about the possibilities, I will discuss some examples of
+
+its variations in the subsequent lectures so you can evaluate what can
+
+fit or not in your team's reality.
+
+See you in the following lecture!
+
+

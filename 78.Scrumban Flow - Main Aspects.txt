@@ -1,0 +1,113 @@
+Since the last lecture had a lot of new information, let’s make a
+
+quick recap highlighting the four main aspects of Scrumban flow.
+
+The first key aspect relates to iterative development.
+
+In Scrum, we have timeboxed Sprints lasting at most one month.
+
+Periodically, we stop developing to plan the next Sprint.
+
+And during the Sprints, we develop Increments focusing on reaching
+
+the Sprint Goal, which is usually product-driven and might include
+
+developing features or managing risks.
+
+In Kanban, we have a continuous flow of requests and delivery
+
+without using Sprints or iterations.
+
+While in Scrum, the Sprint timebox is a way of giving the team focus, Kanban
+
+does that by limiting Work In Progress.
+
+In Scrumban, we have virtual iterations because they are not timeboxed.
+
+However, Scrumban adds a little bit of structure to Kanban’s
+
+continuous flow because it limits the number of "Ready" items.
+
+Thus, in Scrumban, the iteration period is a goal reflecting the
+
+expected cycle time and throughput.
+
+For example, if we define the “Ready” limit as five aiming to
+
+deliver everything in 15 days, we are forecasting that, on average, we need
+
+three days to get done with an item.
+
+Thus, 15 days is the target period of our virtual iteration.
+
+The second key aspect is the iteration backlog.
+
+In Scrumban, the iteration backlog is represented by the “Ready” column, which
+
+has a limit on how many items it can take.
+
+Similarly, Scrum has the Sprint Backlog.
+
+The main difference is that, in Scrum, the Sprint Backlog is reset
+
+after each Sprint, as a Sprint ends and a new Sprint is planned.
+
+In Scrumban, the iteration backlog persists and is only updated as
+
+needed, in other words, whenever the team has space to pull work
+
+from and to the “Ready” column.
+
+Further, since Scrum has timeboxed Sprints, all the Sprint
+
+Backlog items have an implicit deadline: the end of the Sprint.
+
+Scrumban doesn’t focus on the deadlines of the items, but on the flow, in other
+
+words, maintaining adequate average lead time, average cycle time, and throughput.
+
+The third key aspect is about Iteration Planning events.
+
+In contrast to Scrum, where we have Sprint Planning at the beginning of each Sprint,
+
+Scrumban has On-Demand Planning events.
+
+In other words, they don’t automatically happen at the beginning of each
+
+iteration but only when needed.
+
+Scrumban’s Planning event focuses on filling the “Ready” column until it
+
+reaches its Work in Progress limit.
+
+In contrast, with Scrum, we always have to define the Sprint Backlog
+
+starting from scratch, which might require more effort from the team.
+
+The fourth key aspect is consistently having short iterations.
+
+Even though Scrumban’s iterations might last longer than planned
+
+because they are not timeboxed, the objective is to have a frequent
+
+and predictable delivery of value.
+
+As a rule of thumb, you should aim for at most fifteen days
+
+as the iteration’s length.
+
+In summary, Scrumban seeks to reduce the amount of Scrum’s planning
+
+effort by using Kanban’s flow monitoring and control mechanisms.
+
+On the other hand, it complements Kanban by using virtual iterations
+
+to promote feedback loops.
+
+Now that you have the big picture of Scrumban, in the following
+
+lectures, we will go over more details about the main aspects of Scrum and
+
+Kanban used by Scrumban and how they are usually adjusted in practice.
+
+See you in the next lecture!

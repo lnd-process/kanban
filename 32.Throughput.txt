@@ -1,0 +1,81 @@
+Let’s now discuss Throughput, the third Kanban metric we
+
+will cover in this course.
+
+Throughput measures the number of items the team concludes in a given
+
+period, such as a week or month.
+
+This metric is important because one of Kanban's goal is to promote a
+
+continuous and predictable workflow.
+
+We can present the Throughput using a line chart like this one, where
+
+the y-axis is for the Throughput, and the x-axis is for the dates.
+
+In this example, the chart presents the data using a month as a reference.
+
+Thus, our first data point means that 12 items were completed in January.
+
+The second one means that 13 were completed in February, and so on.
+
+Analyzing Throughput is an essential Kanban technique for many reasons.
+
+First, we can easily understand past performance by seeing how
+
+much work the team has delivered.
+
+Second, we can use the information about past performance as a reference to
+
+predict the team’s future performance.
+
+For example, if the Average Throughput is 11, we can consider that the team
+
+will keep the same pace in the future.
+
+This indicator will help you plan and negotiate delivery dates.
+
+Finally, we can analyze throughput to diagnose the workflow by analyzing trends.
+
+For example, is the team getting faster?
+
+Slower?
+
+Or is the Throughput constant?
+
+By discussing the trends, the team can define ways to improve the workflow,
+
+which can reduce the Cycle and Lead Time.
+
+Therefore, despite its simplicity, the Throughput is a useful indicator
+
+of the team’s productivity.
+
+In future lectures, we will discuss more advanced ways of visualizing the workflow
+
+using the Cumulate Flow Diagram, which KanbanTool automatically generates.
+
+However, if you wish to use this simple line chart,
+
+you can use the spreadsheet I made available as a resource for this lecture.
+
+Using the spreadsheet is straightforward.
+
+You just need to input the data here for the number of items completed each month.
+
+Notice that you can change the columns here to, for example,
+
+represent weeks instead of months.
+
+And, this is it.
+
+We are done talking about the Throughput.
+
+Let's move to the next lecture where we will discuss the last two Kanban metrics:
+
+Work In Progress and Work Item Age.
+
+See you there!
+
+

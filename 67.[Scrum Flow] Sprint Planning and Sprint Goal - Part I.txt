@@ -1,0 +1,143 @@
+Now, let's talk about Sprint Planning.
+
+This event initiates the Sprint by laying out the work to
+
+be performed for the Sprint.
+
+For the Product Owner, planning efforts start before Sprint Planning.
+
+He or she must enter the event having analyzed what needs to be done next and
+
+what should be the purpose of the Sprint.
+
+In other words, the Product Owner must have a set of Product Backlog items
+
+and their mapping to the Product Goal.
+
+The Product Owner might analyze questions such as which ideas and
+
+assumptions need to be validated, which risks need to be addressed,
+
+or, for instance, which functionality needs to be provided or enhanced.
+
+In Scrum, the Sprint is like a mini project,
+
+and the Sprint Planning event is when the Scrum Team defines the
+
+goal of what to build and the flexible plan to guide achieving it.
+
+The plan is called the Sprint Backlog.
+
+Now, let's talk about Sprint Planning itself.
+
+First, who participates in Sprint Planning?
+
+The Scrum Team.
+
+Further, the Scrum Team may invite others to attend to provide advice.
+
+For instance, the candidate Product Backlog items might require working with
+
+a new technology that the Scrum Team does not have enough experience with.
+
+Therefore, it might be a good idea for the Scrum Team to
+
+invite a specialist to assist it.
+
+Another example would be working with a specific domain, such as
+
+developing a health web application.
+
+In this case, there are international standards that have a direct impact
+
+on the app's requirements, and it is vital to be aware of them for
+
+being able to release the app.
+
+Thus, if the Scrum Team isn't familiar with such standards, it might be a good
+
+idea to invite a specialist to help it.
+
+Further, how do we execute the Sprint Planning?
+
+The event has three topics to be addressed
+
+First, why is this Sprint valuable?
+
+Second, what can be Done in this Sprint?
+
+And third, how will the chosen work get done?
+
+The event is timeboxed to at most 8 hours for a one-month Sprint.
+
+For shorter Sprints, the event is usually shorter.
+
+Let's start talking about the first topic.
+
+It begins with the Product Owner discussing the opportunities
+
+for increasing the product's value and utility and how the
+
+current Sprint can address them.
+
+As a consequence, the whole Scrum Team defines a Sprint Goal, which
+
+communicates why the Sprint is valuable, bringing transparency.
+
+As an example, for our case study, let's assume that the Scrum Team
+
+came up with this Sprint Goal:
+
+“Users easily access the system using a valid e-mail.”
+
+After the Sprint Goal is created, it is time to define what can
+
+be Done during the Sprint.
+
+For this purpose, the Developers select items from the Product Backlog through
+
+discussion with the Product Owner.
+
+Notice that it might be necessary to refine these items during the event.
+
+To define how much can be completed within the Sprint, the
+
+Developers might use information, such as the upcoming capacity.
+
+The upcoming capacity is about how many hours available the
+
+Developers have for this Sprint.
+
+For instance, will anybody be out of the office during the Sprint?
+
+This situation might be the case if anybody has a planned vacation.
+
+Further, the Developers could also consider their past
+
+performance as a reference.
+
+It is not the case for our case study because we are simulalting the first
+
+Sprint, we are assuming to have a new team, which means we don't have
+
+data to be used as a reference.
+
+Another factor that the Developers should consider for defining what can
+
+be Done in the Sprint is the Definition of Done because the more stringent it
+
+is, the longer it might take to get Done with each Product Backlog item.
+
+After considering all these aspects, the Developers select the candidate
+
+Product Backlog items for the Sprint.
+
+Given this, let's assume that, for our case study, the Developers selected
+
+these three Product Backlog items.
+
+At this point, we have covered the first two topics of Sprint Planning.
+
+Let's continue discussing it in the following lecture!
+
+See you there.

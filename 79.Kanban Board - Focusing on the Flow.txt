@@ -1,0 +1,61 @@
+Scrumban teams use a Kanban board to manage and visualize their work.
+
+As the name implies, the Kanban board arose from Kanban when
+
+Scrum did not even exist.
+
+Still, Scrum teams usually use a board like this to promote transparency and
+
+collaboration between team members.
+
+However, there are two details here.
+
+First, Scrum Teams usually have a simple board with a few columns,
+
+such as this one, since they don't manage the flow in detail.
+
+As a consequence, we have a black box regarding the status of each
+
+work item whenever they have started because, by looking at the board,
+
+we can't see many details about it.
+
+We only know that the item is in progress.
+
+Second, their boards usually don’t have Work in Progress
+
+limits, a Kanban practice.
+
+For this reason, in situations like this, I say that, technically, this is
+
+not a Kanban Board but a Scrum Board.
+
+In contrast, a Kanban Board has Work In Progress limits and
+
+more columns, reflecting the team’s workflow more precisely.
+
+Scrumban teams use a Kanban Board such as this one.
+
+However, there is still something here.
+
+Stop the video for a few seconds and try to figure out why this
+
+Kanban Board doesn’t reflect one used by Scrumban teams.
+
+The problem with this board is that it is missing the “Ready”
+
+column, which represents the Scrumban team’s iteration backlog.
+
+Thus, compared to Scrum, Scrumban’s boards have Work in Progress limits
+
+and, usually, more columns giving the team the necessary information
+
+to monitor and control the flow.
+
+Compared to Kanban, Scrumban’s boards have the “Ready” column
+
+making the iteration backlog visible.
+
+In the next lecture, let us discuss Work in Progress limits.
+
+See you there!

@@ -1,0 +1,59 @@
+Now that we are aligned in terms of our example project and that you
+
+already have access to KanbanTool and know how to create a board,
+
+let us simulate identifying the work of our marketing agency.
+
+Identifying the work is the first step in any Kanban initiative.
+
+Each task is recorded on a card and, then, we add them to the Kanban board.
+
+I created a new, and very simple, board from scratch containing
+
+only these columns, which are the default in most tools.
+
+I did this because we are now focusing on identifying the agency’s
+
+tasks, and not mapping the workflow.
+
+Now, let’s create one card for each of the team’s tasks by clicking here.
+
+For each desk, we just need to define its name and we can also
+
+add the people that are assigned to them, which are represented by
+
+their initials on the Kanban board.
+
+Here is the result after I have added a bunch of tasks and assigned some of them.
+
+Notice that, in this example, we have people that are
+
+assigned to multiple tasks.
+
+At this point, let's not worry about multitasking, because it is not the
+
+time yet to address the team's issues, but just to populate the Kanban board.
+
+Further, notice, that, at this point, I added that tasks currently
+
+in progress and the ones note started yet in the TO DO column.
+
+You will understand soon why I did not put tasks already
+
+being done in the DOING column.
+
+Also, notice cards do not have much information, such as delivery date; they
+
+only have a title of and the assignee.
+
+We will add more critical information to the cards later on in this course.
+
+At this point, we have fulfilled our objective, which was to
+
+identify the team's work.
+
+In the following lecture, let's move to the next step: prioritize work.
+
+See you there!
+
+

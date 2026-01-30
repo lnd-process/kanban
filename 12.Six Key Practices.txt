@@ -1,0 +1,177 @@
+In the last lecture, we covered the four Kanban principles.
+
+Now, it is time to cover the six Kanban key practices.
+
+You will notice that they are straightforward because everything
+
+in Kanban is effortless given that the goal is to enter smoothly
+
+into the organization, promoting visibility, control, and continuous
+
+improvement to its existing workflows.
+
+Kanban's first key practice preaches the importance of visualizing
+
+the workflow, which, in practice, means using a Kanban Board.
+
+For example, this is the Kanban Board we created in previous lectures for managing
+
+the production of articles for our agency.
+
+Notice that using the Kanban Board is a friendly and organized way
+
+to visualize the workflow, but these are not its main benefits.
+
+The Kanban Board is essential because it help us to analyze the
+
+workflow in identified bottlenecks, as we discussed in past lectures.
+
+It makes the workflow explicit for everybody and everything: who is doing
+
+what and the status of each work item.
+
+Thus, in Kanban, we manage work visually and collaboratively.
+
+By the way, the Kanban Board is so valuable that, nowadays, it is used
+
+by pretty much every project and task management approach, traditional or agile.
+
+Okay.
+
+Let us talk about Kanban key practice number two: limiting the Work In
+
+Progress to each step of the workflow,
+
+as we have already discussed in past lectures.
+
+This practice is critical for eliminating queues in the workflow.
+
+It is what makes us avoid getting out of control by starting more
+
+work than we can get done, remember?
+
+Thus, it helps us to avoid waste.
+
+For this reason, limiting Work In Progress is a central piece in Kanban.
+
+We may say that if this practice was a person, it certainly would be the
+
+person that Kanban’s motto, which is “Stop starting and start finishing.”
+
+Kanban key practice number three is about managing the workflow.
+
+Kanban’s main goal is to continuously deliver value to customers,
+
+with minimal queues or waste.
+
+And, what do you need in place for achieving this?
+
+An efficient workflow: a workflow that produces as much as possible, but in
+
+a cadenced way, not wasting resources.
+
+As we have discussed, the Kanban board supports managing the workflow because
+
+it makes it easy to identify bottlenecks.
+
+One example is having work items taking too long to get done at a particular step.
+
+For instance, let us assume here that, on average, an article takes
+
+4 hours to be written and that
+
+the article “The Secret to Teamwork” has already taken 8 hours and is not done yet.
+
+This might indicate that there's something wrong.
+
+For example, maybe the person allocated for writing this article
+
+has no experience with the topic and is having a really hard time.
+
+Given this, an example of corrective action would be having
+
+the teamwork expert, if available, work in pairs with the writer.
+
+Throughout this course, you will learn the best techniques and tools
+
+to manage workflow, and how Kanban Board makes this task easier.
+
+Now, let us talk about Kanban key practice number four: have
+
+the process policies explicit.
+
+For example, we could have a policy about how to deal with urgent items, such as
+
+a critical bug found on your website.
+
+We will talk about how to deal with urgent items later in this course, but
+
+let us fast forward just a little bit.
+
+The policy on how to deal with an urgent item could say that it should
+
+be represented by a red card, instead of a yellow card, on our Kanban Board.
+
+The key point here is that Kanban does not define the rules and policies, but
+
+it does say that you must define them and make them explicit and public.
+
+In other words, the whole team must be aware of them so that
+
+everyone can understand and be aligned about how they must work.
+
+Kanban’s key practice number five is about implementing feedback loops.
+
+Kanban is about learning.
+
+Whoever implements Kanban ends up learning how to be more efficient.
+
+Given this, we need feedback loops, in other words, we need to, at
+
+some point, stop, inspect, adapt if needed, do it, stop again, and so on.
+
+But, how long are the feedback loops?
+
+One day?
+
+One week?
+
+One month?
+
+Kanban has no rules about this.
+
+It is up to the organization that adopts Kanban to define what works best.
+
+An example of feedback loop is holding short daily meetings to discuss the
+
+workflow in light of short-term goals.
+
+Now, let us discussed about the last Kanban key practice:
+
+improve collaboratively, and evolve experimentally.
+
+In other words, it is about the team, learning as a whole; having a shared
+
+understanding of the problems, coming up with solutions, try them out, observing
+
+the results, and deciding what to do next.
+
+These six practices, along with the four principles discussed in the
+
+last lecture, are the basis for a successful application of Kanban.
+
+Don't worry if you didn't absorb everything that we
+
+have discussed up to now.
+
+We'll discuss these points again naturally later in this course,
+
+while we put Kanban into practice.
+
+Now, take some time to answer this section's quiz, and I'll see you in
+
+the next section, where we will use a professional tool and build and
+
+discuss a Kanban board in detail.
+
+See you there!

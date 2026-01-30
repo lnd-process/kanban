@@ -1,0 +1,147 @@
+Let us now talk about the Product Backlog.
+
+The Product Backlog is an ordered emergent list of what is needed
+
+to improve the product, including features enhancement, fixes, and so on.
+
+It is ordered because , typically, the Product Owner places, the
+
+most important stuff on its top.
+
+It is emergent because in contrast to traditional, waterfall approaches,
+
+the Product Backlog follows what we call Just-In-Time requirements.
+
+As we have previously discussed, in a traditional approach, we aim
+
+to detail all the work upfront.
+
+In Scrum, we only get just enough items ready for the upcoming sprint.
+
+For example, this is a list of Product Backlog items for Konyu.
+
+Notice that these descriptions are not detailed enough for the
+
+Developers to know what to develop.
+
+Further, some of these items seem too large to be developed in one sprint.
+
+For example, developing a recommender system in one month
+
+does not seem to be feasible.
+
+Thus, we can conclude that none of these items are ready.
+
+We usually call these short descriptions of work to be done Epics and this
+
+is usually what we have on the first version of the Product Backlog: only
+
+short reminders of the work to be done.
+
+Now, take a look at this Product Backlog item.
+
+It is described using a notation called User Story, where we describe
+
+a product capability, such as a feature or requirement in terms of the
+
+expectations of the product's users.
+
+If we are using physical cards to register the Product Backlog items, we would
+
+have the front of the card describing the type of user and her desires.
+
+In this example, the user is a buyer who wants to bid in real-
+
+time on Yahoo Auction Japan.
+
+The back of the card would have the acceptance criteria, which is a list
+
+detailing the expected behavior of the product, giving the Developers enough
+
+information to know what to develop.
+
+Notice that such information can also be registered for the Product Backlog
+
+items using a digital tool, such as JIRA, but going over such tools
+
+is out of our scope in this course.
+
+In Scrum, typically, we want only the top Product Backlog items to be
+
+described with this level of detail.
+
+Why?
+
+Because we expect to learn along the way and don't want to waste time describing
+
+Product Backlog items with high chances of changing or being discarded,
+
+Thus, at this point, you know that the top Product Backlog items
+
+are usually more important and detailed than the bottom ones.
+
+Further, we also want the top Product Backlog items to be
+
+small enough to fit a Sprint.
+
+For example, let's consider this to be our current Product Backlog.
+
+By looking at the top item, “Register and Authentication,” it
+
+seems unfeasible to develop all the features related to it in one Sprint.
+
+Thus, the Scrum Team could break it down into 7 User Stories, as shown here.
+
+After breaking down the Product Backlog item, we would re-order
+
+the Product Backlog, as shown here.
+
+The items marked in orange are the new, smaller items.
+
+Notice that they have different importance since we have a few of
+
+them on the top and a few on the bottom of the Product Backlog.
+
+This shows the importance of breaking down the Product Backlog items to be small
+
+enough to separate the important from the not-so-important aspects of each item.
+
+In general, a healthy Product Backlog looks like this only having a small
+
+part ready for Sprint, meaning that they are detailed enough for
+
+the Developers to know what to do and small enough to fit a Sprint.
+
+We call this act of further prescribing and breaking down Product Backlog
+
+items, the Product Backlog refinement,
+
+Product Backlog refinement can be done at the beginning of Sprint Planning,
+
+the end of Sprint Review, or any time during the Sprint, typically, in
+
+Product Backlog refinement sessions.
+
+Notice that we could add more details to the Product Backlog items,
+
+including estimates and business value.
+
+Discussing this is out of the scope of this course, but I have
+
+added articles about these topics as a resource in this lecture.
+
+If you have questions, please let me know.
+
+In this lecture, you had an overview of what is a product
+
+backlog and how it is managed.
+
+In other words, you learned about the input, the single
+
+source of work of the Scrum Team.
+
+In the following lecture, we will discuss the Increments, which are
+
+the outputs of the Scrum Team.
+
+See you there!

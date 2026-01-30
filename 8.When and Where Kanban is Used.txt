@@ -1,0 +1,117 @@
+Now that you have an overview of one of Kanban's central concepts, the pull
+
+system, let us dive into how organizations worldwide, from the most diverse sectors,
+
+have increased their efficiency and results by adopting the Kanban Method.
+
+This lecture is essential to highlight Kanban's flexibility and
+
+open your mind about how it can be used in the most diverse situations.
+
+Let's get started!
+
+At this point, you already know what a Kanban Board is, and it
+
+might even be the case that your organization already uses it.
+
+However, the board is only part of what we call the Kanban Method.
+
+The Kanban Method goes far beyond this because it includes using
+
+concepts and techniques to optimize the workflow; the board is just a
+
+tool for visualizing the workflow.
+
+The Kanban Method is very flexible and can be applied by any organization
+
+with a continuous in-flow of requests!
+
+Let us go over a few examples.
+
+In past lectures, we have seen how Kanban can be applied in the Marketing sector.
+
+And it is easy to see that it could also be applied to any
+
+sector that produces content, such as the news publishing industry.
+
+What about IT?
+
+Let us take the case of WhatsApp.
+
+WhatsApp is a system used by millions of people worldwide.
+
+But do you think WhatsApp is a perfect system without defects
+
+or improvement opportunities?
+
+Of course, not!
+
+Indeed, they have a support team available daily to fix WhatsApp's
+
+defects, ensuring that you, the user, have the best possible experience.
+
+This team uses a Kanban Board like this one, where you have a backlog, which
+
+is a prioritized list of open defects.
+
+Then, there is a step for analyzing the issue,
+
+another one for registering the defects being fixed,
+
+and, finally, a column for when the defect correction is done.
+
+Notice that I am simplifying a lot.
+
+In practice, their workflow most probably has more steps.
+
+A similar workflow can be used by any business that works with maintenance,
+
+including building maintenance, computer repair, companies that
+
+fix customers' equipment and so on.
+
+Do you realize that just talking about maintenance, we would have
+
+dozens of business examples where the Kanban Method would be valuable?
+
+We can go on and see that Kanban can be applied to architecture, engineering,
+
+and even in law practice; we have a continuous flow of requests everywhere.
+
+We will discuss these different ways of applying Kanban later in this course.
+
+The key point here is that if you have a continuous flow of
+
+requests, you have an excellent opportunity to use the Kanban Method!
+
+Before moving on, it is valuable to know that Kanban was born decades ago in the
+
+manufacturing industry with Toyota, and it was a key factor in Toyota's success.
+
+They started to apply Kanban, as shown in this image!
+
+The tasks were registered in physical paper guards!
+
+The Kanban board was iron shelves!
+
+This aspect indicates that Kanban is not only about the tools but its principles.
+
+What you will learn in the following sections is based on the same principles
+
+that enable Toyota to produce cars efficiently and generate lots of profits.
+
+For this reason, before moving on to the details of the Kanban Method, take a
+
+look at the video I made available in the following lecture, which tells a little
+
+bit about how Toyota created Kanban!.
+
+It is a fascinating story!
+
+After watching the video, take some time to take the quiz.
+
+If you have questions, please, don’t hesitate to reach out
+
+through the course’s Q&A board!
+
+I will see you in the next section!

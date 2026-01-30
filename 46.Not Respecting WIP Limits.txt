@@ -1,0 +1,41 @@
+The first classic mistake is not defining Work In Progress limits.
+
+The second one is closely related: not respecting Work In Progress limits.
+
+Some beginners define the limits and feel like everything is fine.
+
+In this example, notice that the Work In Progress is already at
+
+the limit for this column meaning that no tasks could be pulled.
+
+Then, a new task is created.
+
+A task that is not urgent, according to the team’s policies.
+
+And, what do they do?
+
+They start working on it, even though they're breaking the limits!
+
+because “it is an exception” and “we are only doing it once.”
+
+But, guess what happens?
+
+This “only once” situation will start to happen over and over again.
+
+And as a consequence, Kanban’s potential benefits will be destroyed.
+
+If you want to implement a culture of continuous flow, respect the WIP limit.
+
+Do the possible and the impossible to follow such limits.
+
+You should only ignore these limits if the task is urgent according to the team’s
+
+policies, as we discussed in this course.
+
+And, if this is the case, make sure that the urgent task is easily distinguished
+
+on the board by using different colors and a dedicated swimlane.
+
+Let’s discuss one more mistake in the following lecture!
+
+See you there!

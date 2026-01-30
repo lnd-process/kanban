@@ -1,0 +1,69 @@
+Now that you know Kanban fundamentals, let us get deeper into it by putting,
+
+combining into practice by creating a professional Kanban board from scratch.
+
+As previously discussed, Kanban was initially conceived using physical
+
+metal boards and paper cards.
+
+Later, Kanban started to be adopted with standard whiteboards
+
+or paper boards and paper cards.
+
+Still, now we are in the Internet age, and we have several great online systems
+
+that can be used for adopting Kanban.
+
+However, some still use whiteboards with paper cards as a Kanban board.
+
+Usually, they do it for two reasons: first, because it is a cheaper solution.
+
+It is incredibly affordable to buy a whiteboard just once and then replace
+
+paper cards whenever necessary.
+
+And second, it is a cheap and quick way of adopting Kanban without needing to ask the
+
+organization for permission or resources to subscribe to an online system.
+
+Despite this, the fact is that using an online system specialized
+
+in Kanban is more effective in all senses because you have real-time
+
+information, from any device, with customized views, reports, and metrics.
+
+Using such a tool also enables remote work because it can be accessed anywhere.
+
+By the way, this chart is called the Cumulative Flow Diagram and
+
+is part of the Kanban method.
+
+We will talk more about it later in this course.
+
+Since the first section, I have already used KanbanTool, a complete
+
+and easy-to-use online system.
+
+It has a free version, meaning you can follow along with me in this
+
+course by using KanbanTool for free.
+
+However, if you prefer another system, please, feel free to do so.
+
+This course is not about KanbanTool, but the Kanban Method, and you
+
+will be able to follow this course independently of the tool you choose.
+
+In the following few lectures, I will go over fundamental tasks with KanbanTool,
+
+including how to create an account, your first board, tasks, and workflows.
+
+You can follow along with the next lectures with me by replicating
+
+my actions on your computer.
+
+Let's keep going because we are just getting started, and we
+
+can only learn by practicing.
+
+See you in the following lecture!

@@ -1,0 +1,89 @@
+When we talk about defining the workflow on a Kanban board, we're
+
+talking about defining its columns.
+
+In other words, having the columns represent each step of the workflow,
+
+as we did in previous lecturers when we discussed the Kanban
+
+board for the marketing agency.
+
+Here, the columns represent the steps necessary to complete an article.
+
+At this point, a critical aspect is that the Kanban board should
+
+represent the workflow already being followed by the team.
+
+The result can be a board as simple as this one, having only three
+
+columns - TO DO, DOING, and DONE.
+
+Or, it can be more detailed, like this one.
+
+Again, the important thing is that the Kanban board must reflect the
+
+organization's current workflow because Kanban's first principle
+
+is to start with what you do today.
+
+We start by mapping the current practices, and only later do we apply other Kanban
+
+techniques to get better and better.
+
+And how do you map your current workflow?
+
+It is simple: just ask yourself – where does the work start?
+
+Which is the first step?
+
+Then, which is the next step?
+
+Your answers will guide you in creating the columns representing your workflow,
+
+as we did for the marketing agency.
+
+Here, our board has five columns: NOT STARTED, WRITE, REVIEW, PUBLISH, and DONE.
+
+Why?
+
+Because we are assuming that the marketing agency was already following
+
+this workflow before adopting Kanban; in an inefficient way, but still.
+
+And, do not be so attached to the columns' names because you can change them later.
+
+The best board configuration is the one that is approved by the team.
+
+Now, let me show you how to quickly modify the Kanban board's columns on KanbanTool.
+
+The first step is to go up here and click on SETTINGS.
+
+Then, go to the BOARD EDITOR.
+
+Here, we can visualize the board's correct columns and easily modify them.
+
+Let us modify this board to reflect the marketing agency's workflow.
+
+The first column should be named NOT STARTED.
+
+Notice that we have many settings for a column here, but this is not important
+
+now; we will learn these settings throughout the following lectures.
+
+The second column, WRITE; third column, REVIEW; fourth column,
+
+PUBLISH; and, last column, DONE.
+
+And this is it.
+
+Now, we have the Kanban board reflecting the marketing agency's workflow.
+
+Let me close the window, and we can see the updated Kanban board here.
+
+The next step is to define Work-in-Progress limits.
+
+Let’s work on it in the next lecture!
+
+See you there!
+
+

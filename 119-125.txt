@@ -1,0 +1,881 @@
+119.
+Leading a project is always challenging because you're constantly dealing with
+
+new situations and different things.
+
+You might be deploying something new, constructing a new building,
+
+or developing a different service.
+
+After all, a project generates a unique result.
+
+Leading and managing projects is incredibly dynamic.
+
+Naturally, sometimes we are correct.
+
+And in others, we commit mistakes.
+
+This is normal.
+
+You can't always hit the nail on the head.
+
+However, notice that it's easier to avoid repeating mistakes
+
+when working alone on a project.
+
+You won't repeat a mistake because you learn your lesson.
+
+But a project commonly means dealing with a team.
+
+That means it is harder to avoid the errors being repeated.
+
+You have a team of 10, 20, or even 50...
+
+The more people we have, the higher are the chances of having
+
+mistakes to be made and repeated.
+
+The point is when someone messes up, what can you do as a leader to avoid
+
+it being repeated in the project, by the same person, or by someone else?
+
+What about organization-wise,
+
+where we have multiple projects going on.
+
+How to avoid mistakes being repeated?
+
+The answer is lessons learned.
+
+Lessons learned is a strategy that many mature companies use
+
+to share the knowledge acquired on projects, to continuously
+
+learn, and become more efficient.
+
+Instead, focusing on individual learning is about focusing on learning on the
+
+project and organizational level.
+
+It is about analyzing what happened on a project...
+
+Among other relevant questions, we ask what went well?
+
+what didn't go well?
+
+And what could have been better?
+
+Also, it is about coming up with tips, recommendations,
+
+and good practices to deal with technical or management problems.
+
+To enable organizational learning, each project must produce
+
+a lessons learned document.
+
+Your job as a leader, as the project manager, is to guarantee that you
+
+have useful and high-quality lessons learned registered for your project.
+
+And we do this for every project.
+
+Every lesson produced is then stored in the Lessons Learned Repository.
+
+Future projects can then reuse the knowledge learned on past ones
+
+to mitigate risks, define better strategies and be more efficient.
+
+And, of course, they also produce new lessons, updating
+
+the Lessons Learned Repository.
+
+Consequently, we have a continuous learning cycle, where knowledge
+
+is COLLECTED from past projects.
+
+And then reused by current or future projects.
+
+Notice that this process is based on physical or digital documents.
+
+But we could have a similar process of knowledge-sharing, free of documents.
+
+Instead of having the people from the projects to document what they have
+
+learned, we could establish a culture that promotes knowledge sharing through
+
+meetings, conferences, and presentations.
+
+You could also have a hybrid knowledge-sharing strategy, including
+
+both document-driven and culture-based.
+
+In fact...
+
+in general, I recommend using a hybrid strategy.
+
+Because not all knowledge can be made explicit on documents.
+
+Notice that, independent of how knowledge-sharing is operationalized,
+
+there is one crucial ingredient for it to come to work...
+
+leadership.
+
+In the following lectures, you will learn more about Lessons Learned IN PRACTICE
+
+and about your role as a LEADER to make it happen within your organization!
+
+120.
+If we are interested in learning lessons, we need to identify
+
+lessons that have the potential to improve performance in the future.
+
+Therefore, a lesson is a recommendation.
+
+Such a recommendation is based on a positive or negative experience,
+
+from which others can learn and improve their performance on
+
+a specific task or objective.
+
+For you to have a practical perspective of how lessons learned should be registered,
+
+let's take a look at one of the most famous lessons learned system in the
+
+world, Nasa Public Lessons Learned System.
+
+Here is the URL: lis.nasa.gov On the left navigation bar, you can
+
+see a list of lessons classified by NASA, centers, or topics.
+
+Let's take a look at this topic.
+
+Acquisition or procurement strategy and planning.
+
+On the right side, we have a list of lessons for this topic.
+
+For each lesson, we have a title or subject, a brief summary, which
+
+they refer to as the abstract, the date that the lesson was registered,
+
+the involved NASA organization, and the list of related topics.
+
+This part is important because it eases the search process.
+
+By classifying the topics, the organization has a common vocabulary.
+
+For instance, right here.
+
+By having the topic product assurance, this lesson will be easily recovered by
+
+the search mechanism whenever someone searches for the term Product Assurance.
+
+Let's take a look at this second lesson here.
+
+Let's not try to understand the technical part because it might end
+
+up being very specific and advanced, not within our scope here, so I'm just
+
+going to click on this lessons title and check the information about it.
+
+Here, we have the information for this lesson.
+
+And let's go to the main point.
+
+First, we have the driving event, describing the situation.
+
+What happened?
+
+This section has all the necessary information for anyone reading the
+
+document to understand what happened.
+
+Here, you could have images, videos, or whatever type of information that
+
+the people registering your lesson, judge to be relevant for future people
+
+that will consult this lesson learned.
+
+By scrolling down, we see the lessons learned and recommendations.
+
+Many people mess up here by not listing the recommendation.
+
+A lesson learned without recommendation is not a lesson learned.
+
+Is just a description of a historical event.
+
+As a leader, make sure that your projects lesson learned are
+
+real lessons that can be useful
+
+to other people.
+
+I find this part over here.
+
+very interesting too.
+
+Because it shows how the organization, how NASA has incorporated this
+
+lesson into their procedures.
+
+In this case, NASA has incorporated this lesson as part of one of its standards,
+
+called the Flight Project Practices.
+
+In fact, if we think about it, updating the document, updating the
+
+standard, updating a procedure is what made the lesson really learn.
+
+Before this, we only had identified the lesson, the lesson that was not
+
+really learned by the organization, and this is really important.
+
+This is so important that this is the reason for most
+
+lessons learned systems die.
+
+If a lesson requires change, you got to make it happen.
+
+It is your job as a leader.
+
+You might need to end up updating a procedure, a checklist, a standard, or
+
+simply make the lessons learned easily searchable for your organization.
+
+Got it?
+
+Great, now that you know how to properly register the lessons
+
+learned, in the next lecture, you're going to see how you must lead the
+
+process of making your organization learn through lessons learned.
+
+I'll see you there.
+
+121.
+
+Now it is time for you to learn how you can lead the adoption
+
+of the lesson learned practice, boosting your organization
+
+performance and making you get more recognized as an effective leader.
+
+First of all, notice that run your lesson learned system is a group effort.
+
+It is a collaborative effort.
+
+You must have people engaged.
+
+The upper management must be engaged.
+
+The project team and other key stakeholders, such as
+
+members from other projects.
+
+Or your organization's quality manager.
+
+But, be aware, if lessons learned is not part of your organization's
+
+culture, some people will resist.
+
+They will say that they don't have time for that.
+
+However, don't worry.
+
+This has to do with the old popular saying that you take longer to cut trees because
+
+you don't have time to sharpen the saw.
+
+And it is your job to use your leadership in negotiation skills,
+
+to convince people, to try it out, you need to sell them the idea.
+
+Collecting Lessons Learned is a people-oriented task.
+
+In this course, we will simulate conducting a lessons learned meeting.
+
+However, before getting to the details of how to lead this meeting, you might be
+
+asking yourself: when should we run them?
+
+There are two possible ways: reactive or scheduled.
+
+Let's start talking about reactive.
+
+As the name implies, reactive means reacting to something, which
+
+usually is a failure, such as a health or safety incident, or
+
+even significant project overruns.
+
+Whenever these events happen, we stop and run the lessons learned meeting.
+
+Reactive learning works really well to capture failures, but not for successes.
+
+On the other hand, as the name implies, scheduled is about
+
+scheduling these meetings.
+
+You could do it after each significant task or project phase.
+
+For instance, for a software project, you could do it after deploying
+
+the software to the real users.
+
+In this case, you could have a lessons learned meeting to
+
+discuss the deployment process.
+
+Another way of doing it would be to do it after the end of a project,
+
+which is what most people do.
+
+Or after a series of projects.
+
+You could also do it for a period such as a year after the project ends.
+
+This way, you could observe if the project results,
+
+had the intended outcomes,
+
+by evaluating real data.
+
+Notice that you don't have to choose one of these strategies.
+
+You could go for a mixed approach.
+
+To select a strategy, consider two questions.
+
+Do we have relevant stuff to discuss that could result in
+
+lessons for the organization?
+
+And are we going to remember the relevant to discuss that could result
+
+in lessons for the organization?
+
+The answers to these questions, answer the most important one:
+
+Do we need to run this meeting right now?
+
+Conducting such meetings too frequently might be disturbing.
+
+Still, if you take too long to schedule them, you might lose relevant information.
+
+Now that you know when we can conduct lessons learned meeting.
+
+It is time let's simulate conducting one on the next lecture.
+
+I'll see you there.
+
+122.
+
+It is time!
+
+Let's simulate a lessons learned meeting.
+
+Here, let's assume that during the past month, we finished three small and similar
+
+projects project one, two, and three.
+
+You, as the leader, must invite the project's team for
+
+the lessons learned meeting.
+
+If necessary, you can also invite people that work on other similar
+
+projects or maybe the quality manager or any other stakeholder that could
+
+contribute or get value from the meeting.
+
+Before simulating the meeting itself, let me explain to you the
+
+process of how you should lead the identification of lessons learned.
+
+Because you can't do it in an ad hoc manner.
+
+You've got to plan.
+
+You've got to structure the meeting.
+
+Otherwise, you are doomed to failure.
+
+Let's think about the process of coming up with the lessons learned as a tree.
+
+You have the trunk, the branches, and the fruits.
+
+The trunk is the purpose of the meeting.
+
+It can be a project, a specific task, or a specific type of problem.
+
+In our simulating meeting here, it will be projects one, two, and three.
+
+Next, you come up with the branches, the aspects to be explored, which
+
+can bring you to the lessons.
+
+Here, you can ask "what" questions to the participants, such as What worked well?
+
+What were the success factors?
+
+What were the key issues faced?
+
+What did not work well?
+
+What were the main challenges, mistakes, or pitfalls?
+
+If you could restart the project, what would you do differently?
+
+Then, you need to understand the "why's" and the "how's."
+
+Why were you successful?
+
+What did you do to ensure success?
+
+Why are you saying this?
+
+What was missing that caused the issue to happen?
+
+How did you achieve that?
+
+And there are many cause-effect techniques that you can use here,
+
+such as the "five why's" or the "Ishikawa or fishbone diagram."
+
+As you're getting into the root cause, you will approach a learning point.
+
+Then, you move to the next step.
+
+You come up with the fruits.
+
+The lessons learned.
+
+Here is when you must come up with recommendations by asking the
+
+participants questions such as:
+
+What would be your advice for someone doing this in the future?
+
+If you face this issue again, what are you going to do?
+
+You go deep for each branch and get the fruit.
+
+And then, after you are done, move to the next branch.
+
+Also, make sure that whenever you're documenting the lesson, tell the
+
+story, give the reader context.
+
+As we saw in NASA's example.
+
+Put all the relevant information for other people to understand the context,
+
+including images and videos, if necessary.
+
+Okay.
+
+Now that you know the principles of how to extract lessons learned from
+
+your team, you are ready to move on.
+
+Therefore, let's see how to conduct the lessons learned meeting.
+
+The first thing to do is to give a brief overview of each project to be discussed.
+
+I'm not going to get into details here.
+
+Let's just imagine a project.
+
+You should start by presenting its: summary, objective, a short
+
+description, and its complexity level.
+
+So that everyone is aligned.
+
+Remember the tree analogy.
+
+You described the projects as a means to give people enough knowledge to
+
+discuss the meetings purpose: the trunk.
+
+Then, you must facilitate the process of coming up with the branches and
+
+fruits as previously discussed.
+
+Let's see two examples.
+
+I'm going to show you one example from the architecture field and
+
+other one from software development.
+
+But don't worry.
+
+Independent of your field, I am sure that you will be able to get the idea here
+
+and transfer the concepts to your field.
+
+Be it marketing sales or whatever.
+
+As a template for lessons learned, let's use this one containing five fields.
+
+First, the situation.
+
+Which was a scenario?
+
+Where did the mistake happen?
+
+Or what was correctly done.
+
+Then, which was the action taken?
+
+What was the observed result after performing the given action?
+
+What was the lesson learned?
+
+And finally, the recommendation.
+
+Okay?
+
+So let's work with our first example.
+
+First, consider that we were discussing about a project for the
+
+construction of a couple's house.
+
+Let's assume here that after discussing about project issues, we came up with
+
+one that caused us to waste money.
+
+This is the situation.
+
+The husband directly contacted one of our architects and requested the
+
+house's kitchen to be redesigned following the American style.
+
+Which action was taken?
+
+The kitchen's project was redesigned.
+
+By whom?
+
+The architect who received the call from the husband.
+
+He simply went there and redesigned it.
+
+And what happened in the next meeting with the couple, in
+
+which the wife was also present?
+
+She didn't like the American-style kitchen and requested to change the
+
+project to the way it was before.
+
+What a waste of time and effort, right?
+
+What's the problem here?
+
+Here, we have two stakeholders, the wife, and the husband.
+
+The husband called us requesting a change.
+
+What is the correct thing to do?
+
+We can't merely change the project, although he asked for it.
+
+We can't assume that he talked with his wife and came to an agreement.
+
+The lesson learned is: stakeholders might have conflicting interests.
+
+And what's the safest option?
+
+Directly contact the other stakeholders.
+
+In this case, the wife.
+
+She's a key stakeholder.
+
+My team needs to understand that stakeholders do not always talk
+
+to each other before deciding to make a change request.
+
+Thus the recommendation was before accepting change requests, first
+
+talk to all the stakeholders.
+
+This action avoids rework.
+
+Notice that, during the meeting, it's not about blaming whoever accepted the change.
+
+It is about discussing the cause of the issue and how to avoid it in the future.
+
+Time spent blaming people is time wasted and relationships destroyed.
+
+Stay away from this.
+
+Notice that this issue is very common in architecture and other types of projects.
+
+Thus, it is part of the meeting to define how to disseminate this
+
+lesson to the entire organization.
+
+Remember, just registering lessons learned means nothing.
+
+As a leader,
+
+it is your job to make the knowledge spread throughout your organization.
+
+A possible action could be to add this recommendation as part of your
+
+organization's change management procedure or to provide training.
+
+Another option would be to create a system like NASA did.
+
+Which will ease the process for people to search the lessons learned repository.
+
+But, of course, you need to encourage project managers.
+
+You need to encourage people to consume this data.
+
+Otherwise, it's waste.
+
+Let's see another example.
+
+After starting a project of building a blog, the client
+
+called a team member requesting to change it by adding a new feature.
+
+It looked like this new feature could be quickly developed in a few hours.
+
+Thus, which action did my team execute?
+
+Immediately, my team member accepted the request and added
+
+the functionality to the blog.
+
+What happened?
+
+It took her more days than she imagined!
+
+And which was the result?
+
+Not only there was a significant delay to deliver the project, but the company
+
+also had to assume the additional costs of developing and maintaining
+
+this new functionality for free.
+
+Lesson learned: a change request might have a significant business impact.
+
+Thus, the recommendation was: any requests the client makes to a team
+
+member must be notified to management.
+
+It is the management call to accept or not the change request, by evaluating
+
+its potential impact and risks.
+
+If you work in the IT industry, you might be very familiarized with this issue.
+
+It happens a lot!
+
+And you gotta be careful,
+
+especially if you work with a contract with fixed price,
+
+and deadline.
+
+To wrap up this lecture,
+
+remember that you always got to leave the lessons learned meeting with
+
+actionable results: recommendations.
+
+Which must be easily accessible, such as on a lessons learned
+
+system or by updating the company's guideline procedures or instructions.
+
+Further, accountability must be distributed.
+
+For instance, if a new change request procedure is to be
+
+developed, who is accountable for it?
+
+As a leader, you must define accountabilities and manage them.
+
+Otherwise, your company will keep with the "business as usual" mindset, making
+
+the same mistakes over and over again.
+
+Finally, it is always nice to, at the end of the meeting, ask the participants
+
+for feedback and always try to innovate and have better lessons learned meeting.
+
+Great.
+
+Now let's move to the next lecture, where you will learn practical tips that will
+
+help you to avoid common mistakes when adopting the lessons learned practice.
+
+I'll see you there.
+
+123.
+There are two common mistakes when we conduct a lessons learned meeting.
+
+The first one is using the meeting to play the blame game.
+
+If you let the people that made the mistakes be exposed,
+
+they will get very upset.
+
+Their reaction will not be good.
+
+They might even leave the company, and guess what?
+
+If this happens, it is your fault as a leader.
+
+You failed.
+
+The meeting is about learning and continuous improvement, not about pointing
+
+fingers and making people embarrassed.
+
+Define the rules.
+
+As soon as the meeting starts, no pointing fingers.
+
+Don't mention names.
+
+Time spent blaming people is time wasted.
+
+We could use that time for more available and productive things.
+
+Forget a moment who committed the mistake here.
+
+The objective is to grow together, admitting the mistakes as a team.
+
+Instead of saying Jonah accepted the request without talking with
+
+the other stakeholders, you must say WE accepted the request.
+
+Notice the difference?
+
+The idea is not to expose a mistake.
+
+We don't want people to get embarrassed.
+
+The exception is when we discuss good things, good initiatives,
+
+and innovative solutions.
+
+In these positive situations, you must mention names.
+
+Make them proud of themselves.
+
+Let them get the credit that they deserve.
+
+For instance, you could say something like: "team
+
+the results were extraordinary!
+
+When we sent the report that Laura developed, the client got delighted.
+
+LAURA, congratulations on your idea.
+
+It was excellent.
+
+In the next projects, we will make that a standard."
+
+Praise in public.
+
+Criticize in private.
+
+This is a basic leadership rule of thumb.
+
+The next mistake is having meetings that take too long.
+
+This meeting should take 60 minutes at most.
+
+It can take even less, depending on the project's size, and
+
+the number of lessons learned.
+
+If you feel that you have too much stuff to be discussed,
+
+schedule separate meetings!
+
+For Instance...
+
+have one to talk about Quality.
+
+Another one about the Project Scope...
+
+and so on.
+
+You must have focused discussions.
+
+This was Great.
+
+Let's wrap up, with a final instruction of how you, as a leader, should work with
+
+Lessons Learned in your Organization.
+
+See you there!
+
+124.
+Let's wrap up talking about lessons learned.
+
+And let's start by recapping the context of lessons learned.
+
+When should you use it?
+
+Usually, it will be useful for you whenever you're starting a project.
+
+Whenever working on a project, the first thing you should do
+
+after you have the project scope defined is to look at the lessons
+
+learned from past similar projects.
+
+By doing this, you avoid repeating their mistakes, and
+
+you replicate the good ideas.
+
+What if your organization hasn't adopted lessons learned yet?
+
+Talk to people, try to figure out the past similar projects, and connect
+
+with the people involved in them.
+
+Ask them about the risks and their recommendations.
+
+Further, seize the opportunity to lead the initiative of adopting lessons learned.
+
+Start with your projects, and then encourage and
+
+support others to do as well.
+
+I am sure that your efforts will bring your organization great results and
+
+will make you a more recognized leader.
+
+125.
+***YOUR SPECIAL BONUS***
+Congratulations on completing the course!
+
+
+
+Only a few online learners are able to complete courses, so this shows how willing you are to keep learning and growing. Great job!
+
+
+
+YOUR SPECIAL BONUS
+
+
+
+Check out my other courses with a special discount:
+
+
+
+Complete Agile Scrum Master Certification Training
+
+https://www.udemy.com/course/complete-professional-scrum-master-training-exam-simulator/?referralCode=52010BEAADDC267F2FB9

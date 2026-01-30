@@ -1,0 +1,159 @@
+Now, it’s time to wrap up talking about Kanban metrics.
+
+In this section, we have discussed the most important ones, and now
+
+we will discuss three critical aspects of Kanban measurement.
+
+First, start simple!
+
+You don't need to adopt all of the metrics at once!
+
+In general, you shouldn't do that, especially if your team doesn't
+
+have much experience with Kanban.
+
+Kanban should be a bridge, not a wall!
+
+It should optimize your workflow, not get in the way!
+
+Thus, only use the metrics your team sees value in improving
+
+their workflow's efficiency.
+
+Second, I want to introduce you to a concept many Kanban
+
+professionals apply: Little’s law!
+
+Little’s law says that the Average Cycle Time equals the Average Work in Progress
+
+divided by the Average Throughput.
+
+It is an elegant way of relating the key Kanban metrics!
+
+But, what does this mean in practice?
+
+For example, let's assume that the Average Throughput stays constant since there is
+
+usually a limit to how fast we can go.
+
+What happens if we have a high Average Work in Progress?
+
+We will have a high Average Cycle Time, which is terrible.
+
+Given this, what should we do if we want work items to, on average,
+
+get done faster, in other words, reduce the average cycle time?
+
+We should reduce the Work In Progress!
+
+And how do we do this with Kanban?
+
+By lowering the Work In Progress limits.
+
+I have seen managers do the exact opposite!
+
+Whenever the Cycle Time is too long, they panic and start more work, hoping
+
+to get done with more stuff faster!
+
+And, following Little’s Law, what happens is precisely the opposite!
+
+I could do an entire course only on the mathematics of Little’s
+
+law, but this is not our goal here!
+
+The main takeaway that you should take is that the average Cycle Time is
+
+directionally proportional to Work in Progress and that, if you want to reduce
+
+the average Cycle Time, the easiest way to go is to reduce the Work In Progress.
+
+Finally, be careful with predictions.
+
+For example, going back to Little’s Law.
+
+Say that we have a team with an average WIP of 20 work items, an
+
+average Cycle Time of 5 days, and an average Throughput of 4 items per day.
+
+It would be incorrect to say that we could magically increase Throughput to
+
+8 items per day by assuming that the average Cycle Time is kept at 5 days
+
+and increasing the average WIP to 40.
+
+This is not how it works.
+
+It is not that simple.
+
+Little’s Law should be used to analyze the past, not to make predictions
+
+because we cannot tell for sure how the changes will manifest.
+
+For example, I have seen managers try to artificially increase Throughput by
+
+adding new people to the team because the team would have more capacity and,
+
+theoretically, more Work in Progress.
+
+However, new team members usually need time to get used to the team’s culture
+
+and processes, and the larger the team, the more communication complexity.
+
+Thus, usually, the outcome is that the results are not what the managers expect.
+
+In general, we have two types of indicators: leading and lagging.
+
+Leading indicators allow us to make predictions.
+
+Work in Progress and Work Item Age are leading indicators because
+
+they predict the cycle time.
+
+In general, the higher they are, the higher the cycle
+
+time, as shown by Little’s Law.
+
+Lagging indicators look at the past.
+
+Lead time, cycle time, and throughput are measured after the events have happened.
+
+They can be used as reference points but should be used
+
+carefully when creating a forecast.
+
+For example, it is not because your every Cycle Time in the past weeks was
+
+5 items/day that your average Cycle Time for next week will be the same, because
+
+there are factors such as items’ size and complexity, risks, and the team members’
+
+availability that comes into play.
+
+And we are done!
+
+Let’s make a quick recap.
+
+In this lecture, we wrapped up talking about Kanban metrics.
+
+First, I reinforced that you don’t need to adopt all the metrics seen here.
+
+Focus on making your workflow efficient, not on adopting metrics.
+
+Later, we discussed how Little’s Law says that, on average, the
+
+Cycle Time is directly proportional to the Work in Progress.
+
+Finally, we discussed that you should be careful with making predictions
+
+because Little’s Law, Lead Time, Cycle Time, and Throughput are
+
+good measures of the past, not necessarily, predictions of the future.
+
+Now, take some time to answer the end of the section’s quiz.
+
+And please, if you have any questions, post them on the course Q&A board,
+
+and I will be happy to answer them.
+
+

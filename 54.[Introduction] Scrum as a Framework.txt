@@ -1,0 +1,88 @@
+Phiên âm
+In the previous lecture, you learned about the distinctions
+
+between agile and waterfall and that Scrum is an agile framework.
+
+In this lecture, we will deepen our discussion about the agile mindset by
+
+discussing three essential concepts: being agile, rapid, and lean.
+
+Let's start by reflecting on this question: is being agile the same
+
+thing as being rapid or fast?
+
+Pause the video for one minute and try to come up with an answer.
+
+The answer is: no!
+
+Let me show you how the concepts relate to each other by going back to our model.
+
+Again, let's assumed that we are here.
+
+Being rapid or fast means getting to the vision fast.
+
+Right here, when we were pointing to our initial vision, what does it
+
+mean if we ultimately reach it fast?
+
+Is this valuable?
+
+Well, not really, because we're still far away from our correct vision.
+
+This is considered waste.
+
+Thus, only being rapid is not enough.
+
+The difference between a rapid and the traditional waterfall approach is that
+
+the rapid one delivers waste faster.
+
+However, can you be agile without being rapid?
+
+Let's assume that you want to be agile and respond to changes, but you are slow.
+
+What is the outcome?
+
+Well, it sounds like the waterfall approach.
+
+For achieving agility, you must be rapid.
+
+Think about rapid and Agile as a difference between a bullet and a Leopard.
+
+A bullet is rapid, but it can't adapt along the way.
+
+A Leopard, on the other hand, is rapid but can quickly adjust
+
+to the environment if needed.
+
+The bullet is not Agile, but the Leopard is; the Leopard is rapid and agile.
+
+I hope that, after this lecture, you won't confuse the concepts of Agile and rapid.
+
+Let's wrap up this lecture by discussing a final concept.
+
+Agility is more related to getting to the correct product, but we need to get
+
+there efficiently by reducing the waste.
+
+Reducing waste is what is widely known as being Lean.
+
+In the agile approach, we produce waste whenever we work on anything not
+
+part of the correct product vision.
+
+Thus, notice that the value of agile follows from it being capable of
+
+making the necessary adjustments with as minimal waste as possible.
+
+Thus, it follows that you have also got to be Lean for you to
+
+succeed with Agile and Scrum.
+
+The key takeaway from this lecture is that succeeding with Agile and
+
+Scrum is greatly dependent on your capabilities of being both: Lean and
+
+rapid, because you have got to get to the correct vision as fast as possible,
+
+wasting as few resources as possible.

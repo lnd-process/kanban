@@ -1,0 +1,47 @@
+Another widespread variation of the Kanban board is the use of swimlanes, not to
+
+identify what is urgent but to highlight who is responsible for the tasks.
+
+For example, suppose we have a system maintenance team
+
+focusing on fixing defects.
+
+In this case, I might want to have something like this that
+
+visually indicates the defects that each team member is working on.
+
+Ideally, each member fixes the defects they are assigned to
+
+independently, being assigned to the card throughout the entire workflow.
+
+Thus, having a swimlane for each team member is an easy way to manage the flow.
+
+The steps to create such swimlanes on KanbanTool are the same ones we discussed
+
+when we created the lane for urgent items.
+
+So, I am not going to go over the steps again here.
+
+Now, stop and think for a little bit.
+
+For this scenario, is it useful to have Buffer Columns?
+
+Pause the video a little bit, answer the question, and come back.
+
+Buffer Columns are not helpful here because the person who will take the
+
+task in the board's next column is the same one who executed the previous step.
+
+Again, ideally, each person takes one card at a time from the
+
+start until the end of the flow.
+
+Thus, we won't have queues in any of the board's columns, except for the first one.
+
+We're done talking about this scenario.
+
+In the following lecture, we will discuss a final variation of using Kanban Boards.
+
+See you there!
+
+

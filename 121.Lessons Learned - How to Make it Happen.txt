@@ -1,0 +1,113 @@
+Now it is time for you to learn how you can lead the adoption
+
+of the lesson learned practice, boosting your organization
+
+performance and making you get more recognized as an effective leader.
+
+First of all, notice that run your lesson learned system is a group effort.
+
+It is a collaborative effort.
+
+You must have people engaged.
+
+The upper management must be engaged.
+
+The project team and other key stakeholders, such as
+
+members from other projects.
+
+Or your organization's quality manager.
+
+But, be aware, if lessons learned is not part of your organization's
+
+culture, some people will resist.
+
+They will say that they don't have time for that.
+
+However, don't worry.
+
+This has to do with the old popular saying that you take longer to cut trees because
+
+you don't have time to sharpen the saw.
+
+And it is your job to use your leadership in negotiation skills,
+
+to convince people, to try it out, you need to sell them the idea.
+
+Collecting Lessons Learned is a people-oriented task.
+
+In this course, we will simulate conducting a lessons learned meeting.
+
+However, before getting to the details of how to lead this meeting, you might be
+
+asking yourself: when should we run them?
+
+There are two possible ways: reactive or scheduled.
+
+Let's start talking about reactive.
+
+As the name implies, reactive means reacting to something, which
+
+usually is a failure, such as a health or safety incident, or
+
+even significant project overruns.
+
+Whenever these events happen, we stop and run the lessons learned meeting.
+
+Reactive learning works really well to capture failures, but not for successes.
+
+On the other hand, as the name implies, scheduled is about
+
+scheduling these meetings.
+
+You could do it after each significant task or project phase.
+
+For instance, for a software project, you could do it after deploying
+
+the software to the real users.
+
+In this case, you could have a lessons learned meeting to
+
+discuss the deployment process.
+
+Another way of doing it would be to do it after the end of a project,
+
+which is what most people do.
+
+Or after a series of projects.
+
+You could also do it for a period such as a year after the project ends.
+
+This way, you could observe if the project results,
+
+had the intended outcomes,
+
+by evaluating real data.
+
+Notice that you don't have to choose one of these strategies.
+
+You could go for a mixed approach.
+
+To select a strategy, consider two questions.
+
+Do we have relevant stuff to discuss that could result in
+
+lessons for the organization?
+
+And are we going to remember the relevant to discuss that could result
+
+in lessons for the organization?
+
+The answers to these questions, answer the most important one:
+
+Do we need to run this meeting right now?
+
+Conducting such meetings too frequently might be disturbing.
+
+Still, if you take too long to schedule them, you might lose relevant information.
+
+Now that you know when we can conduct lessons learned meeting.
+
+It is time let's simulate conducting one on the next lecture.
+
+I'll see you there.

@@ -1,0 +1,135 @@
+When adopting Kanban, a common question is how to deal with urgent items?
+
+Let us go back really quickly to our Kanban board.
+
+Looking at it, everything seems fine.
+
+The workflow is defined with Work-In-Progress limits, and the tasks
+
+are assigned and properly placed.
+
+However, does this board reflect daily reality?
+
+Are all the tasks beautifully planned in real life as presented over here?
+
+Or are there last-minute, urgent items we need to complete as soon as possible?
+
+How do we deal with these critical tasks?
+
+Do we use a separate flow?
+
+Can we break the rules, such as overflowing work-in-progress limits?
+
+From here on, let’s address this issue.
+
+The first thing we must do is set a visual signal that the item is urgent,
+
+and the standard way to do so is using a card with a different color.
+
+In KanbanTool, doing this is pretty straightforward: just click on the
+
+card, go to the field named “Card type,” and change it to “Urgent.”
+
+We can see that the card became red, and let’s go back to our board.
+
+Now that we have signaled the card as urgent, we can add a lane to our
+
+board to ease managing urgent cards.
+
+Do you know those pool lanes where people swim?
+
+So, we can also add lanes to our Kanban board.
+
+The goal is to have it look like this, making it very easy to
+
+spot and manage urgent items.
+
+To create it on a Kanban Tool, click on “Settings” and then click on “Board
+
+Editor.” Here on the bottom, we have the option to “Add swimlane.” Click on it.
+
+Let’s name it “Urgent” and click on “Create.”
+
+The swimlane has been added to the bottom of the board.
+
+Let’s move it to the top by clicking on this arrow.
+
+Now, let’s close the window and go back to the board.
+
+As you can see, we have the “Urgent” swimlane, so let’s
+
+move our red card over there.
+
+In summary, we made urgent items more visible on the Kanban board by
+
+signaling the urgent cards with red and by having a lane to visualize
+
+to make their progress evident.
+
+Setting up a Kanban board for handling urgent items is helpful.
+
+However, the most critical point is “what characterizes an item as urgent?”
+
+Is it an item asked by the company's director?
+
+Or is it something that is causing financial loss to the customer?
+
+What defines an item as urgent?
+
+If we don’t have policies regarding this, this “Urgent” swimlane will
+
+get filled with tons of urgent items in the first hour of the day!
+
+There are companies where everything is urgent!
+
+We need to make it clear that the “Urgent” swimlane is only
+
+for tasks that are really urgent!
+
+It should be for those situations when someone needs to stop working
+
+on whatever they are working on and handle the urgent task.
+
+Thus, it is crucial to define rules of which tasks can go into this lane.
+
+Such rules must be defined and agreed upon.
+
+We can't have tasks going into this lane just because a
+
+manager said the task is urgent.
+
+The answer to the question “what is urgent?” depends on the context,
+
+but an example here is when a Web site crashes and gets offline!
+
+In this case, the software team needs to stop whatever they're doing, put
+
+the Website back online and figure out what caused the Website to crash
+
+to avoid the issue happening again!
+
+Again, independent of your context, the important thing is to have explicit,
+
+well-defined, and agreed-upon policies for what makes an item urgent.
+
+Another good practice is to define the number of urgent items that can
+
+enter the lane in a given period.
+
+For example, we can define a rule that a maximum of two cards can
+
+enter the urgent lane per week.
+
+By doing this, we will make people be more careful when determining something urgent
+
+and avoid making your team crazy by being constantly interrupted to put out fires.
+
+Now that you know how to handle urgent items, in the following lecture,
+
+let's see another way of setting up the Kanban board that might be very
+
+helpful!
+
+See you there!
+
+

@@ -1,0 +1,79 @@
+I know that you are eager to start putting Kanban into practice using a
+
+professional tool, and we will do it soon.
+
+However, first, you need to learn Kanban fundamentals,
+
+which is this section's goal.
+
+Without being aware of them, any Kanban implementation is doomed to failure.
+
+In the industry, you'll see people using the terms Kanban,
+
+Kanban System, and Kanban Method.
+
+What is the difference between them?
+
+Let's discuss this topic right now.
+
+“Kanban” is a Japanese word that means “visual signals” or “visual cards.”
+
+For example, going back to our agency example, we used cards
+
+to signal each article's status.
+
+Thus, Kanban can be understood as a fancy word for "card".
+
+What about the Kanban System?
+
+Kanban System, also known as Kanban Product System, refers to the Pull
+
+System we have previously discussed.
+
+Recall that the Pull System enables us to work with minimal waste and low inventory
+
+levels, meaning that we have only the necessary for the production process, be
+
+it to produce articles, cars, or whatever.
+
+Thus, the Kanban System is equivalent to the Pull System.
+
+And last but not least, what about the Kanban Method?
+
+The Kanban Method includes Kanban and the Kanban System and goes beyond them.
+
+It is the modern version of what Toyota created in 1953.
+
+The Kanban Method was created recently, in 2010, by David Anderson, and
+
+brings an approach to Kanban focused on promoting continuous improvement
+
+to the organization's processes.
+
+Its focus on continuous improvement is what makes it go
+
+beyond being just a pull system.
+
+In addition to the pull system, it contains principles, values, good
+
+practices, strategies, and guidelines.
+
+For this reason, I like to say that Toyota found the diamond and our
+
+friend, David Anderson, polished the diamond to have much more value.
+
+In other words, Anderson described the Kanban Method in a way that made it
+
+applicable to many industry domains, including software development and market.
+
+In practice, we call the Kanban Method “Kanban” for simplicity.
+
+From now on, in this course, whenever I say Kanban, I am
+
+referring to the Kanban Method, not the card or Kanban System, okay?
+
+In the following lecture, let's go over the four fundamental
+
+principles of the Kanban Method.
+
+See you're there!

@@ -1,0 +1,43 @@
+nban is about continuous improvement.
+
+To achieve it, we need to experiments by analyzing the workflow, identifying
+
+improvement opportunities, putting them into practice, analyzing again, and so on.
+
+To make this happen, we need to be able to diagnose the workflow, measure
+
+it, and have high-quality indicators to know what needs to be improved.
+
+And this is the topic of this section: how to measure your workflow!
+
+Measuring is about collecting data, usually numbers, that indicate something.
+
+We call the collected data "metrics".
+
+For example, imagine a bedridden patient; how does the doctor know his state?
+
+He uses instruments to measure the patient's vital sign, such as the
+
+number of heartbeats per minute, body temperature, and so on.
+
+Then, based on these metrics, the doctor concludes if the
+
+patient is healthy and improving.
+
+In Kanban, we do the same thing; our patient is the workflow.
+
+We measure the workflow and collect metrics that will give us indicators
+
+to make better-informed decisions on how to improve the workflow.
+
+In this section, we will discuss five crucial Kanban metrics, how to collect
+
+them, and how to present the metrics in a visual and easy-to-understand way.
+
+See you in the following lecture, where we will cover our first
+
+Kanban metric: the lead time!
+
+See you there!.
+
+

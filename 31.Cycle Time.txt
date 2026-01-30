@@ -1,0 +1,125 @@
+Another crucial Kanban metric for analysis and optimizing the
+
+workflow is the Cycle Time, which is very similar to the Lead Time.
+
+While the Lead Time measures how long a task took to get done since its
+
+creation, in other words, from the customer order to its fulfillment,
+
+the Cycle Time measures how long a task took to get done since the team
+
+started working on it, in other words, from the production to its fulfillment.
+
+Thus, the difference between both is that the Cycle Time
+
+does not include this Wait time.
+
+For example, for this task, we would measure the Cycle Time by starting
+
+to count from the moment it was moved to this column and stop counting
+
+whenever it reaches the DONE column.
+
+As we did with the Lead Time, we can visualize the Cycle Time using a scatter
+
+chart known as the Cycle Time Chart.
+
+The analysis procedures are very similar but have a slightly different focus.
+
+When analyzing the Lead Time, we are focusing on the customer’s
+
+perspective since we are considering the period from when an order was
+
+created to whenever it is fulfilled.
+
+Conversely, when analyzing the Cycle Time, we're focusing on the team's workflow.
+
+Thus, even though, mathematically, both metrics are very similar, they have
+
+very different implications in practice.
+
+For example, let's consider the case of purchasing a car and assume that the
+
+car still needs to be produced, only then to be delivered to the customer.
+
+From a customer perspective, we are worried about the Lead Time because
+
+we care about the time it will take for the car to be delivered
+
+to us from the day we purchased it.
+
+However, what if you are the manager of the factory that produces the car.
+
+Is the Lead Time useful for you?
+
+Pause the video for a few seconds, answer this question, and then come back.
+
+The answer is “no.”
+
+Because after the car is purchased, there is a lot of administrative
+
+work such as validating payment and lots of paperwork that the factory
+
+manager has no accountability.
+
+However, these administrative tasks are included in the Lead Time!
+
+Therefore, the factory manager should only consider the Cycle Time, which considers
+
+only the tasks that he's accountable for.
+
+Having said this, it is important to reinforce that the business as a
+
+whole should care about reducing this wait time to provide the customer
+
+with the best experience possible.
+
+That is why measuring Lead Time is important too.
+
+Let’s go back to our marketing agency example.
+
+Looking at the Kanban board, what could be done to reduce the cycle time?
+
+In other words, which step of the workflow could be faster after a task has started?
+
+For example, let's suppose that the organization has a high turnover,
+
+meaning that the team wastes a lot of time onboarding new writers.
+
+Given this, an alternative to speed up the onboarding and, consequently,
+
+reduce the average time for writing articles would be to create guidelines
+
+and video-based training programs.
+
+Another alternative would be to use Artificial Intelligence-based tools
+
+to automatically generate articles for the selected topics and have the team
+
+work on only improving these articles.
+
+Another option would be to work with freelance writers.
+
+As you can see, by focusing on reducing the average Cycle Time and
+
+using the Kanban board to analyze the workflow, we can devise ways
+
+of making the team more efficient.
+
+To wrap up this lecture, notice that creating the Cycle Time Chart on
+
+KanbanTool is the same steps we followed to generate the Lead Time Chart.
+
+If you use a physical Kanban Board or another digital tool without a
+
+feature for the Cycle Time Chart, you can download the spreadsheet I made
+
+available as a resource for this lecture.
+
+Now that we have already covered Lead Time and Cycle Time, let's move to
+
+our following lecture and cover our third key Kanban metric: Throughput.
+
+See you there!
+
+

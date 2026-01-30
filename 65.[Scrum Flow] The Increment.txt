@@ -1,0 +1,119 @@
+Let's now talk about the next Scrum artifact, the Increment.
+
+You already know that the Increment is the outcome of a Sprint.
+
+But, what is an Increment?
+
+An Increment is a vertical delivery.
+
+"But, wait, Mirko, what do you mean by a vertical delivery?"
+
+It is better to use images than words to answer this question.
+
+For this purpose, let’s use the famous Mona Lisa painting by Leonardo da
+
+Vinci as an example of a product.
+
+First, let's visualize what a horizontal delivery strategy would look like,
+
+resulting from an iterative workflow.
+
+As you can see, we only start to see colors in the second
+
+version of the painting.
+
+On the other hand, with an incremental workflow, we would
+
+have something like this.
+
+As you can see, an Increment is a vertical delivery, having all
+
+the layers of part of the Product.
+
+Here, in the first version of the painting, we had
+
+part of it completely done.
+
+To compare both delivery methods, iterative and incremental, take
+
+a look at their first step.
+
+For the iterative method, we know that we will have a woman, but
+
+there are no details regarding her skin color, eye color, and so on.
+
+For the incremental method, we have part of the painting good to go,
+
+with all the details and colors.
+
+Scrum is both iterative and incremental.
+
+Thus, it is something like this.
+
+Starting here, you can see that we have vertical deliverables, but we also defined
+
+the main foundations of our vision.
+
+In the software world, we can use this analogy to mean that we
+
+would have, early in the product development stages, a vision of the
+
+product’s architecture and features.
+
+In Scrum, each Sprint must, ideally, have usable features ready to be released.
+
+Additionally, the system's architecture should be somewhat
+
+ready to handle new features enabling us to fulfill the product vision.
+
+For other areas, such as architecture, engineering, product design, and so on
+
+the Increment might be models representing how the actual product is going to look.
+
+Nowadays, there are several cool technologies that can make Increments even
+
+better for getting customer feedback, such as printing 3d models for a new shoe, or
+
+you can use virtual reality or augmented reality for interior design projects.
+
+If you're working with a product that involves developing hardware, such as
+
+robotics, it might be unfeasible to produce the hardware parts every Sprint.
+
+For example, you can't produce a part of an autonomous vehicle, every Sprint.
+
+However, you can develop prototypes based on tools such as
+
+Arduino or Raspberry Pi boards.
+
+The important thing is that the Increment needs to give users and stakeholders an
+
+authentic experience of using the product.
+
+Why?
+
+Because the Increment is the compass of any Scrum initiative.
+
+It is what guides the entire effort.
+
+If the stakeholders don't have something concrete to use and evaluate, they
+
+won't be able to give quality feedback to the Scrum Team and all the other
+
+aspect of Scrum become useless.
+
+It would be like the Scrum Team getting blind.
+
+Never forget this.
+
+When working with complex problems, asking users what
+
+they want is usually not enough.
+
+They only know what they want when they see it and use it!
+
+In the following lecture, let's complement our discussion about the Increment
+
+by going over the Definition of Done.
+
+See you there.

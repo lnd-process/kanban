@@ -1,0 +1,25 @@
+Scrumban seeks
+
+a
+
+continuous flow of value, like Kanban.
+
+Thus, it limits Work in Progress to avoid queues throughout the flow.
+
+It is worth mentioning that some Scrum Teams adopt Kanban practices,
+
+such as limiting Work in Progress, but this is not part of the Scrum
+
+framework and is not mandatory.
+
+Conversely, in Scrumban, we must have Work in Progress limits, especially
+
+for the “Ready” column, since such a limit dictates the team’s
+
+feedback loops, in other words, the virtual iterations’ length.
+
+In the next lecture, let us discuss a Scrum practice adopted by most
+
+Scrumban teams: the Daily Scrum.
+
+See you there!

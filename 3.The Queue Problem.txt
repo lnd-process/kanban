@@ -1,0 +1,173 @@
+Before getting into Kanban itself, let us start with the why.
+
+In other words, let's start by understanding the main problem that
+
+Kanban solves: the queue problem.
+
+To illustrate it, let's see a real scenario.
+
+Have you ever been to the Louvre Museum in Paris?
+
+It is a fantastic place!
+
+There are days that accessing it is pretty quick.
+
+However, there are days that going to the Louvre Museum requires a lot of
+
+patience, because the lines are so long!
+
+Who has never experienced this situation of standing forever on a line?
+
+In the restaurant,
+
+in the bank, we face queues everywhere, even in the traffic.
+
+For instance, there are days that Paulista Avenue, in Sao
+
+Paulo, Brazil, is like this...
+
+on others it is like this, and on other days, the same Paulista
+
+Avenue is like this, full of cars.
+
+Standing in line or waiting in traffic is never fun and feels
+
+like a waste of time, doesn’t it?
+
+What if we had the power to eliminate queues everywhere?
+
+Have you ever imagined how the world would be without you needing to wait in lines?
+
+I don’t know about you, but I feel my life is being sucked out of
+
+me when I have to wait in line.
+
+Thus, I would love leaving in a world without queues!
+
+However, let's stop and think about this issue for a second.
+
+Why are queues formed?
+
+Why do you have to wait in line at the Louvre Museum, bank or grocery store?
+
+Why do we have traffic jams?
+
+Answering this question is key to understand the importance of Kanban.
+
+Let’s understand why queues are formed by understanding what
+
+happens at a grocery store.
+
+Suppose that there are 5 people shopping and 5 cashiers working at a grocery store.
+
+What happens if everybody decides to pay at the same time?
+
+Since we have one cashier per customer, each customer would be immediately served.
+
+What if we have 20 customers and they all decide to pay at the same time?
+
+We will have lines!
+
+Let's represent the grocery store as this box.
+
+This arrow represents the customers that are arriving at the store.
+
+This other arrow represents customers that are leaving the store.
+
+We, as customers, would love to do our shopping, pay for the products and
+
+leave without needing to wait in line.
+
+For this to happen, this system, in other words, the grocery store, needs to manage
+
+its resources, in other words, the cashiers, and make sure that there is
+
+at least one cashier available to serve a customer whenever he is ready to pay.
+
+If this is not possible, we, customers, would like to
+
+wait in line for a reasonable period, say, at most 10 minutes.
+
+Thus, the store could solve this by having as many cashiers as possible, or providing
+
+mechanisms to make their service faster.
+
+In general, we can visualize the problem as the following.
+
+We have requests, which might be customers, vehicles, or any type of work.
+
+And we have a system, which might be a grocery store, the roads from a city,
+
+a product line, or a project team.
+
+Finally, we have the outputs.
+
+Whenever a system has queues, we can interpret it as being sick,
+
+which means, that it is inefficient.
+
+When we have the flu, we have symptoms such as runny nose or fever.
+
+When a system is not capable of handling the real-time demand of its
+
+customers or users, it has queues.
+
+The longer the queues, the sicker the system.
+
+Notice that this phenomenon happens in many businesses, be it a software
+
+development company, a digital marketing agency, any production line environment
+
+such as a car factory, and so on.
+
+Thus, the challenge here is to manage the system's capability of handling the flow
+
+of requests, be it customers paying for groceries or any other type of work, and
+
+getting done with it as fast as possible.
+
+Notice that in most contexts it is almost impossible to predict
+
+when the requests will come in.
+
+For instance, if you are part of a software operation and maintenance
+
+team, when are bugs going to be detected by testers or customers?
+
+Or, when are customers going to ask for support?
+
+You can have estimates but not perfect predictions.
+
+However, despite this, if we focus on managing the flow, trying to minimize the
+
+time necessary to fulfill the requests, and making the best use of our existing
+
+resources, we can have great results.
+
+Of course, having zero wait time, in some situations, might be
+
+too expensive and prohibitive.
+
+For example, a grocery store cannot afford to have one cashier per customer!
+
+However, again, we should aim to minimize the wait time to acceptable levels.
+
+And, this is what you're going to learn in this course!
+
+You will learn how to optimize systems, including your business and
+
+projects, using the Kanban Method!
+
+Let's make a quick recap.
+
+At this point, you know that the Kanban Method focuses on
+
+solving the queue problem.
+
+However, you might still be having a hard time understanding how the queue problem
+
+relates with your business and projects.
+
+Let's explore this issue in the following lecture!
+
+See you there!.

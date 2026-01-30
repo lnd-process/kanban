@@ -1,0 +1,109 @@
+To wrap up discussing how to construct Kanban boards, in this lecture, let’s
+
+talk more about the Kanban card.
+
+Understanding what the Kanban card means is very intuitive.
+
+So, I haven’t explained much about it up to this point, but I am sure you
+
+understood that a card represents a task.
+
+In our examples, the cards only have a name and an assignee.
+
+However, we could add more information to them, and using an online system, such
+
+as KanbanTool, brings lots of flexibility in what information can be added to them.
+
+To add more information to a Kanban card, we just need to click on
+
+it, and this window will open.
+
+Right here, you can add a description to the task using lots of formatting
+
+options such as adding bullet lists, bold, and even hyperlinks.
+
+You can also attach files, which might come in very handy when we are,
+
+for example, working with documents.
+
+In our example, we could attach the article related to each task.
+
+We can also define its priority, due date, add a checklist, and more.
+
+As you can see, KanbanTool gives us a lot of features and flexibility
+
+for registering important information on the Kanban cards.
+
+For this reason, I recommend using an online system for adopting Kanban.
+
+However, using physical cards and boards is also an option.
+
+So, let’s talk a little bit about physical Kanban boards.
+
+The main difference when working with physical Kanban cards is that we have
+
+less space because we use post-its, measuring around 8 to 10 centimeters wide.
+
+Traditionally, this is the anatomy of a Kanban card.
+
+In the middle, we have the task’s title.
+
+Up here, we have the initials of the person responsible for the task.
+
+Over here, a reference number relating the physical card with a
+
+task from an online system such as Trello, Jira, TFS, or KanbanTool.
+
+This information might be useful for teams that want to use both:
+
+physical and digital boards.
+
+I have worked in teams adopting physical and digital boards.
+
+The reason was that the team felt like using physical boards made collaboration
+
+easier, but they needed to keep persistent data about the process.
+
+Further, using a digital system gave the team more flexibility for
+
+registering information, such as attaching files, and made it easier to
+
+share them between the team members.
+
+Finally, at the bottom, we have the start and end dates.
+
+Thus, this is how a traditional Kanban card looks like.
+
+Here is an example of a slightly different Kanban card, including
+
+additional information such as
+
+the estimated time to finish the task and a color signal
+
+indicating that it is critical.
+
+We can also use the back of the card to, for example, register the
+
+dates in which the card entered and left each of the columns.
+
+We will discuss this later, but be aware that this information is critical
+
+for analyzing flow performance.
+
+Notice that when using an only system, such as KanbanTool, this
+
+type of information is automatically collected, and diagrams such as
+
+this one are automatically created.
+
+This diagram is the famous “Cumulative Flow Diagram,” and
+
+we will discuss it shortly.
+
+And with this, we conclude this section on the Kanban Board.
+
+Assess your knowledge by taking the end-of-section quiz and, if we
+
+have any questions, ask questions on the course’s Q&A board, and
+
+I will be happy to answer them.

@@ -1,0 +1,69 @@
+In this course, so far, you learned that
+
+Kanban is a way of optimizing the flow of value by using
+
+a process based on a visual, Work-In-Progress limited pull system.
+
+As a result, it helps you to solve the queue problem, remove waste,
+
+and focus on the essentials.
+
+We learn many Kanban tools such as Kanban Board, limiting Work In Progress, metrics,
+
+Cumulative Flow Diagram, and more.
+
+Kanban has been adopted in many contexts.
+
+Several agile initiatives use Kanban to improve the way they work.
+
+Even traditional, plan-based initiatives use some of Kanban’s
+
+aspects, such as the board, to enhance communication and workflow.
+
+However, remember when I talked about Toyota at the begging of the course?
+
+Kanban was created by Toyota and was part of a system known as the
+
+Toyota Product System, which we usually refer to as “lean thinking.”
+
+Kanban is a powerful management tool; however, it is not a
+
+pillar of Lean thinking or the secret to Toyota’s success.
+
+Lean thinking goes beyond management tools.
+
+It is about having the organization committed to continuously respecting and
+
+investing in its people and promoting a culture of continuous improvement.
+
+The organization should create an environment that encourages people to
+
+challenge everything and embrace change.
+
+Lean thinking is about teamwork and challenging the status quo by
+
+constantly analyzing what you're doing and looking for ways to improve.
+
+Kanban is a tool for bringing Lean thinking to life.
+
+Thus, if you want to make the most out of Kanban, your organization must follow the
+
+two principles of Lean thinking, respect for people, and continuous improvement.
+
+Notice that Lean thinking principles closely relate to the 4 Kanban Principles
+
+discussed earlier in this course.
+
+The primary outcome here is that principles come over practices or tools.
+
+Having said this, I hope you feel ready and motivated to put Kanban into practice!
+
+But, the course is not over yet!
+
+In the following sections, you will learn more about how Kanban relates to
+
+the agile mindset and tools that will improve your chances of succeeding
+
+with your Kanban initiatives!
+
+Let’s keep moving.

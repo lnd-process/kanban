@@ -1,0 +1,28 @@
+.
+econd step of the five-step roadmap is “Prioritize the work.”
+
+Prioritizing is about classifying the tasks given their level of importance.
+
+This step is essential because, before adopting Kanban, many teams have members
+
+multitasking and treating the tasks as if they all have the same urgency.
+
+And, as we previously discussed, this behavior hurts the team’s productivity.
+
+One example of how to prioritize tasks is to classify them as “Must Have,” “Should
+
+Have,” “Could Have,” or “Won’t Have.”
+
+This classification scheme is known as MoSCow prioritization
+
+and is widely used by agile teams.
+
+The priority of the tasks must be reflected on the Kanban Board’s leftmost
+
+column, having the ones with higher priority on the top of the column.
+
+At this point, you will have identified and prioritized the work,
+
+being in good shape for conducting
+
+the roadmap’s third step, which we will discuss in the following lecture!

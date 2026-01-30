@@ -1,0 +1,83 @@
+Finally, we are at the last step of adopting Kanban: “Enter Kaizen Cycle.”
+
+Here is where Kanban’s mindset is really put into action.
+
+Kaizen is a Japanese word that means "improvement".
+
+And, when I say "improvement", we automatically think about "change".
+
+But, changing what?
+
+Changing the process.
+
+Kanban is a mechanism to guide changes in the team’s processes by focusing
+
+on reducing waste, such as queues, and making the process more efficient,
+
+in other words, reducing the team's cycle time and lead
+
+time and increasing throughput.
+
+With Kanban, and this is also true with any lean or agile approach, there is
+
+no such thing as a universal cookbook with all the details about the ideal
+
+configuration of Kanban for your team.
+
+Thus, it is up to the team members to collaborate and use their
+
+knowledge and intelligence to empirically configure Kanban’s
+
+aspects, such as the Work-In-Progress limits, to suit their needs.
+
+They do that by following a build-measure-learn loop, where they
+
+start with ideas, build their workflow and define the team's policies and metrics.
+
+Then, they measure their workflow, learn by analyzing the collected data,
+
+come up with new ideas, and so on.
+
+For this purpose, it is crucial to define feedback events, which are planned
+
+timeslots for the team to come together and inspect their progress by, for
+
+example, analyzing the Continuous Flow Diagram and defining process improvements.
+
+For example, some teams hold such meetings weekly, and others
+
+have them every other week.
+
+It is up to the team to decide the frequency that suits them best.
+
+Another example of a feedback cycle is holding short daily meetings
+
+to allow the team to synchronize tasks and analyze their workflow.
+
+For example, they could discuss if the flow is going slower than
+
+expected or if there are items that are taking too long to complete?
+
+If it is the case, what can they do to get faster and complete these tasks?
+
+In summary, to kick off your Kanban initiative, there is no mystery;
+
+there is no need to hire, there is no need to create new positions,
+
+and there is no need to define new processes or update existing ones.
+
+You just need to identify the work, prioritize it, map the existing workflow,
+
+limit Work In Progress, and start inspecting your process and adapting.
+
+It is an evolutionary process, where the team defines their workflow, policies, and
+
+metrics continuously as they learn more.
+
+But, we are not done yet.
+
+In the next section, let's discuss common mistakes people make when adopting Kanban
+
+to avoid having you fall into these traps.
+
+See you there!

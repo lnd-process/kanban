@@ -1,0 +1,93 @@
+Now that you are familiarized with the CFD, let's discuss how to use
+
+it for analyzing your workflow.
+
+We can analyze trends by observing the chart.
+
+For this purpose, we focus on the height of each area because it shows
+
+how the tasks are accumulating at each column of the Kanban board.
+
+In the spreadsheet that I shared in the past lecture, there are
+
+sheets with the example scenarios that we will discuss from here on.
+
+In this first example, the height of the red area increases
+
+faster than in the other areas.
+
+Is this good?
+
+Is this what we want?
+
+Pause the video for a few seconds, think about this question, and then come back.
+
+This scenario is bad.
+
+The CFD indicates that more tasks are being created than the team
+
+can handle because the red area is growing faster than the others!
+
+In this situation, there are two possible causes: the team is
+
+not fast enough or an excessive number of tasks is being created.
+
+If the team is not fast enough, we could add more members to the team,
+
+train them to become more efficient, or automate part of the process.
+
+If too many tasks are being created, we could investigate why
+
+this is happening and address it.
+
+Let's move to the next sheet.
+
+In this example, the green area is growing faster than the others.
+
+Again, pause the video for a second, think about if this scenario is
+
+positive or not, and come back.
+
+This CFD also indicates a warning sign because it means that we have
+
+idle team members or will have soon.
+
+The exception, of course, is if we are approaching the end
+
+of a milestone or a project.
+
+In this case, it is expected that the green area to dominate the chart.
+
+In general, we address this situation by moving members from the team to
+
+work with something else valuable for the organization or trying to improve
+
+the inflow of tasks for this team.
+
+Now, let's move to the last example we will cover in this
+
+lecture by going to the next sheet.
+
+Which area is going faster?
+
+the blue area!
+
+Is this positive?
+
+No, because it means that team is starting to work on many tasks but is not getting
+
+done with them, generating queues.
+
+In other words, the work in progress is out of control.
+
+And which is the Kanban practice that addresses this issue?
+
+Limiting the Work In Progress!
+
+Did you notice how we can easily spot trends and analyze the workflow
+
+stability by observing the CFD?
+
+In the following lecture, let's discuss using the CFD to analyze Kanban metrics!
+
+See you there!

@@ -1,0 +1,65 @@
+We discussed in the past lecture, Scrumban makes Scrum lighter by removing
+
+some of its aspects, such as the iterations’ timebox, and making the
+
+accountabilities and events more flexible.
+
+However, adopting Scrumban can be dangerous if the organization and
+
+team don’t have enough maturity with Agile, Scrum, Kanban, and Lean.
+
+There is an old Japanese philosophy called Shu-Ha-Ri.
+
+It says that first, you must follow the rules;
+
+Then, after you master them, you can analyze how well the rules
+
+apply to your context, and break them for having a better fit.
+
+Finally, with enough maturity, you create new traditions and ways of doing things.
+
+When you are following Scrum rules, in general, you are in the SHU stage.
+
+Scrumban is HA, which means that is not for rookies.
+
+Unfortunately, I see many people migrating from Scrum to Scrumban without
+
+understanding the why’s behind Scrum.
+
+For example, some teams don’t hold Sprint Retrospective every Sprint
+
+because don’t see the value in doing so.
+
+However, the problem is that usually that they don’t know how to conduct
+
+effective Sprint Retrospective events or the reason for them to exist!
+
+Other organizations prefer to have multiple people fulfilling the
+
+Product Owner accountability, breaking Scrum’s rule and justifying that
+
+having a single person for doing the PO’s job is too complicated.
+
+You shouldn't be removing Scrum’s rules for them being
+
+hard or complicated to follow!
+
+You should only migrate from SHU to HA, from Scrum to Scrumban, if you dominate
+
+Scrum, Kanban, Agile and Lean values, principles, and practices by heart.
+
+Otherwise, moving to Scrumban will be cutting your own throat.
+
+Thus, my final message is to be conscious of where you are.
+
+If you don’t master Scrum, Kanban, Agile, and Lean stick to the basics.
+
+You are still at the SHU level.
+
+Stick with Scrum’s rules.
+
+Whenever you have enough experience and knowledge to consider yourself at
+
+the HA level, consider if moving to Scrumban or making other adaptations
+
+to Scrum makes sense or not.

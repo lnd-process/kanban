@@ -1,0 +1,3620 @@
+52.
+Let's get started at full throttle by understanding, in
+
+a nutshell, how Scrum works.
+
+Scrum is very simple.
+
+You start with a problem.
+
+It might be, for instance, developing a new product or service.
+
+Examples here include building new software or adding new features or
+
+fixes to an existing one, designing a new car or building, developing an
+
+innovative marketing strategy for your company, a new online course, and so on.
+
+In Scrum, the team takes the problem and breaks it into smaller chunks.
+
+For an e-commerce website, breaking the problem would be listing its
+
+features such as sign up and login pages, having support for Content
+
+Management System features, having payment methods, registering products,
+
+shopping cart, product search, and so on.
+
+The team lists everything in a to-do list called the Product Backlog.
+
+This list is ordered so that the work on the top has a higher
+
+priority than the work on the bottom.
+
+Afterward, during a team event called the Sprint Planning, the team collaboratively
+
+selects a few of the top to-do items such as "developing sign up and login pages" to
+
+compose what is called the Sprint Backlog.
+
+The items on the Sprint Backlog are developed and delivered in what is called
+
+a Sprint, which is the heart of Scrum.
+
+A Sprint is a period of at most one month.
+
+At the end of each Sprint, a product Increment is delivered.
+
+And what is an Increment?
+
+For an eCommerce website, it is the website up and running , with
+
+the new functionality, ready to go.
+
+In other words, it is something that the customer can look at and see if it's
+
+good or not; if it fits their needs.
+
+If it does, great, the team is going on the right path.
+
+If not, great too!
+
+Now, the team has enough knowledge to adapt their to-do list and
+
+improve their chances of delivering the best product or service.
+
+So, the team keeps running the Sprints and refining the Product Backlog with
+
+the acquired knowledge from inspecting Increments until the customer or
+
+business decides that the product is good enough, or there's no more budget left.
+
+To make this work, Scrum prescribes events and accountabilities.
+
+Let's start with the events.
+
+Scrum is composed of five events.
+
+The first one is the Sprint, which is a container for the remaining ones.
+
+Then, we have the Spring Planning, which we have already talked about, which
+
+happens at the beginning of each Sprint.
+
+And then, we have two events at the end of the Sprint, the Sprint
+
+Review, and the Sprint Retrospective.
+
+The Sprint Review is about inspecting the Increment and
+
+adapting the Product Backlog, which we have previously discussed.
+
+The Sprint Retrospective is about the team's continuous improvement.
+
+So, it's about inspecting the team's processes and adapting them to
+
+deliver as efficiently as possible.
+
+And finally, there's the Daily Scrum, a 15 minutes event that happens daily,
+
+where the team inspects and adapts their work, giving the team complete focus
+
+on achieving the goals of the Sprint.
+
+Now, let's talk about the three accountabilities.
+
+The first one is the Product Owner.
+
+The PO is the single person accountable for managing the Product Backlog,
+
+ensuring that everybody is aligned with the work to do and that the
+
+most important stuff is done first.
+
+The Product Owner's goal is to maximize the value of the product!
+
+Then we have the Developers.
+
+They are the ones that transform the to-do list into Increments..
+
+And last but not least, we have a fancy one, the Scrum Master, the one
+
+who facilitates all of this work.
+
+Together, they form the Scrum Team!
+
+And that's it!
+
+You've done it.
+
+You had a glimpse of how Scrum works in just a few minutes!
+
+I think this might be a record.
+
+Don't feel overwhelmed if you feel like this video was too much.
+
+The idea here was just for you to get a big picture of how Scrum works.
+
+We will get into the details of everything that we have
+
+discussed here in future lectures.
+
+
+53.
+
+To have a deeper understanding of Scrum's purposes and mechanics, it is crucial to
+
+understand its roots in the Agile mindset.
+
+Further, it is essential to comprehend Agile's older brother, the traditional
+
+way of working, also known as waterfall.
+
+Given this, this lecture focuses on giving you a better perspective
+
+of the Agile mindset and how it compares to the waterfall approach.
+
+Let's make things visual.
+
+First, let me start here by drawing the X-axis for time.
+
+And the Y-axis is going to be for the product vision, which here means
+
+the product description, including its requirements and features.
+
+Now, let's assume that right here is our initial vision.
+
+The waterfall approach is also known as traditional, proactive, predictive,
+
+plan-driven, and disciplined.
+
+Why?
+
+Because in waterfall, we aim to develop the perfect plan and then follow it.
+
+I like to compare it with the way we work with a cannon.
+
+Say that you have a target and need to hit it with a cannon.
+
+What do you do?
+
+You aim for the target and
+
+"boom" take the shot.
+
+"Aiming for it" in the business world usually means having an approved project
+
+plan or a signed contract specifying what will be done, when, and for how much.
+
+Further, "shooting" means following the plan.
+
+Let's represent these concepts in our model.
+
+Let's assume that this is a development cycle's starting point and that the
+
+plan is represented by this arrow pointing to our initial vision.
+
+Given that we have a plan, what do we do in waterfall?
+
+We execute it until the end.
+
+And, after a period, we will reach our initial vision.
+
+Consequently, if we assume that we got the visual right at first and
+
+have a fixed target, we are good to go if we can develop the perfect plan.
+
+However, what if we can't get the vision right at first?
+
+Let's go back to the cannon.
+
+What if the environment changes?
+
+If the wind starts blowing stronger?
+
+Or an obstacle gets in the way?
+
+Or if we have a moving target, like a car?
+
+Let's represent such uncertainty by assuming that this is our correct
+
+vision, far from our initial one.
+
+Even though we were initially aiming correctly, we would miss the target!
+
+The same thing might happen in the business world, especially when
+
+working with new technologies and markets; the correct vision is,
+
+usually, far from our initial one.
+
+For this reason, waterfall can lead you to a useless product whenever
+
+there is lots of uncertainty regarding what to build and how to build it.
+
+Notice that I am exaggerating here slightly when comparing the waterfall
+
+approach with shooting a cannonball.
+
+Theoretically, in waterfall, we could change the initial plan, but, in practice,
+
+we would not move the vision much because of the associated cost and bureaucracy.
+
+As a result, two things might happen.
+
+First, the implemented changes might not be enough to deliver the correct vision
+
+or something sufficiently close to it.
+
+Or, second, we might at some point get to the correct vision, but it will
+
+be so late that it might be useless.
+
+Given this, what is the alternative to waterfall?
+
+Here is where Agile, also known as an adaptive approach, comes in.
+
+In Agile, we assume that we initially don't know the target.
+
+We acknowledge that we cannot come up with a perfect plan.
+
+The idea is to deliver something close to the customer's needs in
+
+short cycles, given what we know now and learn with experience.
+
+Thus, here, we would point to our initial vision
+
+and then make a rapid release to the customers or present
+
+the product to stakeholders.
+
+Notice that this release contains only a fraction of our current product vision!
+
+After experiencing the result, the customers, stakeholders, and the
+
+team become more informed and make a better decision about the product,
+
+which might be adjusting our product vision.
+
+At this point, you might be asking yourself, "But, Mirko, in practice,
+
+why do such adjustments happen?"
+
+There are many possible causes.
+
+The first is our team learning more about the technologies being used.
+
+The second is changes in the market or available technologies, for instance,
+
+an update on the tools we are using.
+
+A third is poor early and customer analysis.
+
+And finally, there's the phenomenon popularly known as "IKIWISI", which
+
+means "I know it when I see it".
+
+For some types of products, especially the more innovative ones.
+
+it is useless to ask potential customers if they will like the product or use it.
+
+Why?
+
+Because if the product is so innovative, they won't be able to really grasp
+
+how they could interact with it.
+
+Or sometimes, it is just too hard to explain the product to them
+
+because it is so intangible, which is frequent with software products.
+
+Given this, the users just know if the product is valuable when they see it.
+
+In these scenarios, the only way to get meaningful validation from the
+
+customers is to show them something usable and have them use it.
+
+Right here, after they have analyzed or inspected our deliverable, we get
+
+feedback from them and learn more about what needs to be delivered.
+
+As I previously said, this might cause us to adapt our vision
+
+and, consequently, our plan.
+
+And then, what we do next?
+
+We deliver a new version, get our customers to use it, analyze the feedback
+
+and adjust again; hopefully getting closer and closer to the correct vision.
+
+And we keep doing this until we reach the correct vision.
+
+Given this, what is agility?
+
+Agility, or being agile, means responding to change.
+
+Now, let's do a quick review of what we covered in this video.
+
+At this point, you know that waterfall is better suited for endeavors in
+
+which we know what to do, what to deliver early in the development cycle.
+
+Well-known examples are constructing a bridge
+
+or a building because the scope, or the work to be done, is
+
+not expected to change much.
+
+Conversely, Agile is best suited for complex environments, where changes
+
+are natural and should not be avoided because adapting is the way to lead
+
+us to the desired outcomes, in other words, the correct product vision.
+
+This scenario is frequent for developing innovative or complex products.
+
+Further, you know that Scrum is an Agile framework for guiding changes.
+
+Great job!
+
+In industry, many people confuse being agile, rapid and lean.
+
+In the following lecture, we will discuss how these concepts relate to
+
+each other, giving you solid foundations for what is to come in this course.
+
+See you there.
+
+54.
+
+Phiên âm
+In the previous lecture, you learned about the distinctions
+
+between agile and waterfall and that Scrum is an agile framework.
+
+In this lecture, we will deepen our discussion about the agile mindset by
+
+discussing three essential concepts: being agile, rapid, and lean.
+
+Let's start by reflecting on this question: is being agile the same
+
+thing as being rapid or fast?
+
+Pause the video for one minute and try to come up with an answer.
+
+The answer is: no!
+
+Let me show you how the concepts relate to each other by going back to our model.
+
+Again, let's assumed that we are here.
+
+Being rapid or fast means getting to the vision fast.
+
+Right here, when we were pointing to our initial vision, what does it
+
+mean if we ultimately reach it fast?
+
+Is this valuable?
+
+Well, not really, because we're still far away from our correct vision.
+
+This is considered waste.
+
+Thus, only being rapid is not enough.
+
+The difference between a rapid and the traditional waterfall approach is that
+
+the rapid one delivers waste faster.
+
+However, can you be agile without being rapid?
+
+Let's assume that you want to be agile and respond to changes, but you are slow.
+
+What is the outcome?
+
+Well, it sounds like the waterfall approach.
+
+For achieving agility, you must be rapid.
+
+Think about rapid and Agile as a difference between a bullet and a Leopard.
+
+A bullet is rapid, but it can't adapt along the way.
+
+A Leopard, on the other hand, is rapid but can quickly adjust
+
+to the environment if needed.
+
+The bullet is not Agile, but the Leopard is; the Leopard is rapid and agile.
+
+I hope that, after this lecture, you won't confuse the concepts of Agile and rapid.
+
+Let's wrap up this lecture by discussing a final concept.
+
+Agility is more related to getting to the correct product, but we need to get
+
+there efficiently by reducing the waste.
+
+Reducing waste is what is widely known as being Lean.
+
+In the agile approach, we produce waste whenever we work on anything not
+
+part of the correct product vision.
+
+Thus, notice that the value of agile follows from it being capable of
+
+making the necessary adjustments with as minimal waste as possible.
+
+Thus, it follows that you have also got to be Lean for you to
+
+succeed with Agile and Scrum.
+
+The key takeaway from this lecture is that succeeding with Agile and
+
+Scrum is greatly dependent on your capabilities of being both: Lean and
+
+rapid, because you have got to get to the correct vision as fast as possible,
+
+wasting as few resources as possible.
+
+55.
+At this point, you know that Scrum is a mechanism to guide changes.
+
+However, is it a process?
+
+A methodology?
+
+A method??
+
+I hear many people claiming that Scrum is a methodology or process, but by
+
+doing so they're missing a key aspect of Scrum, which is its role as a means
+
+for the team to define its own processes and methods to address complex problems.
+
+Now, it is time for you to take a step forward and understand why
+
+Scrum is considered a framework.
+
+Let's model the world of Scrum as a subway system.
+
+Here, we have Scrum and some of its concepts and practices.
+
+And here we have practices from many knowledge areas that can be used to
+
+complement Scrum depending or the context.
+
+the bedding
+
+Here, paths with different colors means that they are part
+
+of different knowledge areas.
+
+As previously discussed, the pink line represents Scrum official practices,
+
+according to the Scrum Guide.
+
+This green line represents Product management practices.
+
+Dark orange represents Lean practices, and so on.
+
+So, here, for instance, we see Product Backlog and Product Goal,
+
+practices that are part of the Scrum framework to manage products.
+
+That's why they belong to the Scrum line and are closely connected
+
+to the Product Management line.
+
+An example of completing Scrum is describing Product Backlog items
+
+using the User Story notation.
+
+Now, check this out.
+
+Developing software without any DevOps, testing, or design
+
+activity is a very risky endeavor, and I wouldn't recommend it.
+
+Now, how many DevOps, testing, or design activities are part of Scrum?
+
+Zero.
+
+Yep, Scrum does not prescribe how to version, deploy,
+
+design or test your software.
+
+Does it mean that you don't have to do any of these activities?
+
+Of course not.
+
+For this reason, Scrum is defined as a framework.
+
+Scrum gives you the strategy; the what backed by the whys.
+
+Still, you, the user, must determine the hows, the tactics, making sure
+
+that you conform to the rules of Scrum to avoid covering problems
+
+and limiting the benefits of Scrum.
+
+You might be wondering: "Why do we need to define how to adopt Scrum?".
+
+Because each product, organizational culture, technology,
+
+and so on are different!
+
+And defining the how is very context-sensitive.
+
+Trying to make a general-purpose solution is doomed to failure.
+
+That is why Scrum doesn't even try to go there.
+
+However, don't get me wrong.
+
+Scrum is a potent tool for your toolbox, and, in this course, I will equip you
+
+with the necessary skills to apply Scrum for real, being aware of its boundaries
+
+and where you and your team will need to step up and make decisions to complement
+
+the framework to suit your needs.
+
+The key takeaway from our discussion here is that to use Scrum successfully,
+
+depending on your domain, you must complement it with other
+
+processes, methods and techniques.
+
+Again, Scrum is a framework, but a very powerful and useful one.
+
+56.
+
+[Introduction] The Scrum Guide
+Hey,
+
+
+
+In this course, we go over the Scrum framework by following its official definition, as described in the Scrum Guide.
+
+
+
+You can download the most recent version of the Scrum Guide in English from this lecture's resources.
+
+
+
+Or, you can access its official Website and read it online or download it in your native language: Click Here to Access Scrum Guide's Official Website
+
+
+
+Let me know if you have any questions,
+
+
+
+Mirko
+
+Tài nguyên cho bài giảng này
+
+https://att-c.udemycdn.com/2022-09-13_02-25-14-7f1de4e6411d04cb0cabc1c02918814d/original.pdf?response-content-disposition=attachment%3B+filename%3D2020-Scrum-Guide-US.pdf&Expires=1769716862&Signature=UC4h-twCmsOegaeP5rb6D~AxpI61D-mH7o3sNYJnyc4UYn6kxxmzY01b1ICa77-BAmGYr0kggc~w2YrGj44iAWudzGrSlp7klFSvxYheSa02RMfWuRUgPgHFq4AWWI-cBQAGj~Z74Fl9FIJNQjHjAFZaOyXvxTwocYMDsxoh7vdmy66qHQY1ztDii5ReEbApNSEtwvQjeAjamFlyvCfjS6qLXNhZNY~U94pRrbR6B8ZmBAb5NbXu9N6JmIbjDbWxUDy2diZwcovml2qsChhCnLzICizlePuY6UZKN6PbiMDeKWTC31V0l0VcZFAkf5ZI0ihnLvX2iHJWfkFqoAw3og__&Key-Pair-Id=K3MG148K9RIRF4
+
+56.
+
+The essence of Scrum is a Scrum Team
+
+as we have previously discussed, the Scrum Team is formed by the Product Owner,
+
+the Scrum Master, and the Developers.
+
+Ideally, you would have one person as the Product Owner, another one for
+
+the Scrum Master, plus the Developers.
+
+Typically, the Scrum Team is composed of 10 or fewer people.
+
+But this is not a rule.
+
+You could have one person playing multiple accountabilities, and it logically
+
+follows that no one needs to be full-time.
+
+The Product Owner is the business person and takes care of the Product Backlog.
+
+The Developers are responsible for transforming the ideas reflected in
+
+the Product Backlog into Increments.
+
+And the Scrum Master is there to make Scrum run smoothly.
+
+Collectively, the Scrum Team is responsible for all product-related
+
+activities, from stakeholder collaboration to research and development.
+
+Further, the entire Scrum Team is accountable for creating a valuable,
+
+usable Increment every Sprint.
+
+The Scrum Team is a cohesive unit of professionals focused on one objective at
+
+a time, the Product Goal, which we will talk more about later in this course.
+
+To achieve the necessary efficiency and flexibility, a Scrum Team is
+
+self-managed and cross-functional, meaning that it has the autonomy to
+
+define who does what, when, and how, and that it has all the skills needed to
+
+accomplish the work without depending on others not part of the Scrum Team.
+
+Now, let's talk about each accountability, starting with the Product Owner, which
+
+is the topic of the next lecture.
+
+57. 
+Let's talk about the Product Owner.
+
+The PO maximizes the value delivery chain.
+
+In other words, he or she is accountable for maximizing the value of the
+
+product resulting from the Scrum Team.
+
+Think about what I just said for a little bit.
+
+Do you agree?
+
+Or is this a very radical view?
+
+If you agree with me, you might agree that the PO can be seen as the optimization
+
+entity with the power of making the team rapidly deliver the desired product
+
+or, in the worst case, make it run in circles or never release something useful.
+
+Now you might ask.
+
+Mirko, assuming that you are right, how does the PO do that?
+
+By managing the Product Backlog within the Scrum Framework.
+
+It all starts with developing and explicitly communicating the Product
+
+Goal, which is the long-term objective for the Scrum Team.
+
+Why is having the Product Goal important?
+
+To answer that, let's refer to a classic story, Alice in Wonderland.
+
+One day, Alice came to a fork in the road and saw a Cheshire cat in a tree.
+
+"Which road do I take?"
+
+she asked.
+
+His response was a question: "Where do you want to go?"
+
+"I don't know," Alice answered.
+
+"Then,", said the cat, "it doesn't matter."
+
+See?
+
+Giving the Scrum Team a goal to fulfill gives it a sense of purpose,
+
+helping it to make better decisions.
+
+We will talk more about the Product Goal and more details on how the
+
+Product Backlog is managed by the Product Owner later in this course.
+
+For now, let's have an overview of how the Product Owner maximizes the value
+
+of the work performed by the Scrum Team.
+
+It all starts with some business people with a lot of ideas for a product.
+
+Therefore, here we have the business side.
+
+For instance, let's consider the following problem.
+
+Japan is a country with a very strong culture, producing goods in
+
+several domains, such as fashion, cooking, games and collectibles.
+
+There are several online stores in Japan, but some of them don't ship abroad or
+
+have all the information in Japanese, making the life of foreigners very hard.
+
+A particular website that brings the attention of many buyers from
+
+the other countries is Yahoo!
+
+Auctions Japan.
+
+But as I said, it only sells to people that live in Japan.
+
+So, how can we provide a service for people that live
+
+abroad to buy stuff in Japan?
+
+A solution is to build a proxy service such as a website, which is connected
+
+to Yahoo and that could serve as an interface for people to buy in Yahoo.
+
+You might visualize that there are several features that this website should have,
+
+such as searching for a product, buying, a shopping cart, payments, and so on.
+
+At this point, you have a better understanding of what
+
+happens on the business side.
+
+On the other end, we have the Developers, who transform the ideas into value,
+
+in other words, usable products.
+
+But where is the PO?
+
+The PO is right here.
+
+So, in general, the PO's job is to analyze the ideas from the
+
+business people and transform them into requests for the Developers.
+
+The list of requests is what we call the Product Backlog.
+
+The challenge is that the ideas come up way faster than their development.
+
+Therefore, the Product Owner is responsible to consider inputs
+
+from the business and technical people and define a sequence in
+
+which the requests are fulfilled.
+
+Such as sequence must maximize the value delivered by the Developers,
+
+satisfying business needs.
+
+For this purpose, the most important requests must be
+
+fulfilled earlier in time.
+
+In other words, they must come first and are placed on the
+
+top of the Product Backlog.
+
+Got it?
+
+An important point to keep in mind is that the Product Owner is not a bridge
+
+between development and business.
+
+They can talk to each other if needed, but the business people cannot interrupt
+
+or try to command the Developers.
+
+And, who is here to make sure that all this works efficiently?
+
+The Scrum Master.
+
+As we saw, the Product Owner maximizes the value delivery chain.
+
+Now, since business ideas are created faster than they can be developed, do
+
+you think the Product Owner needs to act like a filter rejecting or accepting
+
+requests from the business stakeholders?
+
+No, definitely not.
+
+The Product Owner just needs to make sure that the requests are ordered correctly.
+
+Having the most important ones come first.
+
+This is part of what we call Product Backlog management.
+
+We will talk about how the Product Owner manages the Product Backlog later.
+
+Now, let's move to the next lecture!
+
+58.
+Now, let's talk about the Developers.
+
+They are committed to creating any aspect of a usable Increment each Sprint.
+
+In other words, they transform the ideas reflected in the Product Backlog
+
+into something usable and valuable.
+
+In Scrum, the Developers are cross-functional.
+
+In other words, the sum of the skills of all the Developers
+
+must be enough to deliver all the aspects of a usable product.
+
+Notice that individuals might have a specialized area of focus,
+
+such as development or testing.
+
+However, there are no sub-teams or hierarchies, and they all share the
+
+accountability for planning their work and delivering high quality outcomes.
+
+This is very important.
+
+In Scrum, if you create any aspect of an Increment, you are a Developer.
+
+The goal of this characteristic is to create unity.
+
+Even though individuals might have specialized skills or areas of
+
+focus, the accountability regarding creating usable products belongs
+
+to the Developers as a whole.
+
+There is no individual failure or success.
+
+Again, the focus is on the team as a whole.
+
+Additionally, the Developers, as the entire Scrum Team, self-manage.
+
+They collaborate to solve team problems focusing on team goals and they
+
+define who does what, when and how.
+
+No one tells them how to do their work.
+
+Furthermore, to promote self-management, it is necessary
+
+to have an alignment between the Developers and the business people.
+
+The Product Owner has a pivotal role here by being an effective member
+
+of the Scrum Team and working closely with the Developers..
+
+However, having alignment with the Product Owner is not enough, the
+
+Developers must also have autonomy in deciding on what to work on.
+
+For this purpose, during Sprint Planning, through discussions with the Product
+
+Owner, the Developers select the Product Backlog items for the Sprint.
+
+In other words, the Product Owner does not tell the Developers what to do.
+
+There is no command and control in Scrum.
+
+So, here in this cartoon, this is what we want.
+
+The PO frames a business problem.
+
+"We need to cross the river."
+
+The Developers figure out how to do it.
+
+Solving problems, making decisions.
+
+This is what motivates knowledge workers: the Developers.
+
+If you take it from them, performance goes down.
+
+Creativity is hindered.
+
+You don't want that on complex products.
+
+It's a no-no.
+
+At this point, we have discussed that the Developers are
+
+cross-functional and self-managed.
+
+Given this, do you think that the Developers should be
+
+generalists or specialists?
+
+Now is the time that you should pause the video and think about it for a little bit.
+
+Let us start answering this question by analyzing the
+
+scenario of having specialists.
+
+One of the main reasons for the lack of cohesion on the Scrum
+
+Team is the lack of redundancy.
+
+In other words, lack of having multiple team members with similar skills.
+
+Why is it important?
+
+Because you want the team members to give each other feedback,
+
+assist others in tasks, or complete tasks started by others.
+
+If each person only works on part of the problem, you won't really have
+
+a team, but just a group of people.
+
+Therefore, you can't really have a team composed only of specialists.
+
+What about generalists?
+
+Well, they know a little about a lot of stuff.
+
+It would be okay if we were working with simple stuff, but for
+
+complex products is not enough.
+
+So what to do?
+
+You need a mix of both.
+
+You need people that are specialized in whatever skills or technology
+
+you need for the product.
+
+But at least some of them must be open to moving around the system
+
+or problem at hand more freely, giving the team the flexibility
+
+it needs to promote good teamwork.
+
+For instance, I once worked on a project in which we had
+
+two major fields of knowledge.
+
+We had web development and Android.
+
+So the team was composed of eight guys.
+
+One of them is one of the best Android Developers out there, and our
+
+project was really, really complex.
+
+So, what happened?
+
+This guy only worked with Android stuff.
+
+We also had two guys who were our experts in web development.
+
+So they only worked with web development, but the other
+
+five guys worked on both ends.
+
+Thus of course, we didn't have full redundancy, but the team had enough
+
+flexibility to make collaboration work, and this project, even though it was in
+
+a very complex domain, was successful.
+
+Notice that this is not a rule.
+
+The Scrum Guide does not give any recommendations or rules on
+
+how to select your Developers.
+
+I am just giving you an example here to help you understand the concepts better.
+
+The best solution is very context-sensitive.
+
+Great!
+
+We are done with the Developers.
+
+In the following lecture, you will learn more about the Scrum Master.
+
+See you there.
+
+59.
+Now, let's talk about the Scrum Master.
+
+The Scrum Master wears two hats, serving the organization and Scrum Teams.
+
+She helps those outside the Scrum Team interact positively with the team.
+
+She's accountable for the Scrum Team's effectiveness and serves it to improve
+
+its practices within the Scrum framework.
+
+For instance, she assists the PO on how to manage the Product
+
+Backlog to maximize value.
+
+Further, she also coaches the Scrum Team on how to self-manage and
+
+deliver done and valuable Increments.
+
+Therefore, we can conclude that the Scrum Master is accountable for establishing
+
+Scrum, as defined in the Scrum Guide.
+
+She does this by helping everyone understand Scrum theory,
+
+practices, rules, and values.
+
+She also causes the removal of impediments.
+
+An impediment is anything that might hinder the team's productivity.
+
+Many teams register them in an impediment list.
+
+Here we have some common examples of impediments.
+
+Let me share a real story with you.
+
+I used to work as a Scrum Master for a team that worked with a smartwatch
+
+for a very famous brand; we were trying to collect data using the smartwatch
+
+sensors to process them later.
+
+For this purpose, the Developers from my team followed the provided
+
+Developer manuals, but it didn't work.
+
+So they came to me.
+
+After reviewing the document with them and checking what they had done, we concluded
+
+that something weird was happening.
+
+I knew people who worked directly with the smartwatches manufacturer;
+
+given this, we were able to talk with people from the inside.
+
+After that, it came to our knowledge that they had a bug.
+
+However, they showed us a workaround for the problem, which our team implemented.
+
+This story is an example of the Developers asking the Scrum Master for help by
+
+raising any impediment and the Scrum Master doing whatever he can to solve it.
+
+But, Mirko, when are impediments raised?
+
+They can be raised anytime.
+
+But, usually, this is done during the Daily Scrums.
+
+And finally, we have that the Scrum Master is responsible for leading
+
+and facilitating Scrum adoption.
+
+She ensures that Scrum is understood by the entire organization, going
+
+from planning Scrum implementation within the organization as a whole and
+
+facilitating meetings if necessary.
+
+Given this, in summary, the Scrum Master is a true leader who serves the
+
+Scrum Team and the larger organization.
+
+https://medium.com/@mirkoperkusich/who-is-responsible-for-quality-in-the-scrum-team-78b0070cc2dd
+
+60.
+
+To demonstrate how Scrum works, detailing, how each event should be held, how
+
+each artifact is constructed and sustained, we will use a case study.
+
+And, I'm not talking about a toy example, but an actual product.
+
+For the case study, we will simulate developing a Web app,
+
+which we will cover in a little bit.
+
+Still, I invite you to go further and try to follow my lead by a applying
+
+Scrum to a project of your own, be it creating a new marketing strategy
+
+for your company, a personal branding strategy on LinkedIn or other social
+
+networks, constructing an online course, such as this one, or whatever problem
+
+or opportunity you're facing right now.
+
+The case study we will cover is perfect for understanding how Scrum
+
+works, but your learning experience will be more valuable if you
+
+follow my steps, understand what I'm doing, and try to apply it to
+
+your life; right here, right now.
+
+If you just want to follow the case study, that's totally fine too.
+
+It will be enough for you to master how Scrum works.
+
+If you get stuck somehow or need help, you can count on me.
+
+Just leave a question on the courseâ€™s Q&A board.
+
+In the following lecture, I will present an overview of the case study.
+
+See you there.
+
+61.
+Our case study will be about , Konyu, a service to buy
+
+products in Japanese stores.
+
+Let's start by taking a look at its main features.
+
+Just so you are familiarized with the system.
+
+Here we have some content.
+
+So we need to develop content management system features.
+
+Here we can change the language and currency.
+
+And over here we have a search box.
+
+Let's make a search for, for instance, Nintendo.
+
+Okay.
+
+So here we have a list of products.
+
+Let's order them by the ones with most bids, since we are
+
+talking about auctions here.
+
+Now it's ordered.
+
+Notice that the items shown here are actually items from Yahoo Auction Japan.
+
+Konyu is just a proxy.
+
+Now let's find a product to bid, just to demonstrate how it works.
+
+I'm not actually going to bid.
+
+Let's take this one.
+
+It already has 122 bids.
+
+So here we have the images for the product, current price
+
+number of bids, time remaining.
+
+The most important feature here is the bid now, so we can click on bid
+
+now, but now notice that you can't bid because you're not authenticated.
+
+So you need to sign up or log into the system.
+
+I'm going to log in here really fast.
+
+Just so we take a look at the user's homepage.
+
+Okay.
+
+So what do we get here?
+
+First, over here, we have the amount of money that I have on my wallet.
+
+So to buy products in Konyu, you need to add money to your wallet and
+
+then that money will be available for you to bid on Yahoo products.
+
+An extra feature that we have here is the add to watch list.
+
+So if I click here, the product is added to my watch list.
+
+What does it mean?
+
+It means that o nce this auction is near to its end, I'm going to
+
+receive an email just to remind me.
+
+Now, let's take a look at my homepage.
+
+Over here, we can see the auctions that are running, which means if I bid in
+
+a product, I can see it status here.
+
+If I'm winning or losing here, we have the watch list.
+
+I've just added this item to my watch list.
+
+And down here, we have the auctions that I've won.
+
+After I win in auction, the product will take a few days and will be available
+
+for me to order a shipment to my country.
+
+So I can go over here and order a shipment.
+
+And over here I can select the available products, select the shipping
+
+service and send it to my place.
+
+So there are other features, but this is enough.
+
+Now you have a great overview of Konyu and we are ready to roll.
+
+62.
+Let's start talking about the Product Goal.
+
+The Product Goal describes a future state of the product, which can serve as a
+
+target for the Scrum Team to plan against.
+
+Now, the question is: what fulfills the Product Goal?
+
+What do we need to do to get there?
+
+And the answer is the rest of the Product Backlog.
+
+Having a Product Goal is key for giving the Scrum Team a concrete
+
+strategy on what it needs to build to deliver a valuable, useful product.
+
+But, what is a product?
+
+According to the Scrum Guide, a product is a vehicle to deliver value.
+
+It has a clear boundary, known stakeholders, and
+
+well-defined users or customers.
+
+A product could be a service, a physical product, or something more abstract.
+
+Thus, the product itself cannot be the goal.
+
+It is just a means to achieve a higher level objective, which might be to
+
+increase profit, acquire users, explore a new technology or marketplace,
+
+have a specific social impact,
+
+and so on.
+
+Therefore, the Product Goal is the long-term objective for the Scrum
+
+Team, and the Scrum Team might need multiple Sprints to fulfill it.
+
+Who is accountable for it?
+
+The Product Owner, of course.
+
+He or she is responsible for developing and explicitly
+
+communicating the Product Goal.
+
+Now, for you to have a better grasp of the Product Goal, in the
+
+next lecture, let's discuss the Product Goal from a more practical
+
+perspective by defining one for Konyu.
+
+See you there.
+
+63.
+Welcome!
+
+And.
+
+Now let's define the product goal for our case study.
+
+Before talking about the product goal itself, let's recap what the
+
+Scrum Guide says about a product.
+
+A product is a vehicle to deliver value.
+
+Therefore, the Scrum Team must be aware that the product itself is not important.
+
+What matters is its benefits.
+
+What matters is having happy customers or users, having people happy and willing to
+
+use and even pay for the product, if the intention is to profit directly from it.
+
+The product has a clear boundary, known stakeholders, and
+
+well-defined users or customers.
+
+Such information is usually part of a product vision.
+
+As discussed in the last lecture, having a product vision is not
+
+a Scrum rule and the scrum Guide doesn't even mention it anymore.
+
+However, I will show you a quick example here for Konyu, because I think that
+
+it will be helpful for you to better understand what is a product goal.
+
+What we see here is a product vision defined for Konyu using the product vision
+
+board made available by Roman Pichler.
+
+As you can see, it has five sections.
+
+In the first one, we have the vision statement, which describes
+
+the product's purpose and impact.
+
+For Konyu is: "enable customers worldwide to buy in Japan with ease and low-cost".
+
+The target group characterizes the market and lists the target customers and users.
+
+For Konyu, we have four customers.
+
+Collectors and store owners and for the internal users, customer support operator
+
+and marketing in the third section needs, we have the problems that the product
+
+addresses, the target customers pains for . We have that the current services
+
+to buy in Japan are complex expensive or of low quality and a collector
+
+loses a lot of time mining for items.
+
+This is mostly targeting collectors, that purchases items on Japan's auctions.
+
+Now the product section lists information about envision product
+
+itself for quantity we have, well, we need a web app, a mobile app.
+
+It should be easy and safe.
+
+Real-time bidding, manage store orders, schedule bid, recommend auctions.
+
+These are the most important features that this product should have.
+
+And last but not least we have the business goals, which lists the
+
+benefits for the organization itself .For Konyu, one goal is to reduce
+
+the cost, to sell Japanese products.
+
+Further, since that company was previously an e-commerce store that targeted mostly
+
+Brazilian customers, it envisions Konyu as an opportunity to expand from selling
+
+only to Brazil to sell worldwide, using a business similar to drop shipping.
+
+As you might have noticed, it seemed like a lot of stuff to be done.
+
+So the product vision, in this case, it's kind of like a moonshot.
+
+It can be too much to only have the product vision as the target, not
+
+helping the scrum team to stay focused.
+
+However, before moving on, let's see what the scrum guide
+
+says about the Product Goal.
+
+It says that the product goal describes the future state of the product,
+
+which can serve as a target for the scrum team to plan against this.
+
+The Scrum Guide does not really define many restrictions of what
+
+makes a useful, a good product goal.
+
+According to it.
+
+This could be the product goal.
+
+And depending on the context, this could be okay.
+
+The scrum guide does not prescribe how you should define a product goal,
+
+because it is very context sensitive.
+
+However, to increase our understanding, let me show you how we could go a step
+
+further and to find a better, more attainable and measurable Product Goal..
+
+First, let me just put here the product vision for Konyu.
+
+It is pretty small, but you don't have to read it.
+
+It's the same information that we had before.
+
+Okay.
+
+So having an initial target is good.
+
+It is our first step.
+
+What now?
+
+Well, where are we at?
+
+Let's assume here that no versions of Konyu have been released yet.
+
+Given this what could be the first strategical product goal to be
+
+pursued before answering this?
+
+What are common for the goals?
+
+How do organizations defined them here?
+
+We have a list of possibilities.
+
+Acquiring customers, retaining customers, increasing engagement, activating users,
+
+generating revenue and reducing cost.
+
+However is , for instance, just saying that the product goal
+
+is acquiring customers enough?
+
+I don't think so.
+
+If you acquire one customer, do you satisfy the product goal or do you need 2?
+
+10?
+
+100?.
+
+Can the customer be from friends and family?
+
+If my mom creates an account, do I meet the product goal?
+
+I think you got my point here.
+
+It is a good practice to add more information to the Product Goal.
+
+For instance, let's try to come up with a target date, the goal to be achieved.
+
+The main features; between three and five is okay.
+
+And the metrics to verify if we have achieved the product goal . For the date,
+
+let's say here six months . For the goal, let's say acquire 20 customers from three
+
+countries, making at least one purchase.
+
+For the features, we have sign up and sign in, product search, auction
+
+bidding, and international shipment.
+
+In this case, the metrics are pretty straightforward because
+
+our goal was very specific.
+
+So we don't even need to fill it up.
+
+With the Product Goal defined, the Scrum Team has now a more realistic, attainable
+
+and concrete goal to pursuit in its role to fulfill the product vision.
+
+Now who comes up with the product goal, the product owner is accountable, but
+
+a good product owner will involve the entire scrum team and key stakeholders
+
+to increase transparency and buy in.
+
+In the next lecture, let's talk about the product backlog, which is what
+
+describes this part of the product goal.
+
+I'll see you there.
+
+64.
+Let us now talk about the Product Backlog.
+
+The Product Backlog is an ordered emergent list of what is needed
+
+to improve the product, including features enhancement, fixes, and so on.
+
+It is ordered because , typically, the Product Owner places, the
+
+most important stuff on its top.
+
+It is emergent because in contrast to traditional, waterfall approaches,
+
+the Product Backlog follows what we call Just-In-Time requirements.
+
+As we have previously discussed, in a traditional approach, we aim
+
+to detail all the work upfront.
+
+In Scrum, we only get just enough items ready for the upcoming sprint.
+
+For example, this is a list of Product Backlog items for Konyu.
+
+Notice that these descriptions are not detailed enough for the
+
+Developers to know what to develop.
+
+Further, some of these items seem too large to be developed in one sprint.
+
+For example, developing a recommender system in one month
+
+does not seem to be feasible.
+
+Thus, we can conclude that none of these items are ready.
+
+We usually call these short descriptions of work to be done Epics and this
+
+is usually what we have on the first version of the Product Backlog: only
+
+short reminders of the work to be done.
+
+Now, take a look at this Product Backlog item.
+
+It is described using a notation called User Story, where we describe
+
+a product capability, such as a feature or requirement in terms of the
+
+expectations of the product's users.
+
+If we are using physical cards to register the Product Backlog items, we would
+
+have the front of the card describing the type of user and her desires.
+
+In this example, the user is a buyer who wants to bid in real-
+
+time on Yahoo Auction Japan.
+
+The back of the card would have the acceptance criteria, which is a list
+
+detailing the expected behavior of the product, giving the Developers enough
+
+information to know what to develop.
+
+Notice that such information can also be registered for the Product Backlog
+
+items using a digital tool, such as JIRA, but going over such tools
+
+is out of our scope in this course.
+
+In Scrum, typically, we want only the top Product Backlog items to be
+
+described with this level of detail.
+
+Why?
+
+Because we expect to learn along the way and don't want to waste time describing
+
+Product Backlog items with high chances of changing or being discarded,
+
+Thus, at this point, you know that the top Product Backlog items
+
+are usually more important and detailed than the bottom ones.
+
+Further, we also want the top Product Backlog items to be
+
+small enough to fit a Sprint.
+
+For example, let's consider this to be our current Product Backlog.
+
+By looking at the top item, “Register and Authentication,” it
+
+seems unfeasible to develop all the features related to it in one Sprint.
+
+Thus, the Scrum Team could break it down into 7 User Stories, as shown here.
+
+After breaking down the Product Backlog item, we would re-order
+
+the Product Backlog, as shown here.
+
+The items marked in orange are the new, smaller items.
+
+Notice that they have different importance since we have a few of
+
+them on the top and a few on the bottom of the Product Backlog.
+
+This shows the importance of breaking down the Product Backlog items to be small
+
+enough to separate the important from the not-so-important aspects of each item.
+
+In general, a healthy Product Backlog looks like this only having a small
+
+part ready for Sprint, meaning that they are detailed enough for
+
+the Developers to know what to do and small enough to fit a Sprint.
+
+We call this act of further prescribing and breaking down Product Backlog
+
+items, the Product Backlog refinement,
+
+Product Backlog refinement can be done at the beginning of Sprint Planning,
+
+the end of Sprint Review, or any time during the Sprint, typically, in
+
+Product Backlog refinement sessions.
+
+Notice that we could add more details to the Product Backlog items,
+
+including estimates and business value.
+
+Discussing this is out of the scope of this course, but I have
+
+added articles about these topics as a resource in this lecture.
+
+If you have questions, please let me know.
+
+In this lecture, you had an overview of what is a product
+
+backlog and how it is managed.
+
+In other words, you learned about the input, the single
+
+source of work of the Scrum Team.
+
+In the following lecture, we will discuss the Increments, which are
+
+the outputs of the Scrum Team.
+
+See you there!
+
+65.
+Let's now talk about the next Scrum artifact, the Increment.
+
+You already know that the Increment is the outcome of a Sprint.
+
+But, what is an Increment?
+
+An Increment is a vertical delivery.
+
+"But, wait, Mirko, what do you mean by a vertical delivery?"
+
+It is better to use images than words to answer this question.
+
+For this purpose, let’s use the famous Mona Lisa painting by Leonardo da
+
+Vinci as an example of a product.
+
+First, let's visualize what a horizontal delivery strategy would look like,
+
+resulting from an iterative workflow.
+
+As you can see, we only start to see colors in the second
+
+version of the painting.
+
+On the other hand, with an incremental workflow, we would
+
+have something like this.
+
+As you can see, an Increment is a vertical delivery, having all
+
+the layers of part of the Product.
+
+Here, in the first version of the painting, we had
+
+part of it completely done.
+
+To compare both delivery methods, iterative and incremental, take
+
+a look at their first step.
+
+For the iterative method, we know that we will have a woman, but
+
+there are no details regarding her skin color, eye color, and so on.
+
+For the incremental method, we have part of the painting good to go,
+
+with all the details and colors.
+
+Scrum is both iterative and incremental.
+
+Thus, it is something like this.
+
+Starting here, you can see that we have vertical deliverables, but we also defined
+
+the main foundations of our vision.
+
+In the software world, we can use this analogy to mean that we
+
+would have, early in the product development stages, a vision of the
+
+product’s architecture and features.
+
+In Scrum, each Sprint must, ideally, have usable features ready to be released.
+
+Additionally, the system's architecture should be somewhat
+
+ready to handle new features enabling us to fulfill the product vision.
+
+For other areas, such as architecture, engineering, product design, and so on
+
+the Increment might be models representing how the actual product is going to look.
+
+Nowadays, there are several cool technologies that can make Increments even
+
+better for getting customer feedback, such as printing 3d models for a new shoe, or
+
+you can use virtual reality or augmented reality for interior design projects.
+
+If you're working with a product that involves developing hardware, such as
+
+robotics, it might be unfeasible to produce the hardware parts every Sprint.
+
+For example, you can't produce a part of an autonomous vehicle, every Sprint.
+
+However, you can develop prototypes based on tools such as
+
+Arduino or Raspberry Pi boards.
+
+The important thing is that the Increment needs to give users and stakeholders an
+
+authentic experience of using the product.
+
+Why?
+
+Because the Increment is the compass of any Scrum initiative.
+
+It is what guides the entire effort.
+
+If the stakeholders don't have something concrete to use and evaluate, they
+
+won't be able to give quality feedback to the Scrum Team and all the other
+
+aspect of Scrum become useless.
+
+It would be like the Scrum Team getting blind.
+
+Never forget this.
+
+When working with complex problems, asking users what
+
+they want is usually not enough.
+
+They only know what they want when they see it and use it!
+
+In the following lecture, let's complement our discussion about the Increment
+
+by going over the Definition of Done.
+
+See you there.
+
+66.
+The Definition of Done is defined by the Scrum Team and is a set
+
+of criteria that increases the alignment and shared understanding
+
+of the expected deliverables.
+
+It explains to everyone involved what Done means by describing the state
+
+of the Increment when it meets the quality measures for the product.
+
+For instance, let's consider the case of organizing your closet.
+
+For some people, this closet is well organized.
+
+So, if the outcome of the task "organize the closet" is this,
+
+they would consider it to be done.
+
+For others, a well organized closet is like this, where you would have
+
+nothing on the floor, the types of clothing and shoes organized by type
+
+and color, and everything symmetric.
+
+For them, this is not done; while this is done.
+
+In Scrum, the Definition of Done can be seen as a gate.
+
+Whenever it is fulfilled, the work is done.
+
+Otherwise, it is not done.
+
+It is composed of criteria, which might include quality assurance tasks, such
+
+as having someone else review the work done by another person or quality metrics
+
+thresholds that must be fulfilled.
+
+It might also include aspects related to architecture and nonfunctional
+
+requirements, process management, configuration management, and so on.
+
+For instance, suppose that you are an architect and have the given task:
+
+“Design the 2D layout of a house”.
+
+For example, if I am your client and email you asking, "Hey, are
+
+you done with the house design?",
+
+And you say, yes, I'm going to think you have a PDF file ready for me.
+
+Conversely, you might think that an AutoCAD file is enough for
+
+the task to be considered done.
+
+Do you see, in this example, there is no shared understanding
+
+regarding the deliverable.
+
+In this example, you need to consider some questions for defining the Done criteria.
+
+Is it done if you design the house on AutoCAD and save
+
+it locally on your computer?
+
+Or do you need to share it on a specific folder on Dropbox, for instance?
+
+Can you name the file the way you want, or do you need to follow a pattern?
+
+Do you need to export the file into a specific file type?
+
+Can you send the AutoCAD file to your client or do you need to send the PDF?
+
+This set of criteria is simple but very important to give you factual information
+
+about your client's expectations
+
+In Scrum, depending on your context, you may define a done criteria for each
+
+important milestone that you might have.
+
+You could describe when technical tasks, Product Backlog items,
+
+releases, or projects are done.
+
+It all depends on your context.
+
+For instance, sometimes working with government agencies require
+
+you to have lots of documents, characterizing a deliverable as done
+
+. In this case, producing and updating such documents must be part of
+
+the team's Definition of Done.
+
+Let's see what I have defined for Konyu.
+
+I'm not going to get into details here, but as you can see, I have different
+
+types of criteria, including quality, process and configuration management.
+
+Further.
+
+I have added targets for the quality aspects, such as having
+
+zero critical or major defects open.
+
+The most important takeaway from this lecture is that the
+
+Definition of Done is the only Scrum practice focusing on quality.
+
+Unfortunately, many people neglect the Definition of Done and get
+
+to the Flaccid Scrum problem when a team starts with a very high
+
+velocity, but loses it with time.
+
+Why is the team losing velocity?
+
+Because probably they're producing a low-quality product and when you start
+
+working with low-quality stuff, the team will lose velocity at some point.
+
+So, my word of caution here is: Don't neglect the Definition of Done.
+
+As previously discussed, the Increment is what guides the Scrum Team in achieving
+
+and adjusting the Product Vision because it enables feedback to be gathered.
+
+The Definition of Done assures that the feedback received is based on something
+
+concrete and gives the necessary balance for the team to stay productive over time.
+
+Before moving on, let me address a point many people get confused about
+
+Please, don't mix the concepts of the Definition of Done and a
+
+User Story’s Acceptance Criteria.
+
+The Acceptance Criteria are specific to a single User Story.
+
+Conversely, the Definition of Done englobes all of them.
+
+For instance, for a web app, one Definition of Done criteria
+
+could be that the pages must load in less than one second, given
+
+a decent internet connection.
+
+All increments must satisfy this criterion, independent of the
+
+Product Backlog items involved.
+
+Now, we are done talking about the Definition of Done.
+
+In future lectures, we're gonna go over what happens during the Sprints,
+
+starting with the Sprint Planning event.
+
+Let's keep moving.
+
+67.
+Now, let's talk about Sprint Planning.
+
+This event initiates the Sprint by laying out the work to
+
+be performed for the Sprint.
+
+For the Product Owner, planning efforts start before Sprint Planning.
+
+He or she must enter the event having analyzed what needs to be done next and
+
+what should be the purpose of the Sprint.
+
+In other words, the Product Owner must have a set of Product Backlog items
+
+and their mapping to the Product Goal.
+
+The Product Owner might analyze questions such as which ideas and
+
+assumptions need to be validated, which risks need to be addressed,
+
+or, for instance, which functionality needs to be provided or enhanced.
+
+In Scrum, the Sprint is like a mini project,
+
+and the Sprint Planning event is when the Scrum Team defines the
+
+goal of what to build and the flexible plan to guide achieving it.
+
+The plan is called the Sprint Backlog.
+
+Now, let's talk about Sprint Planning itself.
+
+First, who participates in Sprint Planning?
+
+The Scrum Team.
+
+Further, the Scrum Team may invite others to attend to provide advice.
+
+For instance, the candidate Product Backlog items might require working with
+
+a new technology that the Scrum Team does not have enough experience with.
+
+Therefore, it might be a good idea for the Scrum Team to
+
+invite a specialist to assist it.
+
+Another example would be working with a specific domain, such as
+
+developing a health web application.
+
+In this case, there are international standards that have a direct impact
+
+on the app's requirements, and it is vital to be aware of them for
+
+being able to release the app.
+
+Thus, if the Scrum Team isn't familiar with such standards, it might be a good
+
+idea to invite a specialist to help it.
+
+Further, how do we execute the Sprint Planning?
+
+The event has three topics to be addressed
+
+First, why is this Sprint valuable?
+
+Second, what can be Done in this Sprint?
+
+And third, how will the chosen work get done?
+
+The event is timeboxed to at most 8 hours for a one-month Sprint.
+
+For shorter Sprints, the event is usually shorter.
+
+Let's start talking about the first topic.
+
+It begins with the Product Owner discussing the opportunities
+
+for increasing the product's value and utility and how the
+
+current Sprint can address them.
+
+As a consequence, the whole Scrum Team defines a Sprint Goal, which
+
+communicates why the Sprint is valuable, bringing transparency.
+
+As an example, for our case study, let's assume that the Scrum Team
+
+came up with this Sprint Goal:
+
+“Users easily access the system using a valid e-mail.”
+
+After the Sprint Goal is created, it is time to define what can
+
+be Done during the Sprint.
+
+For this purpose, the Developers select items from the Product Backlog through
+
+discussion with the Product Owner.
+
+Notice that it might be necessary to refine these items during the event.
+
+To define how much can be completed within the Sprint, the
+
+Developers might use information, such as the upcoming capacity.
+
+The upcoming capacity is about how many hours available the
+
+Developers have for this Sprint.
+
+For instance, will anybody be out of the office during the Sprint?
+
+This situation might be the case if anybody has a planned vacation.
+
+Further, the Developers could also consider their past
+
+performance as a reference.
+
+It is not the case for our case study because we are simulalting the first
+
+Sprint, we are assuming to have a new team, which means we don't have
+
+data to be used as a reference.
+
+Another factor that the Developers should consider for defining what can
+
+be Done in the Sprint is the Definition of Done because the more stringent it
+
+is, the longer it might take to get Done with each Product Backlog item.
+
+After considering all these aspects, the Developers select the candidate
+
+Product Backlog items for the Sprint.
+
+Given this, let's assume that, for our case study, the Developers selected
+
+these three Product Backlog items.
+
+At this point, we have covered the first two topics of Sprint Planning.
+
+Let's continue discussing it in the following lecture!
+
+See you there.
+
+68.
+Now, let's talk about the third topic of Sprint Planning.
+
+The goal now is to come up with the Sprint Backlog, which consists of
+
+the Sprint Goal, the Product Backlog items selected for the Sprint,
+
+and the plan for delivering them.
+
+Notice that, at this point, the Sprint Goal and a set of candidate Product
+
+Backlog items have been defined.
+
+Thus, we still need to create the plan.
+
+And notice that the Developers have the final word regarding this step since no
+
+one can tell them how to turn Product Backlog items into Increments of value.
+
+Scrum does not prescribe how the Developers should do this, but we
+
+will see an example here to understand better how this is done in practice.
+
+Most Scrum Teams decompose the Product Backlog items into technical tasks,
+
+which are smaller chunks of work, often to units of one day or less.
+
+The goal here is not to define all the tasks, but to give the Developers a
+
+better forecast of the work they can do.
+
+Let's see an example of how the Developers could decompose the Product Backlog items.
+
+For instance, if you're working on a software product, which is what we
+
+are simulating in our case study, the Developers can start by designing a
+
+sketch of the solution, which includes the user interfaces, integration with
+
+other systems, and so on, so that they have an overview of what needs to be done.
+
+This activity should take around 15 and 20 minutes.
+
+After everybody has a big picture, they can sit, each team member with
+
+a stack of small index cards they will use to write technical tasks.
+
+And then for each Product Backlog item, in our case here, we have
+
+three, each person secretly will write tasks, one for each index card.
+
+They will do that for five minutes.
+
+After the five minutes, they will share their tasks and discuss each one to try
+
+to come up with the final set of tasks.
+
+A good practice is to get the sketch you have done previously and try to
+
+map the tasks you have planned with each part of the system integration
+
+or user interface you have to develop.
+
+But this is just an extra validation step to check your tasks'
+
+completeness and is not mandatory.
+
+The goal is to reach a consensus regarding the tasks for each Product Backlog item.
+
+As an example, let's simulate following this procedure for our case study.
+
+The first Product Backlog item is about the user signing up
+
+or registering on the system.
+
+Let’s assume that the Developers came up with these tasks.
+
+There are no rules here regarding how to write down the tasks.
+
+There are only two essential points.
+
+First, the Developers must be able to remember what the task
+
+is about during the Sprint.
+
+In other words, each task needs to have enough details for reminding the
+
+Developers what they were thinking about during Sprint Planning.
+
+And the second point is that the Developers don't need to predict all
+
+the tasks to be done during the Sprint.
+
+They should focus more on the first few days of the Sprint.
+
+Of course, the most they can predict, the better if they can do it fast.
+
+However, it is totally normal; it is expected to have new technical
+
+tasks coming up during the Sprint.
+
+The main goal here is for the team to have more informed
+
+decision-making to plan the Sprint.
+
+Let's keep going.
+
+For the second Product Backlog item, which is about logging in
+
+the system, we had these tasks and for the third one, these tasks.
+
+After decomposing the Product Backlog items, what do we do?
+
+Well, it's time to wrap up the event.
+
+After thinking more about the Product Backlog items and having more information
+
+about the work to be done, the Developers might negotiate the selected items
+
+for the Sprint with the Product owner.
+
+As a result, they can end up selecting more Product Backlog
+
+items, fewer Product Backlog items, or keep it as previously planned,
+
+always focusing on the Sprint Goal.
+
+For our case study, we're just going to keep the three Product Backlog
+
+items we have selected previously.
+
+And as a result, we have the Sprint Backlog.
+
+Great job!
+
+You have just developed your first Sprint Backlog.
+
+From now on, whenever the Sprint Planning is over, only the Developers can change
+
+the Sprint Backlog, and the Sprint Backlog is their only source of work.
+
+This rule is fundamental for maintaining the Developers’ autonomy.
+
+Let's keep moving.
+
+69.
+The Development Work is the work performed by the Developers to develop
+
+the Increment during the Sprints.
+
+Now, what exactly do the Developers do during the Sprint?
+
+Since the team is cross-functional, they must be able to do all the work
+
+necessary to deliver Increments.
+
+Depending on your domain, if it's social media, marketing, software development,
+
+hardware development, architecture, engineering, course creation, you
+
+will have different types of tasks.
+
+In the software world, we go from requirement definition to system testing.
+
+So, of course, if you're not from the software world, you don't have
+
+to worry about each of these boxes because you'll have different
+
+boxes depending on your domain.
+
+But the point is that in Scrum, during a Sprint, we want to do all this work.
+
+Usually, the Sprint work is made visible using Scrum Boards.
+
+The Scrum board is a fundamental tool to enable collaboration, communication,
+
+and transparency, important factors to enable self-management.
+
+A good Scrum board is divided into what we call swim lanes.
+
+Swim lanes separate information from different Product Backlog items.
+
+For example, this swimlane that I have highlighted only has the work related
+
+to the first Product Backlog item.
+
+The first column holds the Product Backlog items, and the remaining
+
+ones represented team's workflow.
+
+The most simple version of the board divides work into three steps: To
+
+Do, holding the tasks not started;
+
+WIP, which stands for work in progress and holds the tasks started, but not finished,
+
+and Done, for the work that is done.
+
+You could have more steps here, but this decision is up to the Developers.
+
+You could represent the Scrum board physically, on your
+
+wall, or use a software tool.
+
+And this is all you need to know about the Development Work.
+
+Great.
+
+Let's move to the next Scrum event: The Daily Scrum, the
+
+topic of the next lecture.
+
+https://medium.com/@mirkoperkusich/scrum-myth-the-sprint-scope-is-fixed-a3ce4b262eaa
+
+See you there.
+
+70.
+Now, let's talk about the Daily Scrum, which, as the name suggests,
+
+is a meeting that occurs daily.
+
+During this meeting, which is timeboxed to 15 minutes, the Developers
+
+get together to talk about their progress toward the Sprint Goal and
+
+to adapt the Sprint Backlog as needed.
+
+It is held every working day at the same time and place.
+
+Why, Mirko?
+
+To reduce complexity.
+
+So, what do we talk about?
+
+Well, most teams have each member to answer three questions.
+
+First, what did I do yesterday that helped the team to meet the Sprint Goal?
+
+Second, what will I do today to help the team meet the Sprint Goal?
+
+And third, do I see any impediments that prevents me or the team
+
+from meeting the Sprint Goal?
+
+Notice that using this three questions to drive the meeting is just an example.
+
+The Developers set how to conduct the meeting.
+
+The important thing is that the meeting focuses on assessing the team's progress
+
+toward the Sprint Goal and produces an actionable plan for the next day of work.
+
+Notice that the Daily Scrum is not a technical problem-solving meeting.
+
+If someone is having a hard time with a task, she should make the
+
+other Developers aware during the meeting and maybe ask for help.
+
+However, it is not that time to discuss the solution to the problem.
+
+Often the Developers meet throughout the day for detailed discussions or to
+
+adapt the rest of the Sprint's work.
+
+Just for you to have a feel about how a Daily Scrum would go, let's
+
+simulate one here really quickly with the assistance of a Scrum board.
+
+For this purpose, let's assume that we have a Scrum Team composed of three
+
+Developers, Michael, John, and Alicia.
+
+And that this is the first Daily Scrum of the Sprint.
+
+Let's also assume that the Developers decided to always run the meeting
+
+using an alphabetical order and the three popular questions that I have
+
+presented earlier in this course.
+
+Since this is the first Daily Scrum of the Sprint, we will assume
+
+that there are no impediments.
+
+Alicia could start by choosing to work on these tasks.
+
+That's why we moved them to the work in progress column and marked it with an
+
+A, her name's initial, just so everybody knows that she's working on these tasks.
+
+John chooses to work on these ones and Michael, on these ones.
+
+Notice that, after the Daily Scrum, they might make a quick
+
+meeting to discuss technical stuff.
+
+Now on the next day, same time and place, they will come together
+
+to run the Daily Scrum again.
+
+Let's assume here that Alicia got done with her tasks.
+
+And chooses to work on this one today.
+
+On the other hand, John got done with this one, but not with this other one,
+
+because he had a technical problem.
+
+Then Michael volunteered to help him right after the meeting.
+
+And what about Michael?
+
+He got done with all his tasks and pulled these other ones.
+
+And this is it.
+
+Great job.
+
+https://medium.com/@mirkoperkusich/a-complete-guide-for-conducting-effective-daily-scrums-a481c853eed0
+
+71..
+We are almost getting done!
+
+There are only two more events for you to master: Sprint
+
+Review and Sprint Retrospective.
+
+Now, let's talk about the Sprint Review!
+
+As we have previously discussed, the Sprint Review is held
+
+at the end of each Sprint.
+
+Its goal is to inspect the Increment or any other outcome of the Sprint and, if
+
+needed, adapt the Product Backlog or determine any other future adaptations.
+
+Ideally, for this meeting, you will have the presence of users,
+
+customers, and internal stakeholders.
+
+For Konyu, this could be, for instance, the person in charge of operations or
+
+someone responsible for customer support.
+
+And, it would be awesome to have people representing the target customers,
+
+such as a collector or store owner.
+
+If they can't show up, the Product Owner represents their interests, but it is
+
+essential for them to be there because if they inspect the Increment, they can
+
+give the Scrum Team valuable feedback.
+
+With the collected feedback, the Scrum Team can analyze and
+
+update the Product Backlog.
+
+Further, the progress toward the Product Goal is discussed.
+
+As with all the other Scrum events, the Sprint Review is also time-boxed.
+
+For a one-month Sprint, it is time-boxed to 4 hours.
+
+For shorter Sprints, it is usually shorter.
+
+Now that you have an overview of the Sprint Review, letâ€™s learn more about
+
+how to execute one in the next lecture.
+
+See you there.
+
+
+72.
+Now that you have an overview of Scrum's process to inspect and
+
+adapt the Product let's see how to execute the Sprint Review.
+
+Before getting to the event itself, what happens before the Sprint Review starts?
+
+Well, it all begins with the Developers getting ready for the event.
+
+They need to check which Product Backlog items are done, given the
+
+Definition of Done, and prepare them to be presented during the Sprint Review.
+
+For example, for our case study, let’s assume that our Scrum Board is like this,
+
+with all the Product Backlog Items Done.
+
+The Developers must make the features related to these Product Backlog Items
+
+available to demonstrate them to the stakeholders during the Sprint Review.
+
+For the first Product Backlog Item, this means that the Web page containing
+
+the form for the user to create a new account must be available for
+
+the stakeholders to try to use it.
+
+The second one is concerned with the sign-in.
+
+Thus, the Web page related to signing into the system must be Done.
+
+And the third one is related to recovering a password, which means
+
+that the Web page enabling users to recover their password must be done.
+
+Let's assume that the team has verified that everything is working correctly.
+
+Notice that, in our case study, we are assuming that all the
+
+Product Backlog Items are done.
+
+However, sometimes, it is not the case.
+
+Therefore, the question is, should the undone work be presented
+
+during the Sprint Review?
+
+What do you think?
+
+Pause the video for a minute, answer the question, and come back.
+
+The answer is: No, it shouldn't.
+
+Only the Increment is presented during the Sprint Review, and undone work
+
+must not be part of the Increment.
+
+Having said this, we are good to keep moving.
+
+We're ready for the Sprint Review event.
+
+But, before discussing how the Sprint Review should be held, let's
+
+talk about how it shouldn't be.
+
+What is the Sprint Review not?
+
+The Sprint Review is not a demo meeting.
+
+Even though I said that in Sprint Review events, the Developers present
+
+the Increment to stakeholders, it is not a demo meeting.
+
+“What do you mean, Mirko?” you might ask.
+
+I mean that the Sprint Review is not an opportunity for the Developers to
+
+show progress, give a product update, or sell themselves to the stakeholders.
+
+It is not a formal status meeting.
+
+So, if the team is presenting something with slides, screenshots
+
+of the tools, or something similar, there's something wrong.
+
+You won't have a real Increment inspection.
+
+The customers, the stakeholders, will be inspecting screenshots and
+
+images of something that might be representing the product, which
+
+does not lead to quality feedback.
+
+And second, for the Sprint Review to be valuable, you need stakeholders
+
+that understand the market, maybe even users or customers, as we have
+
+previously discussed, to participate.
+
+If they're not, the team will miss the opportunity to
+
+learn more about the product.
+
+So, what's the point of having a Sprint Review if you use slides
+
+or if the customers are not there?
+
+Given this, what is the Sprint Review about?
+
+The Sprint Review is about transparency and collaboration between the
+
+Scrum Team and key stakeholders.
+
+You have transparency by allowing the stakeholders to use the
+
+Increment whenever possible.
+
+So for Konyu, you would give the URL to the customers.
+
+They will get their laptops, phones, or computers, access the URL,
+
+and then try to use the features.
+
+So, for instance, for the signed up feature, they'll access the Web page
+
+made available by the Developers and try to fill the spaces so they
+
+can experience how the feature is being provided in the product.
+
+They must do this for all the new features developed in the Increment.
+
+If you're working with a mobile app, you give them a smartphone
+
+with the latest version of the app.
+
+Even better, if, for instance, you're creating an Android app
+
+and the stakeholders have Android devices, install the app on their
+
+devices and let them try to use it.
+
+They need to experience the real product.
+
+In summary, we have that the Scrum Team and invited stakeholders participate
+
+in this event, which has as inputs the Increments developed during the Sprint,
+
+the Product Backlog, and market analysis, which is vital to define the next steps.
+
+During the event, the Sprint's outcomes are inspected, progress towards the
+
+Product Goal is discussed, and the Product Backlog might be adjusted.
+
+Thus, the outcome of this event is a direction on what to do next, which
+
+usually means an updated Product Backlog.
+
+And this is it!
+
+You are now ready to answer any questions about this event on your PSM I assessment!
+
+Great job!
+
+In the following lecture, let's test your knowledge with a PSM I Sniper lecture!
+
+See you there!
+
+73.
+[EXTRA] More on Sprint Review & Gathering Users Feedback
+Hey, how is it going?
+
+
+
+Take a look at the following articles to learn more about how to conduct a Sprint Review event and gather feedback from users in Scrum:
+
+
+
+- [Scrum.org] Eight things you should do in your Sprint Review
+
+https://www.scrum.org/resources/blog/eight-things-you-should-do-your-sprint-review
+
+- [The Liberators] 7 Powerful Ways To Get Feedback From Users (In Scrum)
+
+https://medium.com/the-liberators/7-powerful-ways-to-get-feedback-from-users-in-scrum-b683d39143ca
+
+I am also sharing the PDF files of the articles in this lecture, in case you have trouble accessing the provided links.
+
+
+
+If you have any questions, please, let me know.
+
+
+
+Br,
+
+74. 
+
+We have just talked about inspecting and adapting, focusing on the product.
+
+Now, it's time to think about the team, inspecting and adapting the Scrum Team.
+
+The Sprint Retrospective is an opportunity for the Scrum Team to
+
+reflect on their methods and teamwork.
+
+It's about making teams better, continuously improving.
+
+Maybe, your team is having interpersonal issues?
+
+Issues with the quality of the product?
+
+Maybe, the Definition of Done needs to be discussed and adjusted?
+
+Is the team having productivity issues?
+
+Maybe, caused by process issues, such as unproductive Scrum events or the
+
+Sprint length not being appropriate?
+
+These are all example of topics to be discussed during
+
+a Sprint Retrospective event.
+
+As with all Scrum events, the Scrum Master ensures that event
+
+is positive and productive.
+
+The Sprint Retrospective occurs after the Sprint Review, concluding the Sprint.
+
+It is timeboxed to three hours for one-month Sprints.
+
+For shorter Sprints, the event is usually shorter.
+
+In general, the goal is to answer three questions.
+
+What went well during the Sprint?
+
+We want to identify the good stuff and repeat them as much as possible.
+
+What didn't go well?
+
+We want to identify the best stuff too, but just identifying them is not enough.
+
+We need to come up with solutions and improve.
+
+For our case study, let's assume that Konyu's Scrum Team, after inspecting
+
+how the last Sprint went with regards to people, relationship, process,
+
+and tools, came up with these items.
+
+The Scrum Team considered that this stuff went well and these ones didn't.
+
+After discussions, they identified these improvement opportunities.
+
+Finally, the Scrum Team identified the most helpful ones and added
+
+them to the Product Backlog.
+
+You don't need to understand the meaning of each one of these improvements,
+
+but notice that some of them don't require effort from the Scrum Team.
+
+For instance, changing the Daily Scrum to 11h30am, doesnâ€™t require
+
+effort from the Scrum Team.
+
+It is just about, you know, rescheduling, the Daily Scrums.
+
+Conversely, others require effort.
+
+For instance, configuring static code analysis for continuous
+
+integration requires Developers to set up the tools and workflow.
+
+And finally, we are done.
+
+You now know everything you need to know about the Scrum events.
+
+Great job.
+
+75.
+[EXTRA] How to conduct a Sprint Retrospective
+Hey, how is it going?
+
+
+
+Take a look at the following article to learn more about how to conduct a Sprint Retrospective event:
+
+
+
+- [Miro] The guide to retrospectives – remote or in person
+
+https://miro.com/guides/retrospectives/
+
+I am also sharing the PDF file of the article in this lecture, in case you have trouble accessing the provided link.
+
+
+
+If you have any questions, please, let me know.
+
+
+
+Br,
+
+
+
+Mirko
+
+Tài nguyên cho bài giảng này
+
+76.
+Before going into Scrumban, let’s think about the answer to this
+
+question: which one is better?
+
+Scrum or Kanban?
+
+What do you think?
+
+While Scrum is commonly used to develop products, Kanban is widely applied
+
+to production lines, maintenance management, and other continuous flows.
+
+Given this, which one is the best: Scrum or Kanban?
+
+Asking this is the same thing as asking if it is better to eat
+
+with a fork, knife, or spoon!
+
+It depends on the context and they can be combined!
+
+For example, Scrum.org has a guide explaining how to complement
+
+Scrum with Kanban named “The Kanban Guide for Scrum Teams.”
+
+This guide complements their famous Scrum Guide and is used
+
+as the basis for the Professional Scrum with Kanban certification.
+
+I have attached their Kanban guide as a resource in this lecture.
+
+In case you're interested in getting certified, this course has a bonus
+
+section with instructions, tips, and a practice test for the Professional
+
+Scrum with Kanban assessment.
+
+Now that we have discussed how Scrum and Kanban can be used
+
+together, what is Scrumban?
+
+Scrumban is a hybrid agile development approach that combines
+
+Scrum’s skeleton, with Kanban’s capabilities of optimizing the flow.
+
+In the following lectures, we will see how Scrumban works and
+
+how it uses some of the essential elements of both Kanban and Scrum.
+
+77.
+
+Now, we will discuss Scrumban’s flow for delivering value so that you
+
+have a big picture of how it works.
+
+Before moving on, it is important to notice that Scrumban does not have
+
+an official definition or definitive guides such as Scrum and Kanban.
+
+Thus, what I'm going to present here is a generally accepted definition
+
+of what Scrumban is in the industry.
+
+As you already know, both in Scrum and Kanban, the flow starts
+
+with a list of work to be done, usually, called the backlog.
+
+It is the same in Scrumban.
+
+The difference is that Scrumban has a column named “Ready”,
+
+next to the “Backlog” column.
+
+This column stores work items that originate from the backlog.
+
+And they are the most valuable work at the moment, usually, having more details than
+
+the others about the work requirements.
+
+For example, while in the “Backlog” column, I could have a card only saying
+
+“Auction feature” representing that we need to develop a feature for supporting
+
+auctions on an e-commerce website.
+
+Clearly, the software developers would need much more information about this
+
+whenever they start developing it.
+
+Whenever the card is moved to the “Ready” column, we could add
+
+details to it, as illustrated here.
+
+You don’t need to read or understand the details presented herein.
+
+I just showed you this example to give you a general idea of the
+
+difference between a card sitting on the “Backlog” and “Ready” columns, ok?
+
+Further, there are no prescriptions for the level of detailing required.
+
+It is up to the team to decide.
+
+The only role is that the “Ready” column only has the most important work items.
+
+Now, have you noticed that the “Ready” column has Work in Progress limits?
+
+In this case, the limit is five.
+
+There are three primary reasons for having such limits and
+
+understanding them is essential to better grasp Scrumban’s mindset.
+
+Thus, pay close attention.
+
+The first reason is to avoid wasting time with excessive planning.
+
+In Scrum, we start each Sprint by planning it, which requires the team to select
+
+Product Backlog items to fit the Sprint’s timebox, creating the Sprint Backlog
+
+During the Sprint, the team only works on items from the Sprint Backlog.
+
+In general, Scrum’s Sprint Backlog-based work management requires the team
+
+to estimate the size of the Product Backlog items and, sometimes, break
+
+them down to fit the Sprint.
+
+There are two challenges with this approach.
+
+First, sometimes estimating size is too hard because the requirements
+
+are ambiguous or the team has no idea about development details.
+
+This is usually the case when working with new technologies, for example.
+
+Second, the team might waste time discussing too many Product
+
+Backlog items because not all of them will fit the Sprint Backlog.
+
+Scrumban simplifies this work management strategy by saying that
+
+most effort on estimation is waste.
+
+Thus, it approaches this by adopting Kanban pull-based work management and
+
+limiting the amount of work that the team can focus on, in other words,
+
+limiting the number of cards in the “Ready” column, regardless of their size.
+
+In this example, since we already have five items on the “Ready”
+
+column, the team gives full attention to getting them done, instead of
+
+wasting time planning more items.
+
+The second reason for limiting Work in Progress for “Ready”
+
+items is that it defines the virtual length of an iteration.
+
+In contrast to Scrum, Scrumban doesn’t have timeboxed Sprints
+
+with a predefined length.
+
+In Scrum, if you have a 2-week Sprint, this means that every two weeks the
+
+team stops developing to conduct the Sprint Review, Sprint Retrospective,
+
+and Sprint Planning events.
+
+In other words, there is a fixed cadency for holding such events.
+
+Scrumban doesn’t have timeboxed Sprints or iterations.
+
+However, in general, we would like to have releases or gather feedback from
+
+stakeholders, at most every 2 weeks.
+
+For this purpose, instead of using a 2-weeks timeboxed iteration, we estimate
+
+a Work in Progress limit high enough to keep the team busy for around two weeks.
+
+In this example, I defined the Work in Progress limit as five,
+
+estimating that the team would get done with them in 2 weeks.
+
+The main point here is that we don’t have to select backlog items to get
+
+done in the next two weeks, as we would do with Scrum, we would only
+
+define the Work in Progress limits to guide us on having a two weeks cycle.
+
+In other words, while Scrum is product-oriented,
+
+Scrumban is flow oriented.
+
+It focuses more on flow metrics such as cycle time and throughput.
+
+Notice that if the team misses the estimate and delivers the five items in
+
+13 days or 16 days, it is not an issue.
+
+The team analyzes what happened and tries to optimize the flow for future work.
+
+Further, the team and stakeholders define when to hold the Review and
+
+Retrospective events given their needs.
+
+We will talk more about this later in this course.
+
+What about the Planning events?
+
+Answering this question leads us to the third reason for limiting Work
+
+in Progress in the “Ready” column: support the continuous flow of tasks.
+
+In Scrumban, we don’t hold Planning events with a fixed cadency, as we do in Scrum.
+
+Instead, we have On-demand Planning, only holding them whenever needed.
+
+In practice, we only hold Planning events if a minimum amount
+
+of “Ready” cards is reached.
+
+And, we can define this number based on an expected ideal frequency
+
+for holding Planning events.
+
+For example, here I am assuming that we can get done with 5 items in 2 weeks.
+
+Thus, if we assume that holding Planning events every week is the
+
+ideal frequency, we could define the minimum amount of “Ready” cards as 2.
+
+Thus, in this situation, we would hold a Planning event aiming at pulling
+
+three cards from the “Backlog” column into the “Ready” column.
+
+This is why I say that Scrumban has virtual iterations.
+
+Instead of having timeboxed iterations like Scrum, it is pull-based and
+
+events are only held when needed.
+
+However, as we discussed, we can control the cadency of events by
+
+setting the Work in Progress limits.
+
+We have a big paradigm break with Scrumban and it is OK if you
+
+are still a little bit confused.
+
+Scrumban doesn’t follow Kanban’s continuous flow nor
+
+Scrum’s timeboxed Sprints.
+
+It is a combination of both, Kanban and Scrum in the form of a
+
+pull-based work management approach.
+
+Thus, I recommend that you watch this lecture again to have a better
+
+understanding of Scrumban’s big picture.
+
+Next, move to the following lecture in which we will clarify each of the
+
+key points of Scrumban and I am sure that, by the end of this section, you
+
+will understand Scrumban’s practices.
+
+78.
+Since the last lecture had a lot of new information, let’s make a
+
+quick recap highlighting the four main aspects of Scrumban flow.
+
+The first key aspect relates to iterative development.
+
+In Scrum, we have timeboxed Sprints lasting at most one month.
+
+Periodically, we stop developing to plan the next Sprint.
+
+And during the Sprints, we develop Increments focusing on reaching
+
+the Sprint Goal, which is usually product-driven and might include
+
+developing features or managing risks.
+
+In Kanban, we have a continuous flow of requests and delivery
+
+without using Sprints or iterations.
+
+While in Scrum, the Sprint timebox is a way of giving the team focus, Kanban
+
+does that by limiting Work In Progress.
+
+In Scrumban, we have virtual iterations because they are not timeboxed.
+
+However, Scrumban adds a little bit of structure to Kanban’s
+
+continuous flow because it limits the number of "Ready" items.
+
+Thus, in Scrumban, the iteration period is a goal reflecting the
+
+expected cycle time and throughput.
+
+For example, if we define the “Ready” limit as five aiming to
+
+deliver everything in 15 days, we are forecasting that, on average, we need
+
+three days to get done with an item.
+
+Thus, 15 days is the target period of our virtual iteration.
+
+The second key aspect is the iteration backlog.
+
+In Scrumban, the iteration backlog is represented by the “Ready” column, which
+
+has a limit on how many items it can take.
+
+Similarly, Scrum has the Sprint Backlog.
+
+The main difference is that, in Scrum, the Sprint Backlog is reset
+
+after each Sprint, as a Sprint ends and a new Sprint is planned.
+
+In Scrumban, the iteration backlog persists and is only updated as
+
+needed, in other words, whenever the team has space to pull work
+
+from and to the “Ready” column.
+
+Further, since Scrum has timeboxed Sprints, all the Sprint
+
+Backlog items have an implicit deadline: the end of the Sprint.
+
+Scrumban doesn’t focus on the deadlines of the items, but on the flow, in other
+
+words, maintaining adequate average lead time, average cycle time, and throughput.
+
+The third key aspect is about Iteration Planning events.
+
+In contrast to Scrum, where we have Sprint Planning at the beginning of each Sprint,
+
+Scrumban has On-Demand Planning events.
+
+In other words, they don’t automatically happen at the beginning of each
+
+iteration but only when needed.
+
+Scrumban’s Planning event focuses on filling the “Ready” column until it
+
+reaches its Work in Progress limit.
+
+In contrast, with Scrum, we always have to define the Sprint Backlog
+
+starting from scratch, which might require more effort from the team.
+
+The fourth key aspect is consistently having short iterations.
+
+Even though Scrumban’s iterations might last longer than planned
+
+because they are not timeboxed, the objective is to have a frequent
+
+and predictable delivery of value.
+
+As a rule of thumb, you should aim for at most fifteen days
+
+as the iteration’s length.
+
+In summary, Scrumban seeks to reduce the amount of Scrum’s planning
+
+effort by using Kanban’s flow monitoring and control mechanisms.
+
+On the other hand, it complements Kanban by using virtual iterations
+
+to promote feedback loops.
+
+Now that you have the big picture of Scrumban, in the following
+
+lectures, we will go over more details about the main aspects of Scrum and
+
+Kanban used by Scrumban and how they are usually adjusted in practice.
+
+See you in the next lecture!
+
+79.
+Scrumban teams use a Kanban board to manage and visualize their work.
+
+As the name implies, the Kanban board arose from Kanban when
+
+Scrum did not even exist.
+
+Still, Scrum teams usually use a board like this to promote transparency and
+
+collaboration between team members.
+
+However, there are two details here.
+
+First, Scrum Teams usually have a simple board with a few columns,
+
+such as this one, since they don't manage the flow in detail.
+
+As a consequence, we have a black box regarding the status of each
+
+work item whenever they have started because, by looking at the board,
+
+we can't see many details about it.
+
+We only know that the item is in progress.
+
+Second, their boards usually don’t have Work in Progress
+
+limits, a Kanban practice.
+
+For this reason, in situations like this, I say that, technically, this is
+
+not a Kanban Board but a Scrum Board.
+
+In contrast, a Kanban Board has Work In Progress limits and
+
+more columns, reflecting the team’s workflow more precisely.
+
+Scrumban teams use a Kanban Board such as this one.
+
+However, there is still something here.
+
+Stop the video for a few seconds and try to figure out why this
+
+Kanban Board doesn’t reflect one used by Scrumban teams.
+
+The problem with this board is that it is missing the “Ready”
+
+column, which represents the Scrumban team’s iteration backlog.
+
+Thus, compared to Scrum, Scrumban’s boards have Work in Progress limits
+
+and, usually, more columns giving the team the necessary information
+
+to monitor and control the flow.
+
+Compared to Kanban, Scrumban’s boards have the “Ready” column
+
+making the iteration backlog visible.
+
+In the next lecture, let us discuss Work in Progress limits.
+
+See you there!
+
+80.
+Scrumban seeks
+
+a
+
+continuous flow of value, like Kanban.
+
+Thus, it limits Work in Progress to avoid queues throughout the flow.
+
+It is worth mentioning that some Scrum Teams adopt Kanban practices,
+
+such as limiting Work in Progress, but this is not part of the Scrum
+
+framework and is not mandatory.
+
+Conversely, in Scrumban, we must have Work in Progress limits, especially
+
+for the “Ready” column, since such a limit dictates the team’s
+
+feedback loops, in other words, the virtual iterations’ length.
+
+In the next lecture, let us discuss a Scrum practice adopted by most
+
+Scrumban teams: the Daily Scrum.
+
+See you there!
+
+81.
+Now, let us talk about Daily Meetings, called Daily Scrums, in Scrum.
+
+Kanban does not prescribe Daily Meetings, but conducting them is a good practice
+
+because they allow the team to discuss how to maintain a consistent flow.
+
+In Kanban, the meeting takes place around the Kanban board and focuses on
+
+where flow is lacking and what actions the team can take to get it back.
+
+As with Kanban, Scrumban also has flow-based Daily Meetings.
+
+For this purpose, Scrumban teams usually analyze the CFD and flow
+
+metrics such as lead time, cycle time, work item age, and throughput.
+
+As a consequence, while Scrum Teams usually focus a lot on using burndown
+
+charts to forecast the progress of Sprints, Scrumban teams focus on the CFD.
+
+Why?
+
+Because Scrumban teams don’t worry about meeting a Sprint deadline
+
+but about having a consistent flow.
+
+And by having good lead time, cycle time, and throughput, the burndown is
+
+easily predictable and becomes useless.
+
+Notice that Scrumban’s Daily Meetings are very similar to the
+
+ones conducted by Kanban teams whenever they choose to conduct them.
+
+This similarity is expected since both approaches aim to
+
+maintain a consistent flow.
+
+In the following lecture, let us discuss the Review and Retrospective events.
+
+See you there!
+
+82.
+Now, let us talk about the Review and Retrospective events.
+
+As you already know, in Scrum, they are held at the end of each Sprint.
+
+And in Kanban, they are not prescribed, but it is good practice
+
+to adopt them as feedback loops.
+
+Scrumban teams, in contrast with Scrum Teams, are free to conduct
+
+these events only when needed.
+
+However, the goals of the events are the same as in Scrum.
+
+For example, a Review meeting can happen whenever there are enough
+
+deliverables for the stakeholders to inspect and give feedback.
+
+However, there are cases in which the stakeholders prefer having a
+
+fixed cadency for the Review meetings because of their busy schedules.
+
+It is up to the Scrumban team and stakeholders to decide
+
+what works best for them.
+
+With Retrospective meetings the same thing, the Scrumban
+
+team decides when to hold them.
+
+In contrast with Scrum, Scrumban teams don’t need to conduct a Retrospective
+
+meeting after each Review meeting.
+
+They can decide only to conduct this meeting whenever they
+
+have enough topics to discuss.
+
+However, I must say that, typically, conducting them with a fixed
+
+cadency and short cycles of at most one month is a good practice.
+
+Otherwise, the team risks not looking for ways to improve efficiency and
+
+productivity, and bad behaviors and inefficient practices might perpetuate.
+
+For this reason, skipping Retrospective meetings can be very dangerous.
+
+In summary, compared to Scrum, Scrumban’s Review and Retrospective
+
+meetings have the same purpose, but Scrumban teams have more flexibility
+
+regarding when to conduct them.
+
+In the following lecture, let us discuss accountabilities in Scrumban.
+
+See you there!
+
+83.
+As Kanban, Scrumban does not prescribe accountabilities for the team.
+
+In contrast, recall that Scrum has three accountabilities: Product
+
+owner, Scrum Master, and Developers.
+
+Sometimes Scrumban teams adopt Scrum’s accountabilities; sometimes, they don’t.
+
+For example, some Scrumban teams have a single Product Owner
+
+responsible for managing the Backlog.
+
+Other Scrumban teams prefer not to have a single person as a
+
+Product Owner and divide such accountability among multiple people.
+
+In conclusion, it is up to the team to define how to better organize themselves.
+
+84.
+
+w, that you have a better grasp of Scrumban, let’s compare it with Scrum
+
+and Kanban and discuss when to use it.
+
+We are going to compare Scrum, Kanban, and Scrumban using these factors.
+
+First, in terms of team size, a Scrum Team typically has 10 or fewer
+
+members, while this is undefined for Kanban and Scrumban teams.
+
+However, notice that this is not a rule and that you can scale
+
+Scrum by having multiple Scrum Teams working on the same product.
+
+If you want to learn more about this, take a look at Scrum.org’s Nexus Guide.
+
+In terms of accountabilities, Scrum prescribes three, while Kanban
+
+and Scrumban don’t prescribe any.
+
+However, it is common to use or adapt Scrum’s accountabilities in Scrumban.
+
+While Scrum has Sprints lasting one month or less, Kanban follows a continuous
+
+flow, and Scrumban has virtual iterations aiming to last at most 2 weeks.
+
+Scrum Teams start a Sprint by conducting a Sprint Planning event.
+
+Kanban doesn’t prescribe planning events, while Scrumban has on-demand planning.
+
+One of the goals of Scrum’s Sprint Planning is to select items from the
+
+Product Backlog to the Sprint Backlog.
+
+Thus, in general, the selected items must fit the Sprint, while
+
+Kanban and scrum and Scrumban have work items with unlimited size.
+
+Further, we can conclude that Scrum’s work management is Sprint Backlog-based because
+
+the Sprint Backlog is the single source of work for the team during the Sprint.
+
+Conversely, Kanban and Scrumban have a continuous pull-based system.
+
+As an observation, during an iteration, Scrumban teams only pull
+
+work from the “Ready” column, but they are free to update it whenever
+
+they want without bureaucracy.
+
+This discussion leads us to the next aspect: the board.
+
+In Scrum, the board is reset after each Sprint, since each
+
+Sprint starts from scratch.
+
+Conversely, Kanban and Scrumban have persistent boards.
+
+Some people say that limiting Work in Progress is restricted to Kanban
+
+and Scrumban, but this is not true.
+
+They limit it at the column level, but Scrum also limits it.
+
+By having timeboxed Sprints, in Scrum, the work in progress is
+
+automatically limited by the Sprint Backlog, since it is the team’s only
+
+source of work during the Sprint.
+
+However, it is important to mention that Scrum gives the team the flexibility
+
+to change the scope within the Sprint.
+
+Many people point out that one of Scrum’s disadvantages is that any
+
+change in scope mid-sprint must wait for the next one, but this is not true.
+
+You can change the Sprint Backlog, as long as it doesn’t endanger the Sprint Goal.
+
+However, if the change endangers the Sprint Goal, you should, in
+
+general, wait for the next Sprint.
+
+You also have the option to cancel the Sprint, but this should be only
+
+done if the change is really critical.
+
+Notice that you might still see this as a weak point of Scrum in terms of handling
+
+changes, but there are techniques that you can apply to handle super volatile
+
+environments such as every Sprint Planning, reserving part of the team
+
+capacity, say 20%, to handle unplanned work that might come up during the Sprint.
+
+I have used this before and worked like a charm.
+
+Finally, the last aspect is the Events.
+
+Scrum prescribes that these events must be conducted every
+
+Sprint, with no exceptions.
+
+In contrast, Scrumban teams usually conduct these events too,
+
+but on-demand, and Kanban have no prescriptions about events.
+
+However, it is a good practice to conduct these events in Kanban
+
+for promoting feedback loops.
+
+Now, for us to have a big picture about how Scrum, Kanban, and Scrumban
+
+compare in terms of flexibility, let me use a color code for this table.
+
+Here, I used green for the most flexible approach, red for the least
+
+flexible, and yellow if in-between.
+
+For example, in the first line, I marked everything with green because none of
+
+them have rules regarding the team size; Scrum only suggests having a team of 10
+
+or fewer people, but it is not a rule.
+
+In the third and fourth lines, I marked Scrumban with yellow since
+
+it adds a little bit of structure on top of Kanban by having the “Ready”
+
+column with work-in-progress limits.
+
+As you can see, in general, Scrum is the least flexible and Kanban the most.
+
+This result is expected since Scrum is a more complete framework, with more rules.
+
+However, it is important to notice that Scrum and Kanban have different goals.
+
+Scrum focuses on building the right product within a
+
+context of high uncertainty.
+
+This is why it focuses more on product management strategy practices and
+
+has, for example, Product Owner and the Sprints as a way of building part
+
+of the product to gather feedback and adjust the requirements as needed.
+
+On the other hand, Kanban focuses on optimizing the workflow.
+
+As we already know, these ideas complement each other.
+
+Scrumban complements Kanban with some Scrum ideas and practices.
+
+This is why Scrumban is a way of implementing Kanban.
+
+Conversely, Scrumban removes some of Scrum’s mandatory aspects, and
+
+this is why Scrumban is not Scrum.
+
+Scrumban does this as a way to minimize waste, especially in planning activities.
+
+One situation in which Scrumban, instead of Scrum, is used a lot is when
+
+the team has a hard time estimating the effort for completing work items.
+
+This might be the case when the work item is ambiguous or very complex.
+
+An example is developing an innovative machine learning algorithm for
+
+recognizing objects from images.
+
+This task has lots of uncertainty regarding gathering the dataset, cleaning
+
+the data, building the models, defining hypothesis, testing them, and so on.
+
+Thus, it might the case that estimating work items and planning Sprints ends
+
+up being a waste of time because the estimates will be very imprecise
+
+and the team might finish a sequence of Sprints without being able to
+
+get any Product Backlog item done.
+
+In summary, we saw that Scrumban makes Scrum more flexible
+
+while adding structure to Kanban.
+
+However, adopting it requires caution and we will discuss why in the next lecture!
+
+See you there!
+
+85.
+We discussed in the past lecture, Scrumban makes Scrum lighter by removing
+
+some of its aspects, such as the iterations’ timebox, and making the
+
+accountabilities and events more flexible.
+
+However, adopting Scrumban can be dangerous if the organization and
+
+team don’t have enough maturity with Agile, Scrum, Kanban, and Lean.
+
+There is an old Japanese philosophy called Shu-Ha-Ri.
+
+It says that first, you must follow the rules;
+
+Then, after you master them, you can analyze how well the rules
+
+apply to your context, and break them for having a better fit.
+
+Finally, with enough maturity, you create new traditions and ways of doing things.
+
+When you are following Scrum rules, in general, you are in the SHU stage.
+
+Scrumban is HA, which means that is not for rookies.
+
+Unfortunately, I see many people migrating from Scrum to Scrumban without
+
+understanding the why’s behind Scrum.
+
+For example, some teams don’t hold Sprint Retrospective every Sprint
+
+because don’t see the value in doing so.
+
+However, the problem is that usually that they don’t know how to conduct
+
+effective Sprint Retrospective events or the reason for them to exist!
+
+Other organizations prefer to have multiple people fulfilling the
+
+Product Owner accountability, breaking Scrum’s rule and justifying that
+
+having a single person for doing the PO’s job is too complicated.
+
+You shouldn't be removing Scrum’s rules for them being
+
+hard or complicated to follow!
+
+You should only migrate from SHU to HA, from Scrum to Scrumban, if you dominate
+
+Scrum, Kanban, Agile and Lean values, principles, and practices by heart.
+
+Otherwise, moving to Scrumban will be cutting your own throat.
+
+Thus, my final message is to be conscious of where you are.
+
+If you don’t master Scrum, Kanban, Agile, and Lean stick to the basics.
+
+You are still at the SHU level.
+
+Stick with Scrum’s rules.
+
+Whenever you have enough experience and knowledge to consider yourself at
+
+the HA level, consider if moving to Scrumban or making other adaptations
+
+to Scrum makes sense or not.

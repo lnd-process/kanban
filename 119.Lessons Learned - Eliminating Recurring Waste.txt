@@ -1,0 +1,125 @@
+Leading a project is always challenging because you're constantly dealing with
+
+new situations and different things.
+
+You might be deploying something new, constructing a new building,
+
+or developing a different service.
+
+After all, a project generates a unique result.
+
+Leading and managing projects is incredibly dynamic.
+
+Naturally, sometimes we are correct.
+
+And in others, we commit mistakes.
+
+This is normal.
+
+You can't always hit the nail on the head.
+
+However, notice that it's easier to avoid repeating mistakes
+
+when working alone on a project.
+
+You won't repeat a mistake because you learn your lesson.
+
+But a project commonly means dealing with a team.
+
+That means it is harder to avoid the errors being repeated.
+
+You have a team of 10, 20, or even 50...
+
+The more people we have, the higher are the chances of having
+
+mistakes to be made and repeated.
+
+The point is when someone messes up, what can you do as a leader to avoid
+
+it being repeated in the project, by the same person, or by someone else?
+
+What about organization-wise,
+
+where we have multiple projects going on.
+
+How to avoid mistakes being repeated?
+
+The answer is lessons learned.
+
+Lessons learned is a strategy that many mature companies use
+
+to share the knowledge acquired on projects, to continuously
+
+learn, and become more efficient.
+
+Instead, focusing on individual learning is about focusing on learning on the
+
+project and organizational level.
+
+It is about analyzing what happened on a project...
+
+Among other relevant questions, we ask what went well?
+
+what didn't go well?
+
+And what could have been better?
+
+Also, it is about coming up with tips, recommendations,
+
+and good practices to deal with technical or management problems.
+
+To enable organizational learning, each project must produce
+
+a lessons learned document.
+
+Your job as a leader, as the project manager, is to guarantee that you
+
+have useful and high-quality lessons learned registered for your project.
+
+And we do this for every project.
+
+Every lesson produced is then stored in the Lessons Learned Repository.
+
+Future projects can then reuse the knowledge learned on past ones
+
+to mitigate risks, define better strategies and be more efficient.
+
+And, of course, they also produce new lessons, updating
+
+the Lessons Learned Repository.
+
+Consequently, we have a continuous learning cycle, where knowledge
+
+is COLLECTED from past projects.
+
+And then reused by current or future projects.
+
+Notice that this process is based on physical or digital documents.
+
+But we could have a similar process of knowledge-sharing, free of documents.
+
+Instead of having the people from the projects to document what they have
+
+learned, we could establish a culture that promotes knowledge sharing through
+
+meetings, conferences, and presentations.
+
+You could also have a hybrid knowledge-sharing strategy, including
+
+both document-driven and culture-based.
+
+In fact...
+
+in general, I recommend using a hybrid strategy.
+
+Because not all knowledge can be made explicit on documents.
+
+Notice that, independent of how knowledge-sharing is operationalized,
+
+there is one crucial ingredient for it to come to work...
+
+leadership.
+
+In the following lectures, you will learn more about Lessons Learned IN PRACTICE
+
+and about your role as a LEADER to make it happen within your organization!

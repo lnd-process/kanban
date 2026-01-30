@@ -1,0 +1,83 @@
+Now that we have identified the work, our next step is prioritizing it.
+
+In a Kanban board, a work item's priority is reflected by the position of its
+
+card in the first column; the higher the card, the highest its priority.
+
+You might be wondering.
+
+“Based on what should I prioritize each work item, Mirko?
+
+What is the main objective of prioritizing the work to be done?”
+
+The main goal is to maximize value delivery to our customers and users.
+
+In KanbanTool, defining the priority is very simple.
+
+We just need to drag and drop each card in the position that
+
+reflects its respective priority.
+
+For example, Luana’s task could be moved down here, while Rulio’s
+
+task could be moved over here.
+
+Now, let us go back to the point I raised in the past lecture: why did we
+
+put all the tasks in the TO DO column?
+
+We did that because it is frequent to have a person multitasking, being
+
+assigned to multiple open tasks, such as Luana over here with two tasks.
+
+However, in most cases, it is better to work on one task at a time.
+
+Therefore, when prioritizing, we give special attention to cards
+
+where a person is multitasking.
+
+The person should be focusing on only one task: the one with the highest priority.
+
+Over here, we can easily see which of the tasks Luana is
+
+assigned is the most important.
+
+The one with the highest priority is the one that Luana should focus on right now.
+
+Another important point about this step is that we don’t need to prioritize all
+
+the work items but only focus on the short term, such as one week of work.
+
+Why?
+
+Because things change.
+
+Your customer's priority might change.
+
+Thus, can you imagine taking the time to plan work for the next month,
+
+having the perfect plan, but then having to cancel most of the work
+
+because your customer's needs changed?
+
+It would be a waste of time, and remember that one of Kanban's goals
+
+is to avoid waste and avoid wasting time with tasks that are not valuable.
+
+There is no value in planning and specifying tasks that
+
+will not be executed.
+
+Again, focus on the short-term and the most valuable tasks.
+
+Usually, focusing on work for one or two weeks is enough.
+
+Now that we have identified the work and prioritized it,
+
+it is time to map the workflow.
+
+Let us talk about this in the following lecture.
+
+See you there!
+
+

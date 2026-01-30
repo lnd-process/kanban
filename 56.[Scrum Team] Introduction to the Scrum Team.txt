@@ -1,0 +1,49 @@
+The essence of Scrum is a Scrum Team
+
+as we have previously discussed, the Scrum Team is formed by the Product Owner,
+
+the Scrum Master, and the Developers.
+
+Ideally, you would have one person as the Product Owner, another one for
+
+the Scrum Master, plus the Developers.
+
+Typically, the Scrum Team is composed of 10 or fewer people.
+
+But this is not a rule.
+
+You could have one person playing multiple accountabilities, and it logically
+
+follows that no one needs to be full-time.
+
+The Product Owner is the business person and takes care of the Product Backlog.
+
+The Developers are responsible for transforming the ideas reflected in
+
+the Product Backlog into Increments.
+
+And the Scrum Master is there to make Scrum run smoothly.
+
+Collectively, the Scrum Team is responsible for all product-related
+
+activities, from stakeholder collaboration to research and development.
+
+Further, the entire Scrum Team is accountable for creating a valuable,
+
+usable Increment every Sprint.
+
+The Scrum Team is a cohesive unit of professionals focused on one objective at
+
+a time, the Product Goal, which we will talk more about later in this course.
+
+To achieve the necessary efficiency and flexibility, a Scrum Team is
+
+self-managed and cross-functional, meaning that it has the autonomy to
+
+define who does what, when, and how, and that it has all the skills needed to
+
+accomplish the work without depending on others not part of the Scrum Team.
+
+Now, let's talk about each accountability, starting with the Product Owner, which
+
+is the topic of the next lecture.

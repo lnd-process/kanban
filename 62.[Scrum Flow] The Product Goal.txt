@@ -1,0 +1,55 @@
+Let's start talking about the Product Goal.
+
+The Product Goal describes a future state of the product, which can serve as a
+
+target for the Scrum Team to plan against.
+
+Now, the question is: what fulfills the Product Goal?
+
+What do we need to do to get there?
+
+And the answer is the rest of the Product Backlog.
+
+Having a Product Goal is key for giving the Scrum Team a concrete
+
+strategy on what it needs to build to deliver a valuable, useful product.
+
+But, what is a product?
+
+According to the Scrum Guide, a product is a vehicle to deliver value.
+
+It has a clear boundary, known stakeholders, and
+
+well-defined users or customers.
+
+A product could be a service, a physical product, or something more abstract.
+
+Thus, the product itself cannot be the goal.
+
+It is just a means to achieve a higher level objective, which might be to
+
+increase profit, acquire users, explore a new technology or marketplace,
+
+have a specific social impact,
+
+and so on.
+
+Therefore, the Product Goal is the long-term objective for the Scrum
+
+Team, and the Scrum Team might need multiple Sprints to fulfill it.
+
+Who is accountable for it?
+
+The Product Owner, of course.
+
+He or she is responsible for developing and explicitly
+
+communicating the Product Goal.
+
+Now, for you to have a better grasp of the Product Goal, in the
+
+next lecture, let's discuss the Product Goal from a more practical
+
+perspective by defining one for Konyu.
+
+See you there.

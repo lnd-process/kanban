@@ -1,0 +1,205 @@
+Welcome!
+
+And.
+
+Now let's define the product goal for our case study.
+
+Before talking about the product goal itself, let's recap what the
+
+Scrum Guide says about a product.
+
+A product is a vehicle to deliver value.
+
+Therefore, the Scrum Team must be aware that the product itself is not important.
+
+What matters is its benefits.
+
+What matters is having happy customers or users, having people happy and willing to
+
+use and even pay for the product, if the intention is to profit directly from it.
+
+The product has a clear boundary, known stakeholders, and
+
+well-defined users or customers.
+
+Such information is usually part of a product vision.
+
+As discussed in the last lecture, having a product vision is not
+
+a Scrum rule and the scrum Guide doesn't even mention it anymore.
+
+However, I will show you a quick example here for Konyu, because I think that
+
+it will be helpful for you to better understand what is a product goal.
+
+What we see here is a product vision defined for Konyu using the product vision
+
+board made available by Roman Pichler.
+
+As you can see, it has five sections.
+
+In the first one, we have the vision statement, which describes
+
+the product's purpose and impact.
+
+For Konyu is: "enable customers worldwide to buy in Japan with ease and low-cost".
+
+The target group characterizes the market and lists the target customers and users.
+
+For Konyu, we have four customers.
+
+Collectors and store owners and for the internal users, customer support operator
+
+and marketing in the third section needs, we have the problems that the product
+
+addresses, the target customers pains for . We have that the current services
+
+to buy in Japan are complex expensive or of low quality and a collector
+
+loses a lot of time mining for items.
+
+This is mostly targeting collectors, that purchases items on Japan's auctions.
+
+Now the product section lists information about envision product
+
+itself for quantity we have, well, we need a web app, a mobile app.
+
+It should be easy and safe.
+
+Real-time bidding, manage store orders, schedule bid, recommend auctions.
+
+These are the most important features that this product should have.
+
+And last but not least we have the business goals, which lists the
+
+benefits for the organization itself .For Konyu, one goal is to reduce
+
+the cost, to sell Japanese products.
+
+Further, since that company was previously an e-commerce store that targeted mostly
+
+Brazilian customers, it envisions Konyu as an opportunity to expand from selling
+
+only to Brazil to sell worldwide, using a business similar to drop shipping.
+
+As you might have noticed, it seemed like a lot of stuff to be done.
+
+So the product vision, in this case, it's kind of like a moonshot.
+
+It can be too much to only have the product vision as the target, not
+
+helping the scrum team to stay focused.
+
+However, before moving on, let's see what the scrum guide
+
+says about the Product Goal.
+
+It says that the product goal describes the future state of the product,
+
+which can serve as a target for the scrum team to plan against this.
+
+The Scrum Guide does not really define many restrictions of what
+
+makes a useful, a good product goal.
+
+According to it.
+
+This could be the product goal.
+
+And depending on the context, this could be okay.
+
+The scrum guide does not prescribe how you should define a product goal,
+
+because it is very context sensitive.
+
+However, to increase our understanding, let me show you how we could go a step
+
+further and to find a better, more attainable and measurable Product Goal..
+
+First, let me just put here the product vision for Konyu.
+
+It is pretty small, but you don't have to read it.
+
+It's the same information that we had before.
+
+Okay.
+
+So having an initial target is good.
+
+It is our first step.
+
+What now?
+
+Well, where are we at?
+
+Let's assume here that no versions of Konyu have been released yet.
+
+Given this what could be the first strategical product goal to be
+
+pursued before answering this?
+
+What are common for the goals?
+
+How do organizations defined them here?
+
+We have a list of possibilities.
+
+Acquiring customers, retaining customers, increasing engagement, activating users,
+
+generating revenue and reducing cost.
+
+However is , for instance, just saying that the product goal
+
+is acquiring customers enough?
+
+I don't think so.
+
+If you acquire one customer, do you satisfy the product goal or do you need 2?
+
+10?
+
+100?.
+
+Can the customer be from friends and family?
+
+If my mom creates an account, do I meet the product goal?
+
+I think you got my point here.
+
+It is a good practice to add more information to the Product Goal.
+
+For instance, let's try to come up with a target date, the goal to be achieved.
+
+The main features; between three and five is okay.
+
+And the metrics to verify if we have achieved the product goal . For the date,
+
+let's say here six months . For the goal, let's say acquire 20 customers from three
+
+countries, making at least one purchase.
+
+For the features, we have sign up and sign in, product search, auction
+
+bidding, and international shipment.
+
+In this case, the metrics are pretty straightforward because
+
+our goal was very specific.
+
+So we don't even need to fill it up.
+
+With the Product Goal defined, the Scrum Team has now a more realistic, attainable
+
+and concrete goal to pursuit in its role to fulfill the product vision.
+
+Now who comes up with the product goal, the product owner is accountable, but
+
+a good product owner will involve the entire scrum team and key stakeholders
+
+to increase transparency and buy in.
+
+In the next lecture, let's talk about the product backlog, which is what
+
+describes this part of the product goal.
+
+I'll see you there.

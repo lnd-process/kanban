@@ -1,0 +1,161 @@
+The Definition of Done is defined by the Scrum Team and is a set
+
+of criteria that increases the alignment and shared understanding
+
+of the expected deliverables.
+
+It explains to everyone involved what Done means by describing the state
+
+of the Increment when it meets the quality measures for the product.
+
+For instance, let's consider the case of organizing your closet.
+
+For some people, this closet is well organized.
+
+So, if the outcome of the task "organize the closet" is this,
+
+they would consider it to be done.
+
+For others, a well organized closet is like this, where you would have
+
+nothing on the floor, the types of clothing and shoes organized by type
+
+and color, and everything symmetric.
+
+For them, this is not done; while this is done.
+
+In Scrum, the Definition of Done can be seen as a gate.
+
+Whenever it is fulfilled, the work is done.
+
+Otherwise, it is not done.
+
+It is composed of criteria, which might include quality assurance tasks, such
+
+as having someone else review the work done by another person or quality metrics
+
+thresholds that must be fulfilled.
+
+It might also include aspects related to architecture and nonfunctional
+
+requirements, process management, configuration management, and so on.
+
+For instance, suppose that you are an architect and have the given task:
+
+“Design the 2D layout of a house”.
+
+For example, if I am your client and email you asking, "Hey, are
+
+you done with the house design?",
+
+And you say, yes, I'm going to think you have a PDF file ready for me.
+
+Conversely, you might think that an AutoCAD file is enough for
+
+the task to be considered done.
+
+Do you see, in this example, there is no shared understanding
+
+regarding the deliverable.
+
+In this example, you need to consider some questions for defining the Done criteria.
+
+Is it done if you design the house on AutoCAD and save
+
+it locally on your computer?
+
+Or do you need to share it on a specific folder on Dropbox, for instance?
+
+Can you name the file the way you want, or do you need to follow a pattern?
+
+Do you need to export the file into a specific file type?
+
+Can you send the AutoCAD file to your client or do you need to send the PDF?
+
+This set of criteria is simple but very important to give you factual information
+
+about your client's expectations
+
+In Scrum, depending on your context, you may define a done criteria for each
+
+important milestone that you might have.
+
+You could describe when technical tasks, Product Backlog items,
+
+releases, or projects are done.
+
+It all depends on your context.
+
+For instance, sometimes working with government agencies require
+
+you to have lots of documents, characterizing a deliverable as done
+
+. In this case, producing and updating such documents must be part of
+
+the team's Definition of Done.
+
+Let's see what I have defined for Konyu.
+
+I'm not going to get into details here, but as you can see, I have different
+
+types of criteria, including quality, process and configuration management.
+
+Further.
+
+I have added targets for the quality aspects, such as having
+
+zero critical or major defects open.
+
+The most important takeaway from this lecture is that the
+
+Definition of Done is the only Scrum practice focusing on quality.
+
+Unfortunately, many people neglect the Definition of Done and get
+
+to the Flaccid Scrum problem when a team starts with a very high
+
+velocity, but loses it with time.
+
+Why is the team losing velocity?
+
+Because probably they're producing a low-quality product and when you start
+
+working with low-quality stuff, the team will lose velocity at some point.
+
+So, my word of caution here is: Don't neglect the Definition of Done.
+
+As previously discussed, the Increment is what guides the Scrum Team in achieving
+
+and adjusting the Product Vision because it enables feedback to be gathered.
+
+The Definition of Done assures that the feedback received is based on something
+
+concrete and gives the necessary balance for the team to stay productive over time.
+
+Before moving on, let me address a point many people get confused about
+
+Please, don't mix the concepts of the Definition of Done and a
+
+User Story’s Acceptance Criteria.
+
+The Acceptance Criteria are specific to a single User Story.
+
+Conversely, the Definition of Done englobes all of them.
+
+For instance, for a web app, one Definition of Done criteria
+
+could be that the pages must load in less than one second, given
+
+a decent internet connection.
+
+All increments must satisfy this criterion, independent of the
+
+Product Backlog items involved.
+
+Now, we are done talking about the Definition of Done.
+
+In future lectures, we're gonna go over what happens during the Sprints,
+
+starting with the Sprint Planning event.
+
+Let's keep moving.

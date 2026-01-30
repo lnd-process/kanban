@@ -1,0 +1,99 @@
+Our case study will be about , Konyu, a service to buy
+
+products in Japanese stores.
+
+Let's start by taking a look at its main features.
+
+Just so you are familiarized with the system.
+
+Here we have some content.
+
+So we need to develop content management system features.
+
+Here we can change the language and currency.
+
+And over here we have a search box.
+
+Let's make a search for, for instance, Nintendo.
+
+Okay.
+
+So here we have a list of products.
+
+Let's order them by the ones with most bids, since we are
+
+talking about auctions here.
+
+Now it's ordered.
+
+Notice that the items shown here are actually items from Yahoo Auction Japan.
+
+Konyu is just a proxy.
+
+Now let's find a product to bid, just to demonstrate how it works.
+
+I'm not actually going to bid.
+
+Let's take this one.
+
+It already has 122 bids.
+
+So here we have the images for the product, current price
+
+number of bids, time remaining.
+
+The most important feature here is the bid now, so we can click on bid
+
+now, but now notice that you can't bid because you're not authenticated.
+
+So you need to sign up or log into the system.
+
+I'm going to log in here really fast.
+
+Just so we take a look at the user's homepage.
+
+Okay.
+
+So what do we get here?
+
+First, over here, we have the amount of money that I have on my wallet.
+
+So to buy products in Konyu, you need to add money to your wallet and
+
+then that money will be available for you to bid on Yahoo products.
+
+An extra feature that we have here is the add to watch list.
+
+So if I click here, the product is added to my watch list.
+
+What does it mean?
+
+It means that o nce this auction is near to its end, I'm going to
+
+receive an email just to remind me.
+
+Now, let's take a look at my homepage.
+
+Over here, we can see the auctions that are running, which means if I bid in
+
+a product, I can see it status here.
+
+If I'm winning or losing here, we have the watch list.
+
+I've just added this item to my watch list.
+
+And down here, we have the auctions that I've won.
+
+After I win in auction, the product will take a few days and will be available
+
+for me to order a shipment to my country.
+
+So I can go over here and order a shipment.
+
+And over here I can select the available products, select the shipping
+
+service and send it to my place.
+
+So there are other features, but this is enough.
+
+Now you have a great overview of Konyu and we are ready to roll.

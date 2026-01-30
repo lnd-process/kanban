@@ -1,0 +1,275 @@
+In this lecture, you will learn how to conduct a project kickoff meeting.
+
+First, notice that there are two types: client and internal kickoff meetings.
+
+A client kickoff meeting, as the name suggests, involves the
+
+project's clients, if there are any.
+
+Notice that some projects are internal and don't involve people
+
+outside of the organization.
+
+Internal kickoff meetings involve the project team and your organization's
+
+internal stakeholders, which include people that can affect
+
+or be affected by the project.
+
+For internal projects, it's the only kickoff meeting to be held.
+
+However, if your project has an external client or customer, you might want to have
+
+an internal kickoff meeting before having the client one so that the project team
+
+is aligned before meeting with the client.
+
+Let's start talking about this one.
+
+First, let me give you the greatest tip ever.
+
+Don't use the project kickoff to lay off information.
+
+You might be wondering, what do you mean, Mirko?
+
+Do you know that feeling of being in a meeting and thinking, why am I here?
+
+Why didn't they just send me an email with this information?
+
+I have been there a lot.
+
+If it's a one-way communication, share a document, send an email don't
+
+waste people's time with a meeting.
+
+This is a horrible way of starting a project.
+
+The kickoff meeting should, whenever possible, be collaborative,
+
+setting up your team for success.
+
+To achieve this, you got to do some preparation.
+
+First, share background project information with the participants.
+
+With enough time ahead of the meeting, you can include here: their project goals,
+
+timeline, scope, communication strategy, and the main risks so that everybody has
+
+enough context for the project kickoff.
+
+Second, if you're planning to have specific questions addressed to the
+
+participants, send the questions to them before the meeting so that they
+
+can plan the best answers properly.
+
+Third, if you think that some questions will be raised, prepare the answers
+
+and necessary supporting documents.
+
+Maybe a couple of slides to answer them the best way possible during the meeting.
+
+And finally, set up the meeting's agenda.
+
+As a rule of thumb, I would say that to plan it to last at most one hour.
+
+People usually get very bored after one hour in a meeting.
+
+Also is schedule the meeting ahead of time to make sure everybody can plan properly.
+
+And of course, plan the meeting.
+
+The meeting must be conducted following a plan.
+
+Failing to plan is planning to failure.
+
+The kickoff meeting is expansive, and it's your opportunity to uplift your
+
+team's morale early in the project.
+
+Don't underestimate its importance.
+
+Given this, let's talk about the agenda.
+
+The structure depends on the project, but the most include the five why's:
+
+who, what, where, when, why, and how.
+
+Given this, I'm going to suggest that in the agenda here, but feel
+
+free to adapt it to your context.
+
+The first thing to consider is to set the stage.
+
+Separate at most five minutes, to explain to everybody the
+
+meeting's, goals and structure.
+
+If you have worked with this project's client in the past, you can
+
+start by letting the team know the client's style and work preferences,
+
+which might include, for instance, reporting mechanisms and frequency.
+
+Then, give the people the opportunity to introduce themselves,
+
+focusing on their role and what they'll deliver in this project.
+
+You can add here an icebreaker activity by asking them to, for instance,
+
+tell a project or a story, or things that went wrong in past projects
+
+and what they have learned from it.
+
+Separate around 5 and 10 minutes for this part depending on the team size.
+
+Later, it is time to bring the team and align the perception
+
+of the project's goals.
+
+This is about coming with the why behind the project.
+
+What motivates the project?
+
+Why is it important to the organization?
+
+Here, for instance, you could facilitate a session for the
+
+participants to come up with an elevator pitch or a vision statement.
+
+And, it should last around 10 minutes.
+
+Let's suppose that your company was hired for a project about training
+
+25 novice software developers in artificial intelligence technologies.
+
+The client's goal was to at the end of the process, hire as most people as possible.
+
+The vision could be something like this.
+
+For a given customer, this project solves a problem of recruiting software
+
+developers with expertise in developing artificial intelligence-enabled systems.
+
+For your organization, this project can be important because it opens the door
+
+for other future training projects with this company and other tech companies.
+
+At this point, everybody will be aligned, understanding why the project exists
+
+and why it is vital to the organization.
+
+And if it's the case for the client, the next step could be to define success.
+
+Here, you could ask the participants to come up with
+
+success indicators and targets.
+
+For instance, for our example project, what is success?
+
+Teaching all the planned content on time.
+
+What level of expertise is expected for the students at the end of the project?
+
+Notice that the idea here, again is to bring the team
+
+into a common understanding.
+
+Reserve around 10 and 15 minutes for this step.
+
+Next, you could clarify the scope.
+
+Reserve an additional 10 minutes.
+
+For instance, you could give them a canvas divided between in scope and out
+
+of scope and ask them to fill it up.
+
+For our example, we could have within the project scope, preparing the content,
+
+teaching the lectures, preparing and conducting learning evaluation activities,
+
+mentoring or coaching the students, which artificial intelligence technologies
+
+and tools should be covered, and so on.
+
+Out of scope, could be recruiting students, because another organization
+
+is responsible for this activity.
+
+At the end of the process, you should be able to resolve any scope
+
+conflicts, make it things crystal clear.
+
+Then, you can clarify who is responsible for what if it is the case.
+
+The main point here is to have the team to understand the importance of each people
+
+and how their work affect each other.
+
+Since your project here is for a training program, you could identify
+
+who are the instructors for each topics, who's going to mentor or
+
+coach the students, and so on.
+
+The next point here is what's often missed on kickoff meetings.
+
+But I think that is an essential one.
+
+Ask people about how they feel about the project in general.
+
+You could go with a simple thumbs up and thumbs down mechanism here.
+
+If there are thumbs down, try to identify the issues and solve
+
+them if they are easy to solve.
+
+If someone comes up with a risk that no one thought about it yet,
+
+and no one has a good answer.
+
+You could schedule a follow-up meeting for this part of the meeting.
+
+Five minutes should be enough.
+
+Then, finally, close the meeting, ask if anyone has any questions, and answer them.
+
+Also, make sure you leave a positive and engaging message to boost
+
+your team morale and make them put their hearts into the project.
+
+This is your job as a leader.
+
+Further, if it is the case, set the team for the client kickoff meeting, make
+
+sure that your organization looks good.
+
+To wrap up this lecture, let me just make a quick comment about
+
+the client kickoff meeting.
+
+The main difference here is that, of course, the client will be there.
+
+The overall goal is the same as the internal kickoff meeting,
+
+which includes setting the tone, project vision, scope, and timeline.
+
+However, you will focus more on introducing the client
+
+to the team and vice-versa.
+
+And agreeing with the client, how to effectively work together to
+
+deliver the project successfully.
+
+And this is it, great job!
+
+Now that you know how to conduct a project kickoff meeting, you
+
+are a more empowered leader.
+
+Don't underestimate this technique because it can bring you wonders on your projects.
+
+I will see you in the next lecture.

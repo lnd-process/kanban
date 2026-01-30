@@ -1,0 +1,168 @@
+Tips for the Professional Scrum with Kanban (PSK) assessment
+In this course, we covered almost all the topics for the PSK assessment.
+
+
+
+Next, I present a list of topics that you need to go deeper into or keep an eye on. For each reference, whenever needed, I recommend further readings (I added a link to the documents and I also uploaded PDFs as resources in this lecture). Further, whenever appropriate, I also give highlights for the topic.
+
+
+
+For passing PSK, in a nutshell, you need to learn more about:
+
+
+
+The relationship between Kanban and Scrum
+
+Read:
+
+- The Kanban Guide for Scrum Teams
+
+
+
+Highlight:
+
+- Kanban augments Scrum, without removing any of its characteristics
+
+- It is fine to reserve part of the team's capacity (e.g., 20%) for unplanned work during Sprint Planning. It is a way of dealing with highly volatile and uncertain environments, without compromising lead time, and highlight the importance of the Sprint Goal.
+
+- Scrum events are kept the same, but are impacted by having a greater emphasis on the flow.
+
+- Releases during the Sprint are welcome, as it has always been with Scrum.
+
+
+
+Definition of Workflow
+
+Read:
+
+- The Kanban Guide for Scrum Teams
+
+- A Kanban Primer for Scrum Teams
+
+
+
+Highlight:
+
+- Might span longer than a Sprint. In other words, it might include more states than the Sprint Backlog.
+
+- When it comes to the Sprint Backlog, the Developers own the Definition of Workflow. In the remaining cases, the Scrum Team owns it.
+
+
+
+WIP limits
+
+
+
+Highlight:
+
+- We care about the flow of value and learning, which is the flow of Product Backlog items. Thus, in general, the limits should be for Product Backlog items. However, limiting tasks in progress can be useful (but does not replace limiting Product Backlog items)
+
+
+
+Service Level Expectation
+
+Read:
+
+- https://kanbanize.com/blog/kanban-service-level-expectations/
+
+
+
+Highlight:
+
+- Has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in seven days or less).
+
+- It is primarily an internal indicator (something that the team aspires to) to help inspect and adapt, not as a commitment or deadline for tasks.
+
+- Can be used during Sprint Planning to provide an idea of the service level that can be expected from the team, but not deadlines for each Product Backlog item.
+
+- Enables the team to forecast a finished data with certain confidence once the item has been started.
+
+
+
+Urgent work
+
+Highlight:
+
+- Having urgent work is not a valid reason for increasing WIP limits.
+
+- If the item is really urgent, start working on it immediately, regardless of WIP limits (exceed them if necessary).
+
+
+
+Batch size
+
+Read:
+
+- The attached document about batch size.
+
+
+
+Highlight:
+
+- Even though reducing batch size is typically desirable, it is not always the optimal solution.
+
+
+
+Kanban metrics
+
+Read:
+
+- Learn about Aging WIP chart: https://kanbanzone.com/2019/aging-work-in-progress/
+
+- How flow metrics are used in Scrum's events: https://www.scrum.org/resources/blog/4-key-flow-metrics-and-how-use-them-scrums-events
+
+
+
+Highlight:
+
+- Work in Progress and Work Item Age are leading metrics (used for predictions).
+
+- Cycle Time and Throughput are lagging metrics (used for measuring past performance).
+
+- The analysis of Work Item Age is useful for that given task, not for the flow in general. For example, it can be used for predicting the cycle time for that task, not for the average cycle time.
+
+- Professional Scrum with Kanban does not focus on story points or velocity, but on Cycle Time, Work in Progress, Work Item Age, and Throughput.
+
+- Expect to see questions about the CFD and the scatter plots seen in this course.
+
+----
+
+
+
+[BONUS]
+
+Take (several times) the Scrum with Kanban Open assessment from Scrum dot org: https://www.scrum.org/open-assessments/scrum-kanban-open
+
+
+
+Take this free practice test: https://www.thescrummaster.co.uk/assessments/professional-scrum-with-kanban-psk-i-practice-assessment/
+
+
+
+[OPTIONAL]
+
+Take the Scrum Open assessment from Scrum dot org. You can access them by clicking here.
+
+----
+
+
+
+Whenever you are done with the readings above, take the PSK assessment practice test available next.
+
+
+
+Have any questions?
+
+
+
+Ask a question on the course's Q&A board and I will be happy to help you.
+
+
+
+All the best,
+
+
+
+Mirko
+
+Tài nguyên cho bài giảng này

@@ -1,0 +1,39 @@
+In this section, we will quickly cover common mistakes when adopting Kanban.
+
+The first classic mistake of Kanban beginners is not defining
+
+the Work In Progress limits.
+
+Many people think this is a Kanban Board, but it is not!
+
+Why?
+
+Because it is missing the Work In Progress limits.
+
+Are you using Work In Progress limits?
+
+If the answer is no, you are not using a Kanban Board and,
+
+of course, not adopting Kanban.
+
+It is as simple as this.
+
+Many beginners don’t define Work In Progress limits because they don’t know
+
+how to come up with the ideal limits.
+
+However, as we have discussed in this course, these limits are Kanban’s primary
+
+weapon to solve the queue problem.
+
+Thus, you should define initial Work In Progress limits following
+
+the tips provided in this course and, later, enter the Kaizen
+
+Cycle and adjust them as needed.
+
+We are done talking about the first classical mistake when adopting Kanban.
+
+Let’s discuss one more in the following lecture.
+
+See you there!

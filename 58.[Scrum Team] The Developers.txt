@@ -1,0 +1,185 @@
+Now, let's talk about the Developers.
+
+They are committed to creating any aspect of a usable Increment each Sprint.
+
+In other words, they transform the ideas reflected in the Product Backlog
+
+into something usable and valuable.
+
+In Scrum, the Developers are cross-functional.
+
+In other words, the sum of the skills of all the Developers
+
+must be enough to deliver all the aspects of a usable product.
+
+Notice that individuals might have a specialized area of focus,
+
+such as development or testing.
+
+However, there are no sub-teams or hierarchies, and they all share the
+
+accountability for planning their work and delivering high quality outcomes.
+
+This is very important.
+
+In Scrum, if you create any aspect of an Increment, you are a Developer.
+
+The goal of this characteristic is to create unity.
+
+Even though individuals might have specialized skills or areas of
+
+focus, the accountability regarding creating usable products belongs
+
+to the Developers as a whole.
+
+There is no individual failure or success.
+
+Again, the focus is on the team as a whole.
+
+Additionally, the Developers, as the entire Scrum Team, self-manage.
+
+They collaborate to solve team problems focusing on team goals and they
+
+define who does what, when and how.
+
+No one tells them how to do their work.
+
+Furthermore, to promote self-management, it is necessary
+
+to have an alignment between the Developers and the business people.
+
+The Product Owner has a pivotal role here by being an effective member
+
+of the Scrum Team and working closely with the Developers..
+
+However, having alignment with the Product Owner is not enough, the
+
+Developers must also have autonomy in deciding on what to work on.
+
+For this purpose, during Sprint Planning, through discussions with the Product
+
+Owner, the Developers select the Product Backlog items for the Sprint.
+
+In other words, the Product Owner does not tell the Developers what to do.
+
+There is no command and control in Scrum.
+
+So, here in this cartoon, this is what we want.
+
+The PO frames a business problem.
+
+"We need to cross the river."
+
+The Developers figure out how to do it.
+
+Solving problems, making decisions.
+
+This is what motivates knowledge workers: the Developers.
+
+If you take it from them, performance goes down.
+
+Creativity is hindered.
+
+You don't want that on complex products.
+
+It's a no-no.
+
+At this point, we have discussed that the Developers are
+
+cross-functional and self-managed.
+
+Given this, do you think that the Developers should be
+
+generalists or specialists?
+
+Now is the time that you should pause the video and think about it for a little bit.
+
+Let us start answering this question by analyzing the
+
+scenario of having specialists.
+
+One of the main reasons for the lack of cohesion on the Scrum
+
+Team is the lack of redundancy.
+
+In other words, lack of having multiple team members with similar skills.
+
+Why is it important?
+
+Because you want the team members to give each other feedback,
+
+assist others in tasks, or complete tasks started by others.
+
+If each person only works on part of the problem, you won't really have
+
+a team, but just a group of people.
+
+Therefore, you can't really have a team composed only of specialists.
+
+What about generalists?
+
+Well, they know a little about a lot of stuff.
+
+It would be okay if we were working with simple stuff, but for
+
+complex products is not enough.
+
+So what to do?
+
+You need a mix of both.
+
+You need people that are specialized in whatever skills or technology
+
+you need for the product.
+
+But at least some of them must be open to moving around the system
+
+or problem at hand more freely, giving the team the flexibility
+
+it needs to promote good teamwork.
+
+For instance, I once worked on a project in which we had
+
+two major fields of knowledge.
+
+We had web development and Android.
+
+So the team was composed of eight guys.
+
+One of them is one of the best Android Developers out there, and our
+
+project was really, really complex.
+
+So, what happened?
+
+This guy only worked with Android stuff.
+
+We also had two guys who were our experts in web development.
+
+So they only worked with web development, but the other
+
+five guys worked on both ends.
+
+Thus of course, we didn't have full redundancy, but the team had enough
+
+flexibility to make collaboration work, and this project, even though it was in
+
+a very complex domain, was successful.
+
+Notice that this is not a rule.
+
+The Scrum Guide does not give any recommendations or rules on
+
+how to select your Developers.
+
+I am just giving you an example here to help you understand the concepts better.
+
+The best solution is very context-sensitive.
+
+Great!
+
+We are done with the Developers.
+
+In the following lecture, you will learn more about the Scrum Master.
+
+See you there.

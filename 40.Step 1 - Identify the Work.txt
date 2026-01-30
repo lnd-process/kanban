@@ -1,0 +1,15 @@
+In the past sections, we have discussed how to adopt Kanban, going over
+
+its four fundamental principles, six general practices, and how to apply
+
+Kanban techniques such as limiting Work In Progress and analyzing the
+
+Cumulative Flow Diagram following these principles and practices.
+
+This section complements what we have already discussed by covering this
+
+five-step roadmap on how to adopt Kanban.
+
+Ready to get deeper into Kanban?
+
+So, I will see you in the next lecture!

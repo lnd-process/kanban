@@ -1,0 +1,23 @@
+Bài kiểm tra thực hành 1
+Professional Scrum with Kanban I (PSK I) simulator
+Bài kiểm tra thực hành là công cụ học tập giúp bạn thực hành trả lời các câu hỏi để chuẩn bị cho kỳ thi chuẩn hóa. Bạn có thể làm bài kiểm tra thực hành nhiều lần tùy thích ở nhiều chế độ khác nhau.
+Chọn chế độ kiểm tra để bắt đầu kiểm tra
+
+Chế độ thực hành
+Beta
+Thực hành trả lời các câu hỏi trong môi trường ít rủi ro và xem lại từng câu trả lời trước khi chuyển sang câu hỏi tiếp theo
+Câu hỏi
+45
+gần đúng
+Không có
+Điểm đậu
+Không có
+
+Chế độ thi
+Mô phỏng một bài kiểm tra chuẩn hóa bằng cách hoàn thành bài kiểm tra thực hành trong thời gian giới hạn và đạt điểm đậu.
+Câu hỏi
+45
+gần đúng
+1 giờ 0 phút
+Điểm đậu
+Đúng 85%

@@ -1,0 +1,47 @@
+Before going into Scrumban, let’s think about the answer to this
+
+question: which one is better?
+
+Scrum or Kanban?
+
+What do you think?
+
+While Scrum is commonly used to develop products, Kanban is widely applied
+
+to production lines, maintenance management, and other continuous flows.
+
+Given this, which one is the best: Scrum or Kanban?
+
+Asking this is the same thing as asking if it is better to eat
+
+with a fork, knife, or spoon!
+
+It depends on the context and they can be combined!
+
+For example, Scrum.org has a guide explaining how to complement
+
+Scrum with Kanban named “The Kanban Guide for Scrum Teams.”
+
+This guide complements their famous Scrum Guide and is used
+
+as the basis for the Professional Scrum with Kanban certification.
+
+I have attached their Kanban guide as a resource in this lecture.
+
+In case you're interested in getting certified, this course has a bonus
+
+section with instructions, tips, and a practice test for the Professional
+
+Scrum with Kanban assessment.
+
+Now that we have discussed how Scrum and Kanban can be used
+
+together, what is Scrumban?
+
+Scrumban is a hybrid agile development approach that combines
+
+Scrum’s skeleton, with Kanban’s capabilities of optimizing the flow.
+
+In the following lectures, we will see how Scrumban works and
+
+how it uses some of the essential elements of both Kanban and Scrum.

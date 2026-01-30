@@ -1,0 +1,153 @@
+It is time for you to learn the three types of delegation: Gofer
+
+or Micromanagement, Dump & Run, and Stewardship Delegation.
+
+Next, I will describe each one of them.
+
+And as an exercise, try to figure out which one is our current style.
+
+Let's start talking about gofer.
+
+This type gets its name because you have the leader telling people to
+
+go for task one, go for task two,
+
+and so on...
+
+Instead of giving people a big picture, a vision of the results to be achieved.
+
+THe leader focuses on describing the exact step-by-step to
+
+be followed and continuously checking if the person is done.
+
+For instance, let's assume that I hired a video editor to edit my videos.
+
+Here, I will tell the editor exactly what to do for each video, where to cut
+
+the videos, which elements or effects to add when to add them, where to add
+
+them, the exact position on the screen.
+
+Which font to use, which colors to use.
+
+I would tell her exactly what to do.
+
+The editor would merely follow my instructions.
+
+It is almost like programming a computer, telling it exactly what to do.
+
+This type of delegation is the most annoying one because
+
+it displays a lack of trust.
+
+Further, people that are micromanaged tend to not care about the intended
+
+objective but only on the task at hand.
+
+This happens because they don't have a big picture, a vision
+
+of the goals to be achieved.
+
+They don't feel as they own the results.
+
+Thus, they feel that as long as they're done with whatever was
+
+told them to do, they're fine.
+
+What if I mess up on the instruction for my video?
+
+What if I tell the editor to add an element that doesn't
+
+make any sense for the video?
+
+What would the editor do?
+
+If she feels micromanaged,
+
+if she feels that she doesn't own the work, she's probably not motivated
+
+enough to care about the results.
+
+She would just follow my instructions, and whatever goes wrong, she's going
+
+to say, Hey, it's not my fault.
+
+I'm just doing what Mirko told me to do.
+
+How do you think micromanaged people react to unexpected issues?
+
+They don't react.
+
+They feel like it's not their job to figure out what to do.
+
+It is the leader's job to describe all the scenarios that might occur and
+
+the associated step-by-step solutions.
+
+Thus, gofer might work for very simple, repeatable tasks.
+
+One example is a company that I used to work for when I was very young.
+
+My job and the job of hundreds of others was to classify if the results for
+
+Google searches were relevant or not.
+
+So we had this huge, very detailed guideline that we needed to
+
+follow exactly as described.
+
+We had no idea how Google would use our results.
+
+We just cared about finishing our daily tasks and getting paid.
+
+The company would make sure to micro-manage every task.
+
+Making sure that we were getting done fast enough and with enough quality.
+
+Otherwise, we would get fired.
+
+The company didn't expect us to be super motivated.
+
+It just wanted us to get the tasks done.
+
+One at a time.
+
+We acted like task doers to complement Google's algorithm.
+
+Apparently, the gofer approach works well for them.
+
+Because the work was highly predictable and they had a bunch of people doing
+
+the same tasks, so they could easily compare the performance of each worker.
+
+However, notice that the gofer approach is not suited for most environments because
+
+instead of taking the most of people, you reduce them to task doers, which
+
+will make them get demotivated and get annoyed by your very presence as a leader.
+
+Further, if you have many tasks dependent on each other, you, as
+
+the leader, will have to control and synchronize everything.
+
+Thus, it only works to the point where you have enough time
+
+to control such dependencies.
+
+I like to think of gofer delegation as a ventriloquist.
+
+Because there's a very limited amount of tasks to be done that
+
+you can control, and you take away from people their capabilities to
+
+input and come up with solutions.
+
+Have you ever been in this situation, micromanaged or micromanaging people?
+
+How was your experience?
+
+Think about these questions for a little bit, and then move to the
+
+next lecture, where you will learn about the dump & run delegation.
+
+See you there.

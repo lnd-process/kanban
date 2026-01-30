@@ -1,0 +1,69 @@
+The Development Work is the work performed by the Developers to develop
+
+the Increment during the Sprints.
+
+Now, what exactly do the Developers do during the Sprint?
+
+Since the team is cross-functional, they must be able to do all the work
+
+necessary to deliver Increments.
+
+Depending on your domain, if it's social media, marketing, software development,
+
+hardware development, architecture, engineering, course creation, you
+
+will have different types of tasks.
+
+In the software world, we go from requirement definition to system testing.
+
+So, of course, if you're not from the software world, you don't have
+
+to worry about each of these boxes because you'll have different
+
+boxes depending on your domain.
+
+But the point is that in Scrum, during a Sprint, we want to do all this work.
+
+Usually, the Sprint work is made visible using Scrum Boards.
+
+The Scrum board is a fundamental tool to enable collaboration, communication,
+
+and transparency, important factors to enable self-management.
+
+A good Scrum board is divided into what we call swim lanes.
+
+Swim lanes separate information from different Product Backlog items.
+
+For example, this swimlane that I have highlighted only has the work related
+
+to the first Product Backlog item.
+
+The first column holds the Product Backlog items, and the remaining
+
+ones represented team's workflow.
+
+The most simple version of the board divides work into three steps: To
+
+Do, holding the tasks not started;
+
+WIP, which stands for work in progress and holds the tasks started, but not finished,
+
+and Done, for the work that is done.
+
+You could have more steps here, but this decision is up to the Developers.
+
+You could represent the Scrum board physically, on your
+
+wall, or use a software tool.
+
+And this is all you need to know about the Development Work.
+
+Great.
+
+Let's move to the next Scrum event: The Daily Scrum, the
+
+topic of the next lecture.
+
+https://medium.com/@mirkoperkusich/scrum-myth-the-sprint-scope-is-fixed-a3ce4b262eaa
+
+See you there.

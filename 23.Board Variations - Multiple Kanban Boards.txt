@@ -1,0 +1,92 @@
+
+w, suppose that we have two teams working on maintaining a system: the
+
+maintenance team, focusing on fixing defects, and an installation team,
+
+focusing on installing or deploying the system, in other words, making
+
+the system available to the users.
+
+In this case, each team could have a Kanban board.
+
+This is the Kanban Board for the maintenance team, which we
+
+discussed in the past lecture.
+
+Now, the conclusion of the Maintenance team work marks the beginning of
+
+new work for the Installation team.
+
+Thus, we can change this last column’s name from “Done” to
+
+“Waiting for Installation Team.”
+
+Whenever the Installation Team is available to work on any of these tasks,
+
+they will pull the card to their Kanban Board by placing it on their Backlog
+
+column, and, from there on, the card follows the Installation team workflow.
+
+Now, let's imagine a slightly larger scenario, such as an app
+
+almost everybody uses: Instagram.
+
+Like in any other system, Instagram’s teams frequently launch new stuff.
+
+What if they used the Kanban Method?
+
+How could they set up their Kanban Boards?
+
+We could have something like this.
+
+Of course, I am treating the boards symbolically here, not getting
+
+into each of the boards’ details.
+
+In practice, each of these boards would undoubtedly have more steps.
+
+I just want to illustrate that you can use multiple Kanban Boards
+
+to manage multiple teams' flow.
+
+For example, let's assume that the Requirements Team identified
+
+a significant improvement to Instagram’s Android application.
+
+Thus, over here, analysts would specify how the app should be modified.
+
+Whenever they're done, they hand off the task to the Development team,
+
+who would take the specifications and implement the changes to the app.
+
+Whenever they are done, the Testing team would test whatever was impacted by
+
+the change and, whenever they're done, handle the task to the marketing team.
+
+The marketing team would create marketing assets for announcing
+
+the improvements to users.
+
+And finally, the deployment team would release an updated version
+
+of the app to the Play Store, making it available for users.
+
+Have you noticed how using a sequence of Kanban Boards makes it easy to manage
+
+the entire flow of getting a task done, even when working with multiple teams?
+
+And the incredible thing about using a series of interconnected boards is
+
+that further ahead in the course, in a little while, we will learn some
+
+Kanban techniques and metrics used for evaluating and optimizing our flow.
+
+When we have a chain of interconnected boards, we can make an even more
+
+comprehensive and impactful analysis and optimization of the business as whole.
+
+Now, we are done talking about how to use multiple Kanban boards, and
+
+let's move to the following lecture!
+
+

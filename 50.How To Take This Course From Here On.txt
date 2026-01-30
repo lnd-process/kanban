@@ -1,0 +1,35 @@
+As we saw in this course, the Kanban Board is universal and can be applied
+
+to pretty much any organization.
+
+Setting the Kanban board aside and talking about the Kanban Method,
+
+which is more comprehensive, I have already mentioned that it fits
+
+well with most agile approaches.
+
+A common case is to combine Kanban with the most used agile
+
+approach in the world, Scrum.
+
+The resulting combination is what many people call Scrumban.
+
+Scrumban focuses on agility and continuous value delivery
+
+to the client, and it fits well for various industry sectors.
+
+Given this, this course wouldn’t be complete if it didn’t cover Scrumban.
+
+Since it is possible that you are not familiarized with Scrum yet, before
+
+getting into Scrumban, the following section covers Scrum fundamentals.
+
+If you have already mastered Scrum, you can skip it.
+
+As a quick note, if you decide to skip the Scrum section, I suggest you mark all the
+
+lectures as done to avoid having issues with the course completion certificate.
+
+Ready for the final push and get done with the course?
+
+I will see you in the next lecture!

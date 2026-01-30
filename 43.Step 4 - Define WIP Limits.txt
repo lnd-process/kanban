@@ -1,0 +1,15 @@
+Now that we have the workflow mapped, on the fourth step, we define Work In
+
+Progress limits, of course, because we do not want the team's flow to have queues.
+
+Setting up the WIP limits is an empirical process; in other words, the team
+
+learns the ideal limits by observing the workflow and making adjustments.
+
+However, we can define the initial limits by considering the number
+
+of people available for each column and the work's complexity.
+
+In the following lecture, we will wrap up this section by discussing
+
+the roadmap's fifth and last step.

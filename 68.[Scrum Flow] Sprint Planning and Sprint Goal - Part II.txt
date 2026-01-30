@@ -1,0 +1,143 @@
+Now, let's talk about the third topic of Sprint Planning.
+
+The goal now is to come up with the Sprint Backlog, which consists of
+
+the Sprint Goal, the Product Backlog items selected for the Sprint,
+
+and the plan for delivering them.
+
+Notice that, at this point, the Sprint Goal and a set of candidate Product
+
+Backlog items have been defined.
+
+Thus, we still need to create the plan.
+
+And notice that the Developers have the final word regarding this step since no
+
+one can tell them how to turn Product Backlog items into Increments of value.
+
+Scrum does not prescribe how the Developers should do this, but we
+
+will see an example here to understand better how this is done in practice.
+
+Most Scrum Teams decompose the Product Backlog items into technical tasks,
+
+which are smaller chunks of work, often to units of one day or less.
+
+The goal here is not to define all the tasks, but to give the Developers a
+
+better forecast of the work they can do.
+
+Let's see an example of how the Developers could decompose the Product Backlog items.
+
+For instance, if you're working on a software product, which is what we
+
+are simulating in our case study, the Developers can start by designing a
+
+sketch of the solution, which includes the user interfaces, integration with
+
+other systems, and so on, so that they have an overview of what needs to be done.
+
+This activity should take around 15 and 20 minutes.
+
+After everybody has a big picture, they can sit, each team member with
+
+a stack of small index cards they will use to write technical tasks.
+
+And then for each Product Backlog item, in our case here, we have
+
+three, each person secretly will write tasks, one for each index card.
+
+They will do that for five minutes.
+
+After the five minutes, they will share their tasks and discuss each one to try
+
+to come up with the final set of tasks.
+
+A good practice is to get the sketch you have done previously and try to
+
+map the tasks you have planned with each part of the system integration
+
+or user interface you have to develop.
+
+But this is just an extra validation step to check your tasks'
+
+completeness and is not mandatory.
+
+The goal is to reach a consensus regarding the tasks for each Product Backlog item.
+
+As an example, let's simulate following this procedure for our case study.
+
+The first Product Backlog item is about the user signing up
+
+or registering on the system.
+
+Let’s assume that the Developers came up with these tasks.
+
+There are no rules here regarding how to write down the tasks.
+
+There are only two essential points.
+
+First, the Developers must be able to remember what the task
+
+is about during the Sprint.
+
+In other words, each task needs to have enough details for reminding the
+
+Developers what they were thinking about during Sprint Planning.
+
+And the second point is that the Developers don't need to predict all
+
+the tasks to be done during the Sprint.
+
+They should focus more on the first few days of the Sprint.
+
+Of course, the most they can predict, the better if they can do it fast.
+
+However, it is totally normal; it is expected to have new technical
+
+tasks coming up during the Sprint.
+
+The main goal here is for the team to have more informed
+
+decision-making to plan the Sprint.
+
+Let's keep going.
+
+For the second Product Backlog item, which is about logging in
+
+the system, we had these tasks and for the third one, these tasks.
+
+After decomposing the Product Backlog items, what do we do?
+
+Well, it's time to wrap up the event.
+
+After thinking more about the Product Backlog items and having more information
+
+about the work to be done, the Developers might negotiate the selected items
+
+for the Sprint with the Product owner.
+
+As a result, they can end up selecting more Product Backlog
+
+items, fewer Product Backlog items, or keep it as previously planned,
+
+always focusing on the Sprint Goal.
+
+For our case study, we're just going to keep the three Product Backlog
+
+items we have selected previously.
+
+And as a result, we have the Sprint Backlog.
+
+Great job!
+
+You have just developed your first Sprint Backlog.
+
+From now on, whenever the Sprint Planning is over, only the Developers can change
+
+the Sprint Backlog, and the Sprint Backlog is their only source of work.
+
+This rule is fundamental for maintaining the Developers’ autonomy.
+
+Let's keep moving.

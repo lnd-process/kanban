@@ -1,0 +1,341 @@
+At this point, we have a task that needs to be done, and that
+
+takes more than two minutes.
+
+What to do?
+
+Well, the next question you should ask yourself is: should it be resolved by me,
+
+or could someone else perform this action?
+
+If you can delegate it to someone else, you're going to store
+
+this item on the "waiting" list.
+
+So, here in our spreadsheet, we have a "waiting" tab.
+
+If you prefer, you can name it as delegated, whatever you want.
+
+And in this list, you will put everything that you have delegated to someone
+
+else, but that you need to follow up until they send you the result, okay?
+
+If needed, don't forget to put the name of the person responsible and any deadlines.
+
+This information is important so that, you know, when you should check with the
+
+responsible about the given tasks status.
+
+Here, what I usually do is to put reminders for myself about
+
+when should I check with the responsible for the current status.
+
+For instance, I might do it every day at 9:00 AM.
+
+And what I always do is make a quick note whenever I have this status.
+
+So, for instance, on Monday morning, I get a status from John.
+
+Then he tells me what it has accomplished as of now.
+
+So I take a quick note then on Tuesday morning, I check again.
+
+So when I do that, I can compare what John says he has accomplished until Tuesday
+
+and compare what he has done from Monday.
+
+And then I can see if you really evolved, and I can check if
+
+he needs help or something.
+
+Okay?
+
+And I need to say, when I started doing this, it helped me a lot.
+
+I have a lot of work that I need to delegate.
+
+Now, if it shouldn't be solved by someone else, that is, it must be solved by you,
+
+and you can't solve it in two minutes, there are two possible destinations.
+
+The first destination is the calendar.
+
+This is the case when you have a specific date or time.
+
+Maybe, for instance, a meeting or maybe a bill that you have to pay.
+
+That is, if you have something that needs to be executed on a specific
+
+date, then you go to a calendar.
+
+And now, you might ask, but Mirko, what calendar should I use?
+
+Well, I suggest if you have a Gmail account, a Google account,
+
+just use the Google calendar.
+
+That's what I use.
+
+So I have here the Google calendar.
+
+And, if you have an email from Google, you just need to type calendar.google.com.
+
+And it's really easy to use.
+
+Just click on the time slots and schedule your actions, okay?
+
+If you prefer, you can also use a traditional physical calendar.
+
+You just need something that has all the days of the year.
+
+But I prefer to use digital tools.
+
+The second possible destination is the "next actions" list.
+
+So in our spreadsheet, we have a "Next Actions" tab.
+
+In this list, you're going to report everything you need to do but that you
+
+don't have a specific date to perform it.
+
+You just know you need to do it as soon as possible, got it?
+
+So now you know what to do with each of the types of stuff that you
+
+have identified in the "collect" step, you have processed everything.
+
+The goal of the GTD process stage is to process all the collected items.
+
+In other words, your inbox needs to be empty because you have given a
+
+destination to all the collected stuff.
+
+And now you might ask, but Mirko, when should I do this?
+
+You need to do it every day.
+
+Systematically.
+
+No exceptions.
+
+Some people need to do it just once a day.
+
+In fact, that's what most people do.
+
+They do it once a day, for instance, at the end of the day, before going to bed.
+
+Others need to do it multiple times a day.
+
+For instance, I need to do it multiple times a day.
+
+Why?
+
+Because I work with a lot of projects in parallel.
+
+So I have many things going on.
+
+Lots of tasks delegated.
+
+And as the manager, one of the most important points is
+
+to be available whenever the team needs my help or feedback.
+
+So, if someone needs my help at 10:00 AM, they will request my help through
+
+email or the instant messaging app of choice for the given project.
+
+And, you know, I rarely answer the phone unless I know it's
+
+something very, very critical.
+
+But why Mirko?
+
+Because I control my time, not other people, okay?
+
+So let's say that Brian is working with me on a scientific article, and he's stuck.
+
+So he sends me an email asking for help at 10:00 AM.
+
+If I only answer Brian at the end of the day, I might be wasting
+
+Brian's entire day of work.
+
+And guess what?
+
+Sometimes it is stuff that I can figure it out in two minutes.
+
+Not necessarily giving him the answer, but pointing him in the right direction.
+
+Maybe a book, another article, or telling him to talk to John, who I
+
+know is an expert in the field, got it?
+
+That is why I do micro-processing multiple times per day, but
+
+you don't have to do it.
+
+Most of you can do it just once a day, and you'll be fine.
+
+The only rule here is to do it daily with no exceptions.
+
+So summarizing, what is your goal here?
+
+You need to empty your "inbox" list.
+
+That's it.
+
+Give destination for everything.
+
+And what do you do?
+
+You follow the flow.
+
+So before moving on to a practical example, let's just
+
+make a really brief summary.
+
+Given that you have your "inbox" list, you define if the items are actionable or not.
+
+If not, you have three destinations: you trash it, you put it on somebody/maybe,
+
+or you file it for reference.
+
+If they're actionable, now you to think, is it a multi-step item or not?
+
+If it is, you're going to store it as a project.
+
+If not, you're going to process it.
+
+If it takes less than two minutes, just do it.
+
+If not, you need to ask yourself, am I the one responsible or the
+
+one that should take an action?
+
+Or not?
+
+If not, you delegate it, and you put it for you're "waiting for" lists.
+
+If not, if it's you the responsible, you need to check if: does it have to
+
+be done at a specific date and time?
+
+If yes, put it in your calendar, such as Google Calendar.
+
+Otherwise, you just add it to your "next actions" list.
+
+And that's it.
+
+So, what have we done by now?
+
+We have collected all the things to do, and we have given
+
+a destination for everything.
+
+But before going to organize, let's see an example.
+
+So here we have my "inbox" list.
+
+And the first item is to send emails to investors.
+
+So this is a one-action item.
+
+So what do I do?
+
+I move it to the next action step.
+
+So you can see here, my first action is to send emails to investors.
+
+So what do I do now?
+
+I delete it from my inbox.
+
+The next item is to plan a vacation.
+
+Planning a vacation is a multi-step action.
+
+So what do I do?
+
+I add it to the "project" list, and I define my next action,
+
+which is calling the agency trip.
+
+Okay?
+
+Done.
+
+Let's delete it from the inbox.
+
+The next step is build Scrum.PM Website, which is similar to the next one,
+
+which is build OMNI.Academy Website and they're all multi-step actions.
+
+So what do I do?
+
+I add it to the projects.
+
+As you can see here, build Scrum.PM Website, and build OMNI.Academy Website.
+
+And what are the next actions?
+
+For both of them, just define the content.
+
+Of course, I know there's more stuff to do, such as defining the design, building
+
+the website, deploying it, and whatever, but for now, I just need the next action.
+
+So I'm done.
+
+So go back here and delete these two items.
+
+Next item is to organize slides for keynote.
+
+So I'm assuming here, which is the case, that I already
+
+have a lot of content ready.
+
+I just need to organize them.
+
+So in one sitting, I'm done.
+
+So I'm going to put this for my "Next actions" list.
+
+And here it is.
+
+Great.
+
+So I'm going to delete it from my inbox.
+
+And then, next step.
+
+Next action is review Manuel's scientific paper, and also, the paper
+
+is already done from his perspective.
+
+I just need to sit and review.
+
+Therefore I define it as one action item and put it on the "next actions" list.
+
+Great?
+
+So I can delete it from my inbox.
+
+And the last item that I had in my inbox was scheduled
+
+interviews with Konyu's clients.
+
+So this one is also a multi-step item.
+
+So I add it to the "projects" tab.
+
+And my next action is to identify five potential business customers.
+
+And with this, I have my inbox clear.
+
+And I'm finally done with processing.
+
+Now, it's your turn.
+
+Process your inbox.
+
+Afterward, move to the next video, where we're going to organize the work.

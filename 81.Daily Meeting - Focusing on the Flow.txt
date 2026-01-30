@@ -1,0 +1,41 @@
+Now, let us talk about Daily Meetings, called Daily Scrums, in Scrum.
+
+Kanban does not prescribe Daily Meetings, but conducting them is a good practice
+
+because they allow the team to discuss how to maintain a consistent flow.
+
+In Kanban, the meeting takes place around the Kanban board and focuses on
+
+where flow is lacking and what actions the team can take to get it back.
+
+As with Kanban, Scrumban also has flow-based Daily Meetings.
+
+For this purpose, Scrumban teams usually analyze the CFD and flow
+
+metrics such as lead time, cycle time, work item age, and throughput.
+
+As a consequence, while Scrum Teams usually focus a lot on using burndown
+
+charts to forecast the progress of Sprints, Scrumban teams focus on the CFD.
+
+Why?
+
+Because Scrumban teams don’t worry about meeting a Sprint deadline
+
+but about having a consistent flow.
+
+And by having good lead time, cycle time, and throughput, the burndown is
+
+easily predictable and becomes useless.
+
+Notice that Scrumban’s Daily Meetings are very similar to the
+
+ones conducted by Kanban teams whenever they choose to conduct them.
+
+This similarity is expected since both approaches aim to
+
+maintain a consistent flow.
+
+In the following lecture, let us discuss the Review and Retrospective events.
+
+See you there!

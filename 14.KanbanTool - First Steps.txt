@@ -1,0 +1,123 @@
+Let's start by creating an account on KanbanTool and setting up our board.
+
+First, open your favorite Internet browser and access this
+
+address, www.kanbantool.com, to reach their website.
+
+Now, we need to create an account.
+
+Click on “Pricing & Sign up.”
+
+Here you will see their pricing options.
+
+Let’s create a FREE account.
+
+Enter your name.
+
+I will put here “Mirko Perkusich.”
+
+Now, add an email address, I will add mirkokanban@hotmail.com.
+
+Add an “account name.” I will put “mirkokanban.” Notice that, as
+
+shown here, KanbanTool uses your account name to create an URL
+
+for accessing your Kanban boards.
+
+Check that you agree with their terms.
+
+And finally, click on “Create My Account.”
+
+Now, let us complete the login details.
+
+Define a password and confirm it.
+
+The time zone for me is Brasilia.
+
+If you want, you can inform them that you learned about
+
+their tool through this course.
+
+I will add here “Mirko’s Kanban course on Udemy”.
+
+Great.
+
+Finally, click on "save" and continue.
+
+At this point, you can invite other people to be part of your team.
+
+I will not invite anyone because I just want to make a quick tour.
+
+So, I will click here on “Continue,” and we are done.
+
+Now, I am already in my account here in KanbanTool.
+
+If you want to take a tour or get information from the system, just
+
+click here on “Start with the welcome board”, and KanbanTool
+
+will show you a quick tutorial.
+
+Let me get straight to the point by clicking on “Create new board.”
+
+Let me define its name here, for example, “Articles Production.” From now on in this
+
+course, we will use the case of producing articles to discuss Kanban’s techniques.
+
+Click on "Next".
+
+Now, it is time to add the steps of our workflow, and I will add the
+
+steps from the Articles Production examples we discussed in past lectures.
+
+The first step is “Not Started”; next, “Write”, then “Review,” “Publish,”
+
+and, finally, “Done.” These will be the five steps of our workflow.
+
+Click on “Next.”
+
+Here, we can choose the types of cards and their colors.
+
+We already have two types here.
+
+Let’s keep them and click on “Next.”
+
+Now, we need to choose a background for the board.
+
+Let me choose this one and click on “Next.”
+
+Now, we are asked to create a few tasks to be added on the board.
+
+I am going to add the topic of the first example article to be written,
+
+“How to Be an Inspiring Leader.”
+
+Let me add another one, “Project Management for Small Teams.” One more,
+
+“How to Inspire People.” And, finally, our last one, “How to Solve Conflicts.”
+
+Now, let’s click on “Create board.”
+
+Here I have my Kanban board with the four tasks that I created.
+
+Let us assume that I, Mirko, will work on the first article.
+
+Let me assign myself to it by clicking on the card and selecting my name.
+
+As you can see, the first article is assigned to me.
+
+Let’s move it to “Write,” then “Review,” then “Publish,” and, finally, “Done.”
+
+As you can see, using the board is easy and intuitive.
+
+Here, I assumed I would execute all these steps, but in practice, usually,
+
+the card will have different assignees.
+
+Let me wrap up this lecture by moving around some cars on our board.
+
+And, this is it!
+
+In the following lectures, let's learn how to setup up a professional Kanban board!
+
+See you there!

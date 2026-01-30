@@ -1,0 +1,75 @@
+At this point, we have discussed two common mistakes when adopting Kanban.
+
+The third one is about working on ghost tasks.
+
+And what is a ghost task?
+
+It is a task that a team member is working on but is not shown on the Kanban Board!
+
+If it's not on the board, the team can check the Work In Progress
+
+limits and loses track of key metrics such as cycle time and lead time!
+
+The classic example is whenever your boss asks you to work on something else, even
+
+though you are already assigned to work on items that are on the Kanban Board.
+
+But, you say “yes,” even though it is against the team’s policies because you
+
+are afraid of saying “no” to your boss.
+
+Your boss shouldn’t be doing this, but, unfortunately, in
+
+real life, many of them do.
+
+What to do?
+
+Your team should talk about the issue with your boss and discuss the implications
+
+of such behavior on the team’s efficiency and the value delivered to the client.
+
+And, collaboratively, you should be able to, as professionals, come up
+
+with a work agreement that will be beneficial for your organization.
+
+We are done talking about “ghost” tasks.
+
+Let’s discuss one more mistake in adopting Kanban in the following lecture.
+
+See you there!
+
+48. At this point, we have covered three common mistakes that
+
+beginners do when adopting Kanban.
+
+Let’s now discuss the fourth, and last, common mistake: ignoring
+
+the Cumulative Flow Diagram.
+
+Some beginners ignore it because it seems easier to measure performance and manage
+
+flow by looking at the Kanban Board.
+
+For example, we can see that we have a large queue forming on the Review column.
+
+However, the Kanban Board is just a snapshot of the current situation.
+
+The CFD gives you historical data, enabling the team to identify trends
+
+by analyzing the chart and visually seeing how key metrics such as the Lead
+
+Time, Cycle Time, Work in Progress, and Throughput has been changing.
+
+Thus, don’t be lazy in setting up or understanding the CFP just
+
+because you are not used to it.
+
+The CFD is as easy to understand as a pie or bar chart, you might
+
+just need a little bit of time to get more familiarized with it.
+
+Given this, keep your CFD updated, and be sure to monitor it frequently.
+
+And, this is the last common mistake in adopting Kanban that
+
+we will discuss in this course.

@@ -1,0 +1,159 @@
+Now that you have a grasp of the queue problem and Kanban, let us
+
+enter the context of real companies.
+
+This lecture will explain how the queue problem can seriously affect business performance
+
+and how Kanban fits in as an ideal solution. Imagine a digital marketing agency
+
+that helps other companies become relevant on the internet by producing content, such as articles, videos,
+
+e-books and so on. Now, imagine that this agency uses the sequence of five steps
+
+to produce each article. Initially, a card representing
+
+an article is placed on the
+
+Not Started column, meaning a new request for work has been created.
+
+For example, we have a card here for an article to be written
+
+with the theme “How to be an Inspirational Leader.”
+
+Then it goes through the stages of Write,
+
+Review, Publish, and, after it has been published,
+
+it is considered
+
+Done.
+
+The process is simple and well-defined. However,
+
+remember when we talked about the example of traffic,
+
+and I showed you possible scenarios on Paulista Avenue? We can understand
+
+this task board as an avenue where
+
+each card is a vehicle. Thus, the current state of this board is equivalent to having an avenue
+
+with just one vehicle. It is easy to manage
+
+when we only have one task,
+
+just as it is excellent to move around and open avenue! But, when we have more tasks,
+
+in this case, articles to be written, published,
+
+and so on, things can get complicated. Let us take a look at this board.
+
+As you can see, we have several tasks here.
+
+Do you think everything is alright?
+
+Is the agency efficient? Pause the video for a few seconds
+
+and think about these questions by analyzing
+
+this board, using your current knowledge.
+
+Let us analyze this scenario by starting to think in the Kanban way.
+
+The Kanban Method’s motto is:
+
+“Stop starting and start finishing.”
+
+Now that you know this, can you identify any problem with how the agency is handling the articles?
+
+Stop the video for a few seconds again and think about this question.
+
+The main problem here is that the agency
+
+is starting many tasks but not getting done with the articles.
+
+Take a look at the number of completed articles. They only got done with two articles!
+
+Now, look at the number of articles already started;
+
+we have ten articles being written,
+
+reviewed, or published.
+
+However, only identifying that we have a problem is not enough.
+
+What is the cause of the agency not being able to get done with the articles?
+
+What do you think?
+
+Clearly, the bottleneck here is in the Review column. We have six articles ready to be reviewed,
+
+but they are not being reviewed fast enough.
+
+This is the queue problem!
+
+This queue of articles to be reviewed is similar to having traffic jams
+
+or lines in the grocery store!
+
+In this case,
+
+the queue might have been formed because the agency does not have enough people to review articles.
+
+Notice that this issue seriously impairs
+
+the flow of articles as a whole; isn't it true? After all,
+
+what matters is published articles, in other words,
+
+articles in the column Done, and not how many I started,
+
+right?
+
+Not dealing with the queue problem probably causes several issues, such as waste of resources
+
+and unhappy customers, since we might take too long to handle requests.
+
+For example, this agency could potentially be publishing articles daily instead of weekly.
+
+Notice that we got all these conclusions just by looking at this task board,
+
+a simplified version
+
+of what we call a Kanban board. Even though
+
+the overall idea of handling the queue problem
+
+to promote a continuous flow of value is simple,
+
+this issue of lack of cadency might be silently happening at your business.
+
+This disease occurs in companies from the most diverse areas,
+
+including marketing, IT, product manufacturing,
+
+law firms, and so on. And how do we solve these and other inefficiencies
+
+that appear in workflows in several industry sectors?
+
+The Kanban Method is precisely the solution to guarantee a continuous and optimized flow of value,
+
+whatever value means for you. Examples include social media content,
+
+a software product, a new shoe design,
+
+giving support to customers, the specifications for constructing a building, and so on.
+
+Kanban aims to aggregate ongoing value for your customers
+
+while avoiding wasting your company's time and resources.
+
+To provide all this magic, bring fluidity, and eliminate waste in the company’s flow,
+
+the first big idea of the Kanban Method is applying
+
+the Pull System concept. “What system, Mirko?”
+
+Hang on, let’s talk about it in our following lecture..
+
+.

@@ -1,0 +1,152 @@
+In this section, we will learn more about Kanban's centerpiece:
+
+the Work In Progress limits.
+
+We have already applied WIP limits in past lectures, and you know
+
+these numbers restrict the number of cards each column may hold.
+
+The Work In Progress limits is the basis of the Pull System concept.
+
+For example, here, the Publish column has two as the Work In Progress limit,
+
+and it is full because we have two cards.
+
+Since it is full, we cannot pull this card from Review to Publish.
+
+Thus, this card will have to wait for one of the cards currently on
+
+Publish to be moved to the right.
+
+And the reasoning behind this is to avoid creating a long
+
+queue on the PUBLISH column.
+
+Looking at the REVIEW column, we have room for one more card because the limit
+
+is two cards, and we only have one.
+
+At this point, the reviewers are waiting for a card to be moved to the WRITE’s
+
+DONE subcolumn so that they can pull it.
+
+Kanban’s famous motto came from this cadency given by combining the Pull
+
+System and limiting Work in Progress:
+
+Stop starting and start finishing.
+
+This is why limiting Work in Progress is considered Kanban’s core: it makes the
+
+flow balanced and with minimal queues.
+
+At this point, you might be asking yourself: “OK.
+
+I know how to configure Work In Progress limits on KanbanTool and why limiting
+
+Work in Progress is important in Kanban.
+
+But, which limits should I use?
+
+How to get to the optimal magic numbers?”
+
+Let's answer this question by considering two scenarios.
+
+First, we have the case of defining a limit that is too high, like having
+
+the limit of five cards for review.
+
+The consequence is to accumulate cards and create queues, as shown here.
+
+Conversely, a limit that is too low, like having 1 for WRITE, might make
+
+the team members idle, which is the case here where the reviewers are
+
+waiting for more articles to be written.
+
+Given this, how do we define the Work In Progress limit for each column?
+
+There is no one-size-fits-all answer to this question.
+
+The team needs to experiment, observe the workflow's efficiency for a period such
+
+as one or two weeks, and adapt as needed.
+
+In other words, whenever you have idle team members or queues, ask yourself: was
+
+this caused by flow issues such as having bottlenecks or a bad resource allocation,
+
+or by the Work in Progress limits?
+
+Your answer will guide you in making the necessary adjustments.
+
+However, a well-accepted good starting point is to define the Work in
+
+Progress limits given the number of people available to accomplish the
+
+work in each of the board’s columns.
+
+For example, if I have two people available to review
+
+articles, then I define the limit for the REVIEW column as two.
+
+And we do the same for the remaining columns.
+
+This tip follows a well-known personal productivity rule: people tend to
+
+lose up to thirty percent of their productivity when they multitask.
+
+Thus, don’t multitask!
+
+Do one thing at a time.
+
+Of course, this is just a starting point, a simple rule of thumb.
+
+We can also consider the speed at which each card can be done.
+
+For example, reviewing an article is usually faster than writing one.
+
+Assuming it is twice as fast, we could consider having two cards
+
+per reviewer available, changing the limit from two to four.
+
+And, if we notice that the limits are unbalanced.
+
+For example, maybe changing the REVIEW’s column limit to 4 without
+
+changing the rest of the board would cause the reviewers to be idle; it
+
+could mean we have too many reviewers!
+
+We could, for example, replace one reviewer with one writer.
+
+Another edge example is when we have very short tasks,
+
+such as signing off documents.
+
+In this case, having a high Work In Progress limit for
+
+the given column is fine.
+
+In any case, the keyword here is balances.
+
+Your workflow must be balanced to minimize wait times and queues and
+
+promote a continuous delivery of value.
+
+In this lecture, we discuss why limiting the Work In Progress is a crucial step
+
+toward having an efficient workflow.
+
+In the next lecture, let's address the following questions
+
+“can we break the rules?
+
+Are there situation when it is OK to ignore the Work In
+
+Progress limits?” See you there!
+
+cảnh báo thông tin
+Lên lịch thời gian học
+Học một chút mỗi ngày sẽ giúp bạn tích lũy kiến thức. Nghiên cứu cho thấy rằng những học viên biến việc học thành thói quen sẽ có nhiều khả năng đạt được mục tiêu hơn. Hãy dành thời gian để học và nhận lời nhắc bằng cách sử dụng trình lên lịch học tập.
+Undoubtedly, the most complete: Kanban, Scrum, Scrumban, GTD and
